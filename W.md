@@ -1,5 +1,11 @@
 # W
 
+## Table of Contents
+
+- [Woody Allen](#woody-allen)
+
+---
+
 ### Woody Allen
 *Category: celebrity*
 

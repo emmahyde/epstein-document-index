@@ -1,5 +1,15 @@
 # L
 
+## Table of Contents
+
+- [Lawrence Visoski](#lawrence-visoski)
+- [Leon Black](#leon-black)
+- [Les Wexner](#les-wexner)
+- [Lesley Groff](#lesley-groff)
+- [Little St. James](#little-st-james)
+
+---
+
 ### Lawrence Visoski
 *Category: employee*
 

@@ -1,5 +1,11 @@
 # I
 
+## Table of Contents
+
+- [Ivanka Trump](#ivanka-trump)
+
+---
+
 ### Ivanka Trump
 *Category: political*
 

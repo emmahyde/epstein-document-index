@@ -1,5 +1,13 @@
 # R
 
+## Table of Contents
+
+- [Reid Hoffman](#reid-hoffman)
+- [Richard Kahn](#richard-kahn)
+- [Roy Black](#roy-black)
+
+---
+
 ### Reid Hoffman
 *Category: tech*
 

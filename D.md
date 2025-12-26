@@ -1,5 +1,16 @@
 # D
 
+## Table of Contents
+
+- [Darren Indyke](#darren-indyke)
+- [David Boies](#david-boies)
+- [David Rodgers](#david-rodgers)
+- [Deutsche Bank](#deutsche-bank)
+- [DOJ](#doj)
+- [Donald Trump](#donald-trump)
+
+---
+
 ### Darren Indyke
 *Category: employee*
 

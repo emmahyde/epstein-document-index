@@ -1,5 +1,15 @@
 # B
 
+## Table of Contents
+
+- [Barack Obama](#barack-obama)
+- [Bill Clinton](#bill-clinton)
+- [Bill Gates](#bill-gates)
+- [Boies Schiller Flexner](#boies-schiller-flexner)
+- [Brad Edwards](#brad-edwards)
+
+---
+
 ### Barack Obama
 *Category: political*
 

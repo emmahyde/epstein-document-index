@@ -1,5 +1,11 @@
 # V
 
+## Table of Contents
+
+- [Virginia Giuffre](#virginia-giuffre)
+
+---
+
 ### Virginia Giuffre
 *Category: victim_witness*
 

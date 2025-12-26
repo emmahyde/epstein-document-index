@@ -1,5 +1,16 @@
 # G
 
+## Table of Contents
+
+- [Geoffrey Berman](#geoffrey-berman)
+- [George Stephanopoulos](#george-stephanopoulos)
+- [Ghislaine Maxwell](#ghislaine-maxwell)
+- [Glenn Dubin](#glenn-dubin)
+- [Gloria Allred](#gloria-allred)
+- [Great St. James](#great-st-james)
+
+---
+
 ### Geoffrey Berman
 *Category: government*
 

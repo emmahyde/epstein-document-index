@@ -1,5 +1,19 @@
 # J
 
+## Table of Contents
+
+- [Jared Kushner](#jared-kushner)
+- [Jay Lefkowitz](#jay-lefkowitz)
+- [Jean-Luc Brunel](#jean-luc-brunel)
+- [Jeffrey Epstein](#jeffrey-epstein)
+- [JEGE Inc.](#jege-inc)
+- [JEGE LLC](#jege-llc)
+- [Jes Staley](#jes-staley)
+- [Joi Ito](#joi-ito)
+- [JPMorgan Chase](#jpmorgan-chase)
+
+---
+
 ### Jared Kushner
 *Category: political*
 
