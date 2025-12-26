@@ -6,20 +6,7 @@
 
 *Category: shell_company*
 
-**Documents (10):**
-- [EFTA00010702](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010702.pdf)
-- [EFTA00017875](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017875.pdf)
-- [EFTA00021666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021666.pdf)
-- [EFTA00021675](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021675.pdf)
-- [EFTA00022855](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022855.pdf)
-- [EFTA00023437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023437.pdf)
-- [EFTA00027585](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027585.pdf)
-- [EFTA00037645](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037645.pdf)
-- [EFTA00037862](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037862.pdf)
-- [EFTA00037891](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037891.pdf)
-
-
-**Document Details:**
+**Document Details (10):**
 
 | Doc ID | Type | Title/Subject | Context | Cross-Refs | From | To |
 |--------|------|---------------|---------|------------|------|-----|

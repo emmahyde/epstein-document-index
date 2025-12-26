@@ -12,72 +12,7 @@
 
 **Emails:** RBLACK@royblack.com
 
-**Documents (62):**
-- [EFTA00007157](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007157.pdf)
-- [EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf)
-- [EFTA00009229](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009229.pdf)
-- [EFTA00009329](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009329.pdf)
-- [EFTA00013258](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013258.pdf)
-- [EFTA00013538](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013538.pdf)
-- [EFTA00013569](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013569.pdf)
-- [EFTA00013586](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013586.pdf)
-- [EFTA00013587](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013587.pdf)
-- [EFTA00013608](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013608.pdf)
-- [EFTA00013706](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013706.pdf)
-- [EFTA00013708](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013708.pdf)
-- [EFTA00013758](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013758.pdf)
-- [EFTA00013828](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013828.pdf)
-- [EFTA00013831](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013831.pdf)
-- [EFTA00013838](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013838.pdf)
-- [EFTA00013844](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013844.pdf)
-- [EFTA00013858](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013858.pdf)
-- [EFTA00013865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013865.pdf)
-- [EFTA00013871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013871.pdf)
-- [EFTA00013877](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013877.pdf)
-- [EFTA00013878](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013878.pdf)
-- [EFTA00013905](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013905.pdf)
-- [EFTA00013910](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013910.pdf)
-- [EFTA00013923](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013923.pdf)
-- [EFTA00013943](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013943.pdf)
-- [EFTA00013949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013949.pdf)
-- [EFTA00013954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013954.pdf)
-- [EFTA00013959](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013959.pdf)
-- [EFTA00013961](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013961.pdf)
-- [EFTA00013963](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013963.pdf)
-- [EFTA00013964](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013964.pdf)
-- [EFTA00013968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013968.pdf)
-- [EFTA00013996](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013996.pdf)
-- [EFTA00013999](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013999.pdf)
-- [EFTA00014005](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014005.pdf)
-- [EFTA00014038](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014038.pdf)
-- [EFTA00014060](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014060.pdf)
-- [EFTA00014075](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014075.pdf)
-- [EFTA00014100](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014100.pdf)
-- [EFTA00014104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014104.pdf)
-- [EFTA00014107](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014107.pdf)
-- [EFTA00014109](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014109.pdf)
-- [EFTA00014110](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014110.pdf)
-- [EFTA00014117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014117.pdf)
-- [EFTA00014122](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014122.pdf)
-- [EFTA00014124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014124.pdf)
-- [EFTA00014127](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014127.pdf)
-- [EFTA00014144](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014144.pdf)
-- [EFTA00014150](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014150.pdf)
-- [EFTA00014151](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014151.pdf)
-- [EFTA00014152](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014152.pdf)
-- [EFTA00014158](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014158.pdf)
-- [EFTA00014170](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014170.pdf)
-- [EFTA00014172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014172.pdf)
-- [EFTA00014177](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014177.pdf)
-- [EFTA00014178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014178.pdf)
-- [EFTA00014496](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014496.pdf)
-- [EFTA00020711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020711.pdf)
-- [EFTA00021512](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021512.pdf)
-- [EFTA00026834](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026834.pdf)
-- [EFTA00029390](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029390.pdf)
-
-
-**Document Details:**
+**Document Details (62):**
 
 | Doc ID | Type | Title/Subject | Context | Cross-Refs | From | To |
 |--------|------|---------------|---------|------------|------|-----|
@@ -87,8 +22,8 @@
 | [EFTA00009329](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009329.pdf) | Document | carefully -- the -- each -- each victim was tied to a | ...tle 3 bit. One of the defense attorneys who was present there in 4 addition to Gerald Lefcourt, R... | None | N/A | N/A |
 | [EFTA00013258](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013258.pdf) | Email | Re: Epstein SW returns | ...communications (emails and reports)from private investigators— among others, an investigator name... | None | ' | , |
 | [EFTA00013538](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013538.pdf) | Document | U. | ...an earlier EFTA00013540 JAY P. LEFKOWITZ, ESQ. DECEMBER 11, 2007 PAGE 4 OF 5 meeting, where Mr. B... | None | N/A | N/A |
-| [EFTA00013569](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013569.pdf) | Email | Notification of Possible Compelled Disclosure of the Non-Prosecution Agreement | ============================================================ From: To: "Roy BLACK" Cc: Subject: Noti... | None | [To: "Roy BLACK"](/L/LEON-BLACK.md) | ["Roy BLACK"](/L/LEON-BLACK.md) |
-| [EFTA00013586](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013586.pdf) | Email | Tein's Reply Brief in the Epstein civil litigation | ...ighly unusual and unprecedented deferred-prosecution agreement." I still have not heard back from... | None | " | ["Acosta, Alex (USAFLS)"](/A/ALEXANDER-ACOSTA.md) |
+| [EFTA00013569](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013569.pdf) | Email | Notification of Possible Compelled Disclosure of the Non-Prosecution Agreement | ============================================================ From: To: "Roy BLACK" Cc: Subject: Noti... | None | To: "Roy BLACK" | "Roy BLACK" |
+| [EFTA00013586](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013586.pdf) | Email | Tein's Reply Brief in the Epstein civil litigation | ...ighly unusual and unprecedented deferred-prosecution agreement." I still have not heard back from... | None | " | "Acosta, Alex (USAFLS)" |
 | [EFTA00013587](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013587.pdf) | Legal Filing | U. | ...Esq. Kirkland & Ellis LLP Citigroup Center 153 East 53rd Street New York, New York 10022-4675 Roy... | None | N/A | N/A |
 | [EFTA00013608](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013608.pdf) | Email | Hearing re Epstein's Computer Equipment | ...om today) at 9:00. The witness is due to appear before the grand jury that afternoon. I am callin... | None | To: | Cc: |
 | [EFTA00013706](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013706.pdf) | Email | RE: Epstein | ...g are no strangers to nearly the entire Epstein defense team including Guy Lewis, Lili Ann Sanche... | None | " | " |
@@ -97,21 +32,21 @@
 | [EFTA00013828](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013828.pdf) | Email | RE: Epstein | ...(USAFLS) Subject: RE: Epstein EFTA00013828 From your standpoint I am pretty confident it is over.... | None | "MM | (USAFLS)" < |
 | [EFTA00013831](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013831.pdf) | Email | Hearing with Judge Marra | ...========================== From: " . (USAFLS)" </O=USA/OU=FLS/CN=RECIPIENTS/CN > To: " " <M >, "R... | None | " | " |
 | [EFTA00013838](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013838.pdf) | Document | [Incremental Save Detected] 3 EOF markers found | ...================================================== From: . a> Subject: Read: Epstein -- Call with... | None | . | N/A |
-| [EFTA00013844](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013844.pdf) | Email | Read: Draft e-mail to Roy Black re Epstein | ...======================================================= From: To: Subject: Read: Draft e-mail to ... | None | To: | [Subject: Read: Draft e-mail to Roy Black re Epstein](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00013844](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013844.pdf) | Email | Read: Draft e-mail to Roy Black re Epstein | ...======================================================= From: To: Subject: Read: Draft e-mail to ... | None | To: | Subject: Read: Draft e-mail to Roy Black re Epstein |
 | [EFTA00013858](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013858.pdf) | Document | Document | ...ressing matters to deal with than a transfer of a state community control matter. RB/wg Very 1 Ro... | None | N/A | N/A |
-| [EFTA00013865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013865.pdf) | Email | RE: FW: Jeffrey Epstein | ...0 Importance: Normal yes. Hi Roy -- Is this the best number to call? --Original Message-- From: R... | None | [Ro BLACK](/L/LEON-BLACK.md) | [Subject: RE: FW: Jeffrey Epstein](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00013871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013871.pdf) | Email | RE: Jeff Epstein | ...om DC anytime for the green light.(They said Wed, right?) Sounds like u had a interesting call wi... | None | (USAFLS)" alMIN> | [(FBI)" ca](/F/FBI.md) |
-| [EFTA00013877](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013877.pdf) | Email | Jeffrey Epstein | ============================================================ From: To: Roy BLACK <RBLACK@royblack.co... | None | [To: Roy BLACK <RBLACK@royblack.com>, Jack Goldberger <jgoldb](/L/LEON-BLACK.md) | [Roy BLACK <RBLACK@royblack.com>, Jack Goldberger <jgoldberge](/L/LEON-BLACK.md) |
+| [EFTA00013865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013865.pdf) | Email | RE: FW: Jeffrey Epstein | ...0 Importance: Normal yes. Hi Roy -- Is this the best number to call? --Original Message-- From: R... | None | Ro BLACK | Subject: RE: FW: Jeffrey Epstein |
+| [EFTA00013871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013871.pdf) | Email | RE: Jeff Epstein | ...om DC anytime for the green light.(They said Wed, right?) Sounds like u had a interesting call wi... | None | (USAFLS)" alMIN> | (FBI)" ca |
+| [EFTA00013877](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013877.pdf) | Email | Jeffrey Epstein | ============================================================ From: To: Roy BLACK <RBLACK@royblack.co... | None | To: Roy BLACK <RBLACK@royblack.com>, Jack Goldberger <jgoldb | Roy BLACK <RBLACK@royblack.com>, Jack Goldberger <jgoldberge |
 | [EFTA00013878](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013878.pdf) | Legal Filing | U. | ...ER ACOSTA UNITED STATES ATTORNEY Dated: By: I have received this Notification from my attorney, R... | None | N/A | N/A |
 | [EFTA00013905](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013905.pdf) | Legal Filing | Pursuant to the Agreement between the United States Attorney's Office for the Southern District of | ...STATES ATTORNEY Dated: By: ACKNOWLEDGEMENT I have received this Notification from my attorney, Ro... | None | N/A | N/A |
 | [EFTA00013910](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013910.pdf) | Document | U. | ...MILE Jack A. Goldberger, Esq. Atterburv, oldber er & Weiss, P.A. West Palm Beach, FL 33401-5015 R... | None | N/A | N/A |
-| [EFTA00013923](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013923.pdf) | Email | FW: Jeffrey Epstein Agreement | ...thy e-mail. Assistant U.S. Attorney Phone Fax From: Sent: uesday, June 24, 2008 4:05 PM To: 'Roy ... | None | [To: "Acosta, Alex USAFLS)" <AAcosta@usa.do'. ov>,](/A/ALEXANDER-ACOSTA.md) | ["Acosta, Alex USAFLS)" <AAcosta@usa.do'. ov>,](/A/ALEXANDER-ACOSTA.md) |
+| [EFTA00013923](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013923.pdf) | Email | FW: Jeffrey Epstein Agreement | ...thy e-mail. Assistant U.S. Attorney Phone Fax From: Sent: uesday, June 24, 2008 4:05 PM To: 'Roy ... | None | To: "Acosta, Alex USAFLS)" <AAcosta@usa.do'. ov>, | "Acosta, Alex USAFLS)" <AAcosta@usa.do'. ov>, |
 | [EFTA00013943](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013943.pdf) | Email | Jeffrey Epstein | ============================================================ From: " (USAFLS)" aMIIM> To: :r >, Roy ... | None | " | :r |
 | [EFTA00013949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013949.pdf) | Document | U. | ...Esq. Kirkland & Ellis LLP Citigroup Center 153 East 53rd Street New York, New York 10022-4675 Roy... | None | N/A | N/A |
 | [EFTA00013954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013954.pdf) | Email | RE: Epstein Items | ..., that you were writing a letter, which I would mirror, etc. To my knowledge he has not heard fro... | None | "KATHERINE W. EZELL" <I | ' |
-| [EFTA00013959](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013959.pdf) | Email | Re: Jeffrey Epstein | ============================================================ From: Roy BLACK To: ' (USAFLS)" Subject... | None | [Roy BLACK](/L/LEON-BLACK.md) | ' |
-| [EFTA00013961](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013961.pdf) | Email | RE: Jeffrey Epstein | ============================================================ From: ' (USAFLS)" To: Roy BLACK 5 Cc: (... | None | ' | [Roy BLACK 5](/L/LEON-BLACK.md) |
-| [EFTA00013963](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013963.pdf) | Email | Re: Jeffrey Epstein | ============================================================ From: Roy BLACK To: ' (USAFLS)" Subject... | None | [Roy BLACK](/L/LEON-BLACK.md) | ' |
+| [EFTA00013959](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013959.pdf) | Email | Re: Jeffrey Epstein | ============================================================ From: Roy BLACK To: ' (USAFLS)" Subject... | None | Roy BLACK | ' |
+| [EFTA00013961](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013961.pdf) | Email | RE: Jeffrey Epstein | ============================================================ From: ' (USAFLS)" To: Roy BLACK 5 Cc: (... | None | ' | Roy BLACK 5 |
+| [EFTA00013963](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013963.pdf) | Email | Re: Jeffrey Epstein | ============================================================ From: Roy BLACK To: ' (USAFLS)" Subject... | None | Roy BLACK | ' |
 | [EFTA00013964](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013964.pdf) | Email | FW: Jeffrey Epstein | ...S. Australian Ave, Suite 400 West Palm Beach, FL 33401 Phone Fax ----Original Message--- From: Ro... | None | ' | ' |
 | [EFTA00013968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013968.pdf) | Email | pstein ase | ...008 20:44:52 +0000 Importance: Normal Dear= I just wanted to let you know that and I spoke with R... | None | To: | Cc: |
 | [EFTA00013996](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013996.pdf) | Document | I put in a call to Roy Black this morning. | ...Epstein Date: Wed, 18 Jun 2008 16:06:43 +0000 Importance: Normal Hi guys and I put in a call to R... | None | N/A | N/A |
@@ -119,25 +54,25 @@
 | [EFTA00014005](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014005.pdf) | Document | Office of the United States Attorney | ...y way. Until then, I remain, Very truly yours, • Michael R. rein • cc: Jack Goldberger, Esq. Roy ... | None | FAXmaker | N/A |
 | [EFTA00014038](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014038.pdf) | Email | FW: Jeffrey Epstein | ...alian Ave, Suite 400 West Palm Beach FL 33401 Phone Fax 561 820-8777 --Original Message-- From: R... | None | To: | Bcc: |
 | [EFTA00014060](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014060.pdf) | Email | Re: Jane Does v. United States | ...================================================== From: Jay Lefl«miti To: alliff (USAFLS)" a, "R... | None | Jay Lefl«miti | alliff |
-| [EFTA00014075](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014075.pdf) | Email | RE: Jeffrey Epstein | ============================================================ From: "- To: Roy BLACK <I Bcc: "- Subje... | None | "- | [Roy BLACK <I](/L/LEON-BLACK.md) |
+| [EFTA00014075](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014075.pdf) | Email | RE: Jeffrey Epstein | ============================================================ From: "- To: Roy BLACK <I Bcc: "- Subje... | None | "- | Roy BLACK <I |
 | [EFTA00014100](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014100.pdf) | Email | RE: Notice of Non-Compliance CONFIDENTIAL | ...uhem District of Florida. Jack Goldberger From Sent: Fri 6/27/2008 5:45 PM To: Jack Goldberger; R... | None | To: | Sec: |
 | [EFTA00014104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014104.pdf) | Email | RE: Notice of Non-Compliance | ...the USAO for the Souhem District of Florida. Jack Goldberger From: Sent: n To: Jack Goldberger; R... | None | Jack Goldberger lIMINIMM> | ' |
 | [EFTA00014107](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014107.pdf) | Email | RE: Jeffrey Epstein | ...S. Australian Ave, Suite 400 West Palm Beach, FL 33401 Phone Fax ----Original Message---- From: R... | None | ' | ' |
 | [EFTA00014109](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014109.pdf) | Email | RE: Jeffrey Epstein Agreement | ...y Epstein Agreement Let's talk about going to the COP ---- Original Message From: (USAFLS) To: Ro... | None | (USAFLS)" alMIN> | (USAFLS)" alMIN> |
 | [EFTA00014110](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014110.pdf) | Document | U. | ...ment of Justice United States Attorney Southern District of Florida DELIVERY BY ELECTRONIC MAIL R... | None | N/A | N/A |
-| [EFTA00014117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014117.pdf) | Email | RE: Jeffrey Epstein | ============================================================ From: ' (USAFLS)" To: Roy BLACK Bcc: ' ... | None | ' | [Roy BLACK](/L/LEON-BLACK.md) |
+| [EFTA00014117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014117.pdf) | Email | RE: Jeffrey Epstein | ============================================================ From: ' (USAFLS)" To: Roy BLACK Bcc: ' ... | None | ' | Roy BLACK |
 | [EFTA00014122](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014122.pdf) | Email | Re: Notice of Non-Compliance | ...ouhem District of Florida. Jack Goldberger From Sent: Fri 6/27/2008 5:45 PM To: Jack Goldbe er; R... | None | To: | Cc: |
-| [EFTA00014124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014124.pdf) | Email | RE: Jeffrey Epstein | ============================================================ From: "- To: Roy BLACK <I Bcc: "- Subje... | None | "- | [Roy BLACK <I](/L/LEON-BLACK.md) |
-| [EFTA00014127](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014127.pdf) | Email | Re: Jeffrey Epstein | ============================================================ From: Roy BLACK To: (USAFLS)" Subject: ... | None | [Roy BLACK](/L/LEON-BLACK.md) | (USAFLS)" |
+| [EFTA00014124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014124.pdf) | Email | RE: Jeffrey Epstein | ============================================================ From: "- To: Roy BLACK <I Bcc: "- Subje... | None | "- | Roy BLACK <I |
+| [EFTA00014127](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014127.pdf) | Email | Re: Jeffrey Epstein | ============================================================ From: Roy BLACK To: (USAFLS)" Subject: ... | None | Roy BLACK | (USAFLS)" |
 | [EFTA00014144](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014144.pdf) | Legal Filing | U. | ...Esq. Kirkland & Ellis LLP Citigroup Center 153 East 53rd Street New York, New York 10022-4675 Roy... | None | N/A | N/A |
-| [EFTA00014150](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014150.pdf) | Email | Re: Epstein | ...nce: Normal Thank you for taking the time to meet with us yesterday. ---- Original Message From: ... | None | [To: "RBlack](/L/LEON-BLACK.md) | ["RBlack](/L/LEON-BLACK.md) |
-| [EFTA00014151](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014151.pdf) | Email | RE: Jeffrey Epstein | ...ything back? From: Villafana, Ann Marie C. (USAFLS) Sent: Monday, November 24, 2008 12:29 PM To: ... | None | To: | [Subject: RE: Jeffrey Epstein](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00014150](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014150.pdf) | Email | Re: Epstein | ...nce: Normal Thank you for taking the time to meet with us yesterday. ---- Original Message From: ... | None | To: "RBlack | "RBlack |
+| [EFTA00014151](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014151.pdf) | Email | RE: Jeffrey Epstein | ...ything back? From: Villafana, Ann Marie C. (USAFLS) Sent: Monday, November 24, 2008 12:29 PM To: ... | None | To: | Subject: RE: Jeffrey Epstein |
 | [EFTA00014152](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014152.pdf) | Email | Date: | ...=============================== From: To: Cc: Bcc: Subject: Date: Importance: Attachments: Roy BL... | None | To: | Cc: |
 | [EFTA00014158](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014158.pdf) | Email | Re: Jeffrey Epstein Agreement | ...ey Epstein Agreement Let's talk about going to the COP --- Original Message From: (USAFLS) To: Ro... | None | (USAFLS)" alMIN> | (USAFLS)" alMIN> |
-| [EFTA00014170](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014170.pdf) | Email | Jeffrey Epstein | ============================================================ From: "Roy BLACK" To: Subject: Jeffrey ... | None | ["Roy BLACK"](/L/LEON-BLACK.md) | [Subject: Jeffrey Epstein](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00014170](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014170.pdf) | Email | Jeffrey Epstein | ============================================================ From: "Roy BLACK" To: Subject: Jeffrey ... | None | "Roy BLACK" | Subject: Jeffrey Epstein |
 | [EFTA00014172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014172.pdf) | Email | Your inquiry regarding the Epstein case | ...aking any disclosure — even a compulsory disclosure. I am cc'ing you on a letter to Jay Lefkowitz... | None | N/A | "Barry Krischer" |
 | [EFTA00014177](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014177.pdf) | Email | FW: Jeffrey Epstein -- Letter from Roy Black | ...===================================== From: To: Cc: Subject: FW: Jeffrey Epstein -- Letter from R... | None | To: | Cc: |
-| [EFTA00014178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014178.pdf) | Legal Filing | Assistant United States Attorney | ============================================================ ROY BLACK HOWARD M. SREBNICK Saint A. K... | None | N/A | N/A |
+| [EFTA00014178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014178.pdf) | Legal Filing | Document | ============================================================ ROY BLACK HOWARD M. SREBNICK Saint A. K... | None | N/A | N/A |
 | [EFTA00014496](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014496.pdf) | Email | RE: Requested Info | ...wife and kids in Costa Rica, mojito (I am guessing) in hand: LAWYERS FOR EPSTEIN: ALAN DERSHOWITZ... | None | To: | Cc: ' |
 | [EFTA00020711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020711.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 329-1 Entered on FLSD Docket 06/23/2015 Page 1 of 18 | ...-013972 5/18/2007 email from Marie Villafaila to Matt Menchel informing him of intent to subpoena... | None | N/A | N/A |
 | [EFTA00021512](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021512.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 468 Entered on FLSD Docket 07/24/2019 Page 1 of 5 | ...the Petitioners, who advises that the Petitioners will likely object. Respectfully submitted, /s/... | None | N/A | N/A |

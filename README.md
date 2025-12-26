@@ -35,7 +35,7 @@ This repository contains an indexed reference of entities, organizations, and in
 - [David Rodgers](D/DAVID-RODGERS.md)
 - [Deutsche Bank](D/DEUTSCHE-BANK.md)
 - [DOJ](D/DOJ.md)
-- ... and 1 more
+- [Donald Trump](D/DONALD-TRUMP.md)
 
 ### [E](E/README.md)
 
@@ -56,7 +56,7 @@ This repository contains an indexed reference of entities, organizations, and in
 - [Ghislaine Maxwell](G/GHISLAINE-MAXWELL.md)
 - [Glenn Dubin](G/GLENN-DUBIN.md)
 - [Gloria Allred](G/GLORIA-ALLRED.md)
-- ... and 1 more
+- [Great St. James](G/GREAT-ST-JAMES.md)
 
 ### [H](H/README.md)
 
@@ -76,7 +76,10 @@ This repository contains an indexed reference of entities, organizations, and in
 - [Jean-Luc Brunel](J/JEANLUC-BRUNEL.md)
 - [Jeffrey Epstein](J/JEFFREY-EPSTEIN.md)
 - [JEGE Inc.](J/JEGE-INC.md)
-- ... and 4 more
+- [JEGE LLC](J/JEGE-LLC.md)
+- [Jes Staley](J/JES-STALEY.md)
+- [Joi Ito](J/JOI-ITO.md)
+- [JPMorgan Chase](J/JPMORGAN-CHASE.md)
 
 ### [K](K/README.md)
 
@@ -98,7 +101,6 @@ This repository contains an indexed reference of entities, organizations, and in
 - [Marc A. Weinstein](M/MARC-A-WEINSTEIN.md)
 - [Matt Lauer](M/MATT-LAUER.md)
 - [Maurene Comey](M/MAURENE-COMEY.md)
-- [Mohammed bin Salman](M/MOHAMMED-BIN-SALMAN.md)
 
 ### [N](N/README.md)
 
@@ -123,7 +125,10 @@ This repository contains an indexed reference of entities, organizations, and in
 - [SDFL](S/SDFL.md)
 - [SDNY](S/SDNY.md)
 - [Shmitka Air Inc.](S/SHMITKA-AIR-INC.md)
-- ... and 4 more
+- [Sigrid McCawley](S/SIGRID-MCCAWLEY.md)
+- [Southern Trust Company](S/SOUTHERN-TRUST-COMPANY.md)
+- [Stephen Hawking](S/STEPHEN-HAWKING.md)
+- [Steve Bannon](S/STEVE-BANNON.md)
 
 ### [V](V/README.md)
 
@@ -137,7 +142,7 @@ This repository contains an indexed reference of entities, organizations, and in
 
 ## Statistics
 
-- **Total Entities:** 74
+- **Total Entities:** 73
 - **Letters Covered:** 19
 
 **Note:** See [NEEDS_REVIEW.md](NEEDS_REVIEW.md) for entities with ambiguous name matches that may require verification.

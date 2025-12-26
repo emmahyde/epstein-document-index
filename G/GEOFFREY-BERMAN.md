@@ -10,377 +10,28 @@
 
 **Companies:** SDNY
 
-**Documents (346):**
-- [EFTA00005718](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf)
-- [EFTA00005740](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005740.pdf)
-- [EFTA00005924](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005924.pdf)
-- [EFTA00009658](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009658.pdf)
-- [EFTA00009747](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009747.pdf)
-- [EFTA00009809](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009809.pdf)
-- [EFTA00009941](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009941.pdf)
-- [EFTA00010135](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010135.pdf)
-- [EFTA00010331](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010331.pdf)
-- [EFTA00010421](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010421.pdf)
-- [EFTA00010422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010422.pdf)
-- [EFTA00010435](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010435.pdf)
-- [EFTA00010454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010454.pdf)
-- [EFTA00010465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010465.pdf)
-- [EFTA00010580](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010580.pdf)
-- [EFTA00010581](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010581.pdf)
-- [EFTA00010582](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010582.pdf)
-- [EFTA00010724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010724.pdf)
-- [EFTA00010786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010786.pdf)
-- [EFTA00010819](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010819.pdf)
-- [EFTA00010968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010968.pdf)
-- [EFTA00011024](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011024.pdf)
-- [EFTA00011025](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011025.pdf)
-- [EFTA00011026](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011026.pdf)
-- [EFTA00011035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011035.pdf)
-- [EFTA00011051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011051.pdf)
-- [EFTA00011510](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011510.pdf)
-- [EFTA00011520](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011520.pdf)
-- [EFTA00013180](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013180.pdf)
-- [EFTA00013458](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013458.pdf)
-- [EFTA00014243](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014243.pdf)
-- [EFTA00014263](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014263.pdf)
-- [EFTA00014326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014326.pdf)
-- [EFTA00014330](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014330.pdf)
-- [EFTA00014334](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014334.pdf)
-- [EFTA00014345](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014345.pdf)
-- [EFTA00014471](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014471.pdf)
-- [EFTA00014482](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014482.pdf)
-- [EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf)
-- [EFTA00014514](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014514.pdf)
-- [EFTA00014518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014518.pdf)
-- [EFTA00014546](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014546.pdf)
-- [EFTA00014560](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014560.pdf)
-- [EFTA00014606](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014606.pdf)
-- [EFTA00014629](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014629.pdf)
-- [EFTA00014638](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014638.pdf)
-- [EFTA00014641](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014641.pdf)
-- [EFTA00014982](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014982.pdf)
-- [EFTA00014985](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014985.pdf)
-- [EFTA00015132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015132.pdf)
-- [EFTA00015297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015297.pdf)
-- [EFTA00015298](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015298.pdf)
-- [EFTA00015299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015299.pdf)
-- [EFTA00015301](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015301.pdf)
-- [EFTA00015326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015326.pdf)
-- [EFTA00015345](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015345.pdf)
-- [EFTA00015348](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015348.pdf)
-- [EFTA00015350](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf)
-- [EFTA00015361](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015361.pdf)
-- [EFTA00015438](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015438.pdf)
-- [EFTA00015529](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015529.pdf)
-- [EFTA00015532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015532.pdf)
-- [EFTA00015606](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015606.pdf)
-- [EFTA00015632](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015632.pdf)
-- [EFTA00015634](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015634.pdf)
-- [EFTA00015661](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015661.pdf)
-- [EFTA00016124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016124.pdf)
-- [EFTA00016136](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016136.pdf)
-- [EFTA00016172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016172.pdf)
-- [EFTA00016324](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016324.pdf)
-- [EFTA00016593](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016593.pdf)
-- [EFTA00016596](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016596.pdf)
-- [EFTA00016733](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016733.pdf)
-- [EFTA00016743](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016743.pdf)
-- [EFTA00016748](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016748.pdf)
-- [EFTA00016805](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016805.pdf)
-- [EFTA00016810](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016810.pdf)
-- [EFTA00016812](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016812.pdf)
-- [EFTA00016822](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016822.pdf)
-- [EFTA00017042](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017042.pdf)
-- [EFTA00017125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017125.pdf)
-- [EFTA00017743](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017743.pdf)
-- [EFTA00017761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017761.pdf)
-- [EFTA00017765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017765.pdf)
-- [EFTA00017788](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017788.pdf)
-- [EFTA00017909](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017909.pdf)
-- [EFTA00017912](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017912.pdf)
-- [EFTA00017915](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017915.pdf)
-- [EFTA00017935](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017935.pdf)
-- [EFTA00017953](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017953.pdf)
-- [EFTA00017955](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017955.pdf)
-- [EFTA00018155](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018155.pdf)
-- [EFTA00018162](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018162.pdf)
-- [EFTA00018169](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018169.pdf)
-- [EFTA00018172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018172.pdf)
-- [EFTA00018183](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018183.pdf)
-- [EFTA00018270](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018270.pdf)
-- [EFTA00018272](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018272.pdf)
-- [EFTA00018384](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018384.pdf)
-- [EFTA00018441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf)
-- [EFTA00018466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf)
-- [EFTA00018542](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018542.pdf)
-- [EFTA00018543](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018543.pdf)
-- [EFTA00018556](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018556.pdf)
-- [EFTA00018557](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018557.pdf)
-- [EFTA00018618](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018618.pdf)
-- [EFTA00018735](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018735.pdf)
-- [EFTA00018859](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018859.pdf)
-- [EFTA00018866](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018866.pdf)
-- [EFTA00018867](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018867.pdf)
-- [EFTA00018874](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018874.pdf)
-- [EFTA00018899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018899.pdf)
-- [EFTA00018920](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018920.pdf)
-- [EFTA00018922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018922.pdf)
-- [EFTA00018944](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018944.pdf)
-- [EFTA00018948](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018948.pdf)
-- [EFTA00018955](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018955.pdf)
-- [EFTA00018968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018968.pdf)
-- [EFTA00019112](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019112.pdf)
-- [EFTA00019246](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019246.pdf)
-- [EFTA00019464](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019464.pdf)
-- [EFTA00019687](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019687.pdf)
-- [EFTA00019750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019750.pdf)
-- [EFTA00019831](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019831.pdf)
-- [EFTA00019885](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019885.pdf)
-- [EFTA00019961](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019961.pdf)
-- [EFTA00019966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019966.pdf)
-- [EFTA00019971](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019971.pdf)
-- [EFTA00019976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019976.pdf)
-- [EFTA00019981](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019981.pdf)
-- [EFTA00019988](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019988.pdf)
-- [EFTA00019990](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019990.pdf)
-- [EFTA00019994](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019994.pdf)
-- [EFTA00020085](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020085.pdf)
-- [EFTA00020090](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020090.pdf)
-- [EFTA00020165](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020165.pdf)
-- [EFTA00020185](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020185.pdf)
-- [EFTA00020203](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020203.pdf)
-- [EFTA00020766](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020766.pdf)
-- [EFTA00020846](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020846.pdf)
-- [EFTA00020850](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020850.pdf)
-- [EFTA00020947](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020947.pdf)
-- [EFTA00021012](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021012.pdf)
-- [EFTA00021196](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021196.pdf)
-- [EFTA00021252](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021252.pdf)
-- [EFTA00021268](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021268.pdf)
-- [EFTA00021269](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021269.pdf)
-- [EFTA00021273](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021273.pdf)
-- [EFTA00021295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021295.pdf)
-- [EFTA00021297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021297.pdf)
-- [EFTA00021402](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021402.pdf)
-- [EFTA00021414](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021414.pdf)
-- [EFTA00021424](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021424.pdf)
-- [EFTA00021425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021425.pdf)
-- [EFTA00021529](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021529.pdf)
-- [EFTA00021547](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021547.pdf)
-- [EFTA00021651](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021651.pdf)
-- [EFTA00021988](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021988.pdf)
-- [EFTA00022062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022062.pdf)
-- [EFTA00022086](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022086.pdf)
-- [EFTA00022132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022132.pdf)
-- [EFTA00022146](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022146.pdf)
-- [EFTA00022173](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022173.pdf)
-- [EFTA00022522](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022522.pdf)
-- [EFTA00022535](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022535.pdf)
-- [EFTA00022629](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022629.pdf)
-- [EFTA00022630](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022630.pdf)
-- [EFTA00022631](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022631.pdf)
-- [EFTA00022980](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022980.pdf)
-- [EFTA00023106](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023106.pdf)
-- [EFTA00023292](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023292.pdf)
-- [EFTA00023326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023326.pdf)
-- [EFTA00023409](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023409.pdf)
-- [EFTA00023773](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023773.pdf)
-- [EFTA00023783](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023783.pdf)
-- [EFTA00023791](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023791.pdf)
-- [EFTA00023802](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023802.pdf)
-- [EFTA00023804](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023804.pdf)
-- [EFTA00023929](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023929.pdf)
-- [EFTA00023968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023968.pdf)
-- [EFTA00023969](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023969.pdf)
-- [EFTA00023979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023979.pdf)
-- [EFTA00023982](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023982.pdf)
-- [EFTA00024002](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024002.pdf)
-- [EFTA00024003](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024003.pdf)
-- [EFTA00024007](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024007.pdf)
-- [EFTA00024250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024250.pdf)
-- [EFTA00024257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024257.pdf)
-- [EFTA00024400](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024400.pdf)
-- [EFTA00024426](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024426.pdf)
-- [EFTA00024431](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024431.pdf)
-- [EFTA00024584](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024584.pdf)
-- [EFTA00024704](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024704.pdf)
-- [EFTA00024713](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024713.pdf)
-- [EFTA00024714](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024714.pdf)
-- [EFTA00024715](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024715.pdf)
-- [EFTA00024833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024833.pdf)
-- [EFTA00025071](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025071.pdf)
-- [EFTA00025148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025148.pdf)
-- [EFTA00025239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025239.pdf)
-- [EFTA00025287](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025287.pdf)
-- [EFTA00025383](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025383.pdf)
-- [EFTA00025481](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025481.pdf)
-- [EFTA00025499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025499.pdf)
-- [EFTA00025545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025545.pdf)
-- [EFTA00025549](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025549.pdf)
-- [EFTA00026487](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026487.pdf)
-- [EFTA00026545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026545.pdf)
-- [EFTA00026569](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026569.pdf)
-- [EFTA00026626](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026626.pdf)
-- [EFTA00026644](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026644.pdf)
-- [EFTA00026646](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026646.pdf)
-- [EFTA00026648](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026648.pdf)
-- [EFTA00026650](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026650.pdf)
-- [EFTA00026652](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026652.pdf)
-- [EFTA00026656](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026656.pdf)
-- [EFTA00026689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026689.pdf)
-- [EFTA00026772](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026772.pdf)
-- [EFTA00026851](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026851.pdf)
-- [EFTA00027095](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027095.pdf)
-- [EFTA00027117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027117.pdf)
-- [EFTA00027154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027154.pdf)
-- [EFTA00027155](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027155.pdf)
-- [EFTA00027184](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027184.pdf)
-- [EFTA00027189](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027189.pdf)
-- [EFTA00027194](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027194.pdf)
-- [EFTA00027199](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027199.pdf)
-- [EFTA00027204](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027204.pdf)
-- [EFTA00027209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027209.pdf)
-- [EFTA00027214](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027214.pdf)
-- [EFTA00027219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027219.pdf)
-- [EFTA00027234](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027234.pdf)
-- [EFTA00027242](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027242.pdf)
-- [EFTA00027257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027257.pdf)
-- [EFTA00027307](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027307.pdf)
-- [EFTA00027458](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027458.pdf)
-- [EFTA00027528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027528.pdf)
-- [EFTA00027554](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027554.pdf)
-- [EFTA00027567](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027567.pdf)
-- [EFTA00027643](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027643.pdf)
-- [EFTA00027732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027732.pdf)
-- [EFTA00027846](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027846.pdf)
-- [EFTA00027926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027926.pdf)
-- [EFTA00027927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027927.pdf)
-- [EFTA00027936](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027936.pdf)
-- [EFTA00028149](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028149.pdf)
-- [EFTA00028158](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028158.pdf)
-- [EFTA00028196](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028196.pdf)
-- [EFTA00028197](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028197.pdf)
-- [EFTA00028282](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028282.pdf)
-- [EFTA00028284](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028284.pdf)
-- [EFTA00028285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028285.pdf)
-- [EFTA00028295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028295.pdf)
-- [EFTA00028297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028297.pdf)
-- [EFTA00028308](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028308.pdf)
-- [EFTA00028335](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028335.pdf)
-- [EFTA00028346](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028346.pdf)
-- [EFTA00028364](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028364.pdf)
-- [EFTA00028378](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028378.pdf)
-- [EFTA00028381](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028381.pdf)
-- [EFTA00028388](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028388.pdf)
-- [EFTA00028417](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028417.pdf)
-- [EFTA00028418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028418.pdf)
-- [EFTA00028425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028425.pdf)
-- [EFTA00028446](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028446.pdf)
-- [EFTA00028485](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028485.pdf)
-- [EFTA00028499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028499.pdf)
-- [EFTA00028549](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028549.pdf)
-- [EFTA00028560](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028560.pdf)
-- [EFTA00028641](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028641.pdf)
-- [EFTA00028785](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028785.pdf)
-- [EFTA00028990](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028990.pdf)
-- [EFTA00029004](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029004.pdf)
-- [EFTA00029017](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029017.pdf)
-- [EFTA00029303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029303.pdf)
-- [EFTA00029499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029499.pdf)
-- [EFTA00029509](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029509.pdf)
-- [EFTA00029512](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029512.pdf)
-- [EFTA00029514](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029514.pdf)
-- [EFTA00029522](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029522.pdf)
-- [EFTA00029807](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029807.pdf)
-- [EFTA00029813](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029813.pdf)
-- [EFTA00030001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030001.pdf)
-- [EFTA00030003](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030003.pdf)
-- [EFTA00030190](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030190.pdf)
-- [EFTA00030238](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030238.pdf)
-- [EFTA00030247](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030247.pdf)
-- [EFTA00030260](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030260.pdf)
-- [EFTA00030280](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030280.pdf)
-- [EFTA00030532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030532.pdf)
-- [EFTA00030610](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030610.pdf)
-- [EFTA00030614](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030614.pdf)
-- [EFTA00030617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030617.pdf)
-- [EFTA00030798](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030798.pdf)
-- [EFTA00030824](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030824.pdf)
-- [EFTA00030832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030832.pdf)
-- [EFTA00030976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030976.pdf)
-- [EFTA00030979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030979.pdf)
-- [EFTA00031006](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031006.pdf)
-- [EFTA00031025](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031025.pdf)
-- [EFTA00031263](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031263.pdf)
-- [EFTA00031352](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031352.pdf)
-- [EFTA00031397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031397.pdf)
-- [EFTA00032299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032299.pdf)
-- [EFTA00032375](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032375.pdf)
-- [EFTA00032378](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032378.pdf)
-- [EFTA00032518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032518.pdf)
-- [EFTA00032547](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032547.pdf)
-- [EFTA00032581](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032581.pdf)
-- [EFTA00032583](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032583.pdf)
-- [EFTA00032633](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032633.pdf)
-- [EFTA00032698](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032698.pdf)
-- [EFTA00032732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032732.pdf)
-- [EFTA00032753](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032753.pdf)
-- [EFTA00032892](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032892.pdf)
-- [EFTA00032951](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032951.pdf)
-- [EFTA00032972](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032972.pdf)
-- [EFTA00032983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032983.pdf)
-- [EFTA00032985](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032985.pdf)
-- [EFTA00033799](https://www.justice.gov/epstein/files/DataSet%208/EFTA00033799.pdf)
-- [EFTA00034128](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034128.pdf)
-- [EFTA00034341](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034341.pdf)
-- [EFTA00034367](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034367.pdf)
-- [EFTA00034372](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034372.pdf)
-- [EFTA00034374](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034374.pdf)
-- [EFTA00034465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034465.pdf)
-- [EFTA00034474](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034474.pdf)
-- [EFTA00034505](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034505.pdf)
-- [EFTA00034597](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034597.pdf)
-- [EFTA00035175](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035175.pdf)
-- [EFTA00035220](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035220.pdf)
-- [EFTA00035365](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035365.pdf)
-- [EFTA00035366](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035366.pdf)
-- [EFTA00035367](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035367.pdf)
-- [EFTA00035425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035425.pdf)
-- [EFTA00035445](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035445.pdf)
-- [EFTA00035449](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035449.pdf)
-- [EFTA00035450](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035450.pdf)
-- [EFTA00035461](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035461.pdf)
-- [EFTA00035626](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035626.pdf)
-- [EFTA00036390](https://www.justice.gov/epstein/files/DataSet%208/EFTA00036390.pdf)
-- [EFTA00036664](https://www.justice.gov/epstein/files/DataSet%208/EFTA00036664.pdf)
-- [EFTA00037490](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037490.pdf)
-- [EFTA00037872](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037872.pdf)
-- [EFTA00037879](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037879.pdf)
-- [EFTA00037897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037897.pdf)
-
-
-**Document Details:**
+**Document Details (340):**
 
 | Doc ID | Type | Title/Subject | Context | Cross-Refs | From | To |
 |--------|------|---------------|---------|------------|------|-----|
-| [EFTA00005718](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf) | Email | U. | ...such disclosure. Thank you for your cooperation in this matter. By: Very truly yours, GEO Y S. BE... | None | N/A | GREETINGS: |
+| [EFTA00005718](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf) | Email | Document | ...such disclosure. Thank you for your cooperation in this matter. By: Very truly yours, GEO Y S. BE... | None | N/A | GREETINGS: |
 | [EFTA00005740](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005740.pdf) | Email | AppDatatocal/M ierosoft/W indows/Tem porarr/020Intemet%. | ...ch disclosure. Thank you for your cooperation in this matter. By: Very truly yours, GEOFFFEY S. B... | None | N/A | GREETINGS: |
 | [EFTA00005924](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005924.pdf) | Email | Unouthorfrod scan. | ...ny such disclosure. Thank you for your cooperation in this matter. Very truly yours, GEOFFIEY S. ... | None | N/A | GREETINGS: |
 | [EFTA00009658](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009658.pdf) | Email | Case 1:19-cr-00490-RMB Document 38 Filed 07/25/19 Page 1 of 5 | ...ELECTRONICALLY FILED DOT!{: DATE FILED:S 4 PROTECTIVE ORDER 19 Cr. 490 (RMB) x RICHARD M. BERMAN,... | None | N/A | N/A |
 | [EFTA00009747](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009747.pdf) | Email | Case 1:19-cr-00830-AT Document 1 Filed 11/19/19 Page 1 of 20 | ...they had not in fact done so. (Title 18, United States Code, Sections 1001(a)(3) and 2) GEOFFR BE... | None | N/A | N/A |
 | [EFTA00009809](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009809.pdf) | Legal Filing | Case 1:19-cr-00490-RMB Document 2 Filed 07/02/19 Page 1 of 14 | ...United States Code, Section 853(p); and Title 28, United States Code, Section 2461.) GEOFFREY . B... | None | N/A | N/A |
 | [EFTA00009941](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009941.pdf) | Email | RE: call tomorrow re: search warrant documents ? | ...if that works? (Or I also could do the morning if I get coverage for a couple VOSR check-ins with... | None | "I | Cc: 1 |
-| [EFTA00010135](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010135.pdf) | Email | From the USVI--Jeffrey Epstein matter | ...========================================================== From: "Shappert, Gretchen (USAVI)" To:... | None | "Shappert, Gretchen (USAVI)" | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00010135](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010135.pdf) | Email | From the USVI--Jeffrey Epstein matter | ...========================================================== From: "Shappert, Gretchen (USAVI)" To:... | None | "Shappert, Gretchen (USAVI)" | "Berman, Geoffrey (USANYS)" |
 | [EFTA00010331](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010331.pdf) | Document | U. | ..., 340 U.S. 462 (1951); 28 C.F.R. § 16.21 et seq. The "proper official" in this case is Geoffrey S... | None | N/A | N/A |
 | [EFTA00010421](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010421.pdf) | Email | FW: U.S. v. Epstein, 19 Cr. 490 (RMB), letter motion for order of nolle prosequi | .... v. Epstein, 19 Cr. 490 (RMB), letter motion for order of nolle prosequi To the Chambers of Judg... | None | To: | • |
 | [EFTA00010422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010422.pdf) | Legal Filing | Case 1:19-cr-00490-RMB Document 47 Filed 08/19/19 Page 1 of 1 | ...Soini Andrew's Plo:a New York, New York 10007 August 19, 2019 VIA ECF The Honorable Richard M. Be... | None | N/A | N/A |
 | [EFTA00010435](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010435.pdf) | Legal Filing | U. | ...you would like to discuss the issues herein further. EFTA00010435 Page 2 Sincerely, GEOFFREY S. B... | None | N/A | N/A |
-| [EFTA00010454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010454.pdf) | Email | U. | ...vestigation. Thank you for your cooperation in this matter. By: Very truly yours, GE n FFREY S. B... | None | N/A | [FirstBank Puerto Rico](/D/DEUTSCHE-BANK.md) |
-| [EFTA00010465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010465.pdf) | Email | RE: | ============================================================ From: ' )" To: "Berman, Geoffrey (USANY... | None | ' | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00010580](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010580.pdf) | Email | Accepted: Epstein Press Meeting | ============================================================ From: " <MIMIN> To: "Berman, Geoffrey (... | None | " <MIMIN> | ["Berman, Geoffrey (USANYS)" alMINE>](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00010454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010454.pdf) | Email | U. | ...vestigation. Thank you for your cooperation in this matter. By: Very truly yours, GE n FFREY S. B... | None | N/A | FirstBank Puerto Rico |
+| [EFTA00010465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010465.pdf) | Email | RE: | ============================================================ From: ' )" To: "Berman, Geoffrey (USANY... | None | ' | "Berman, Geoffrey (USANYS)" |
+| [EFTA00010580](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010580.pdf) | Email | Accepted: Epstein Press Meeting | ============================================================ From: " <MIMIN> To: "Berman, Geoffrey (... | None | " <MIMIN> | "Berman, Geoffrey (USANYS)" alMINE> |
 | [EFTA00010581](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010581.pdf) | Document | Event: Accepted: Epstein Press Meeting | ...ess Meeting Start Date: 2019-07-01 20:00:00 +0000 End Date: 2019-07-01 21:00:00 +0000 Organizer: ... | None | N/A | N/A |
-| [EFTA00010582](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010582.pdf) | Email | Automatic reply: Epstein; JMD Media Guideline | ============================================================ From: ' 1(1-/SANYS). `t 's To: "Berman,... | None | ' | ["Berman, Geoffrey (USANYS)" <](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00010724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010724.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...ay, July 11, 2019 8:07 AM To: < EFTA00010727 Subject: Fw: Apollo/ Epstein/Kushner connection Mr B... | None | Chris Dilorio | [Subject: Fw: Apollo/ Epstein/Kushner connection](/J/JARED-KUSHNER.md) |
+| [EFTA00010582](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010582.pdf) | Email | Automatic reply: Epstein; JMD Media Guideline | ============================================================ From: ' 1(1-/SANYS). `t 's To: "Berman,... | None | ' | "Berman, Geoffrey (USANYS)" < |
+| [EFTA00010724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010724.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...ay, July 11, 2019 8:07 AM To: < EFTA00010727 Subject: Fw: Apollo/ Epstein/Kushner connection Mr B... | None | Chris Dilorio | Subject: Fw: Apollo/ Epstein/Kushner connection |
 | [EFTA00010786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010786.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...io Sent: Thursday, July 11, 2019 8:07 AM To: Subject: Fw: Apollo/ Epstein/Kushner connection Mr B... | None | Chris Dilorio | Winsn.com> |
 | [EFTA00010819](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010819.pdf) | Legal Filing | Attachments: KCG_Appendix_3-20_13_penultimate. | ...s: will you be keeping your DoJ e mail address up and running months after you land a new gig lik... | None | Chris Dilorio <chris_dilorio@msn.com> | N/A |
 | [EFTA00010968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010968.pdf) | Email | UNITED STATES DISTRICT COURT | ...(Title 18, United States Code, Sections 1001(a)(3) and 2) 18 EFTA00010985 FOREPERSON GEOFFREY S. ... | None | N/A | N/A |
@@ -388,11 +39,11 @@
 | [EFTA00011025](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011025.pdf) | Document | Case 1:19-cr-00490-RMB Document 55 Filed 09/04/19 Page 1 of 1 | ...Chair -74}t5 USDC SDNY DOCUMENT ELECTRONICALLY FILED DOC 111 DATE FILED: 1 1 Hon. Richard M. Berm... | None | N/A | N/A |
 | [EFTA00011026](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011026.pdf) | Legal Filing | Case 1:19-cr-00490-RMB Document 56 Filed 09/04/19 Page 1 of 2 | ...TES COURTHOUSE 500 PEARL STREET NEW YORK, NEW YORK 10007 (212)1308-0715 CHAMBERS OF RICHARD M. BE... | None | N/A | N/A |
 | [EFTA00011035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011035.pdf) | Email | Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation | ...m: "Blase. Nicholas (USANYS)" To: "IMInitedYS)" <MIMMIE>, , "Ma olio James USANYS Contractor)" "B... | None | "Blase. Nicholas (USANYS)" | "IMInitedYS)" |
-| [EFTA00011051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011051.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...ion Date: Thu, 11 Jul 2019 14:07:56 +0000 Attachments: IMG_7021.jpg Inline-Images: image.png Mr B... | None | Chris Dilorio | [Subject: Fw: Apollo/ Epstein/Kushner connection](/J/JARED-KUSHNER.md) |
+| [EFTA00011051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011051.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...ion Date: Thu, 11 Jul 2019 14:07:56 +0000 Attachments: IMG_7021.jpg Inline-Images: image.png Mr B... | None | Chris Dilorio | Subject: Fw: Apollo/ Epstein/Kushner connection |
 | [EFTA00011510](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011510.pdf) | Document | U. | ...etinml Censer SENT VIA EMAIL The Honorable Colleen McMahon, Chief Judge The Honorable Richard M. ... | None | N/A | N/A |
 | [EFTA00011520](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011520.pdf) | Legal Filing | U. | ...respectfully requests that the Court grant the Application. Respectfully submitted, GE a FFREY S.... | None | N/A | N/A |
 | [EFTA00013180](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013180.pdf) | Document | UNITED STATES ATTORNEY'S OFFICE | ...======== UNITED STATES ATTORNEY'S OFFICE Southern District of New York U.S. ATTORNEY GEOFFREY S. ... | None | N/A | N/A |
-| [EFTA00013458](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013458.pdf) | Email | Re: | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00013458](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013458.pdf) | Email | Re: | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | "Berman, Geoffrey (USANYS)" |
 | [EFTA00014243](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014243.pdf) | News Article | SONY News Clips, Monday, March 9, 2020 | ...y shut the door on voluntary cooperation and our office is considering its options," U.S. Attorne... | None | N/A | N/A |
 | [EFTA00014263](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014263.pdf) | News Article | SDNY News Clips, Monday, March 9, 2020 | ...y shut the door on voluntary cooperation and our office is considering its options," U.S. Attorne... | None | N/A | N/A |
 | [EFTA00014326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014326.pdf) | Email | FW: U.S. v. Epstein, 19 Cr. 490 (RMB), Government bail memorandum | ...ubject: RE: U.S. v. Epstein, 19 Cr. 490 (RMB), Government bail memorandum To the Chambers of Judg... | None | ' | ' |
@@ -410,37 +61,36 @@
 | [EFTA00014629](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014629.pdf) | Legal Filing | Document | ...EW YORK UNITED STATES OF AMERICA v. JEFFREY EPSTEIN, Defendant. Before: x x HON. RICHARD M. BERMA... | None | N/A | N/A |
 | [EFTA00014638](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014638.pdf) | Document | UNITED STATES ATTORNEY'S OFFICE | ...======== UNITED STATES ATTORNEY'S OFFICE Southern District of New York U.S. ATTORNEY GEOFFREY S. ... | None | N/A | N/A |
 | [EFTA00014641](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014641.pdf) | Email | RE: Epstein PR Final review | ...Subject: RE: Epstein PR Final review Date: Mon, 08 Jul 2019 13:56:57 +0000 Importance: Normal , "... | None | To: | (USANYS)" ci |
-| [EFTA00014982](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014982.pdf) | Document | United States Attorney's Office |  | None | N/A | N/A |
 | [EFTA00014985](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014985.pdf) | Email | UNITED STATES DISTRICT COURT | ...fact done so. (Title 18, United States Code, Sections 1001(a) (3) and 2) FOREPERSON GEOFFREY S. B... | None | N/A | N/A |
 | [EFTA00015132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015132.pdf) | Email | FW: victim travel | ...S)" < Date: October 7, 2021 at 9:26:33 AM EDT To: " (USANYS)" Subject: FW: victim travel Judge Be... | None | "-(USANYS)" | ' |
-| [EFTA00015297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015297.pdf) | Email | Re: Epstein | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00015298](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015298.pdf) | Email | Re: Epstein | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00015299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015299.pdf) | Email | BOP Press Release | ============================================================ From: (USMS)" cab To: "Berman, Geoffrey... | None | (USMS)" cab | ["Berman, Geoffrey (USANYS)" alMINE>](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00015301](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015301.pdf) | Email | Re: Jeffrey Epstein 19 cr 490 | ============================================================ From: "Berman, Geoffrey (USANYS)" To: '... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | ' |
-| [EFTA00015326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015326.pdf) | Email | RE: | ============================================================ From: " 1. )' To: "Berman, Geoffrey (US... | None | " | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00015297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015297.pdf) | Email | Re: Epstein | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | "Berman, Geoffrey (USANYS)" |
+| [EFTA00015298](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015298.pdf) | Email | Re: Epstein | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | "Berman, Geoffrey (USANYS)" |
+| [EFTA00015299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015299.pdf) | Email | BOP Press Release | ============================================================ From: (USMS)" cab To: "Berman, Geoffrey... | None | (USMS)" cab | "Berman, Geoffrey (USANYS)" alMINE> |
+| [EFTA00015301](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015301.pdf) | Email | Re: Jeffrey Epstein 19 cr 490 | ============================================================ From: "Berman, Geoffrey (USANYS)" To: '... | None | "Berman, Geoffrey (USANYS)" | ' |
+| [EFTA00015326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015326.pdf) | Email | RE: | ============================================================ From: " 1. )' To: "Berman, Geoffrey (US... | None | " | "Berman, Geoffrey (USANYS)" |
 | [EFTA00015345](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015345.pdf) | Email | [EXTERNAL] USA v. Maxwell -- 20-CR-330 (AIN) | .... was one of the Epstein victims who spoke to deliver a victim impact statement in front of Judge... | None | "Robert Y. Lewis" | Cc: |
 | [EFTA00015348](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015348.pdf) | Document | Attachments: Jeffrey_Epstein_indictment_PR. | ...d with sex trafficking of minors and conspiracy to commit sex trafficking of minors — before Judg... | None | S)' | N/A |
 | [EFTA00015350](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015350.pdf) | Document | UNITED STATES ATTORNEY'S OFFICE | ...======== UNITED STATES ATTORNEY'S OFFICE Southern District of New York U.S. ATTORNEY GEOFFREY S. ... | None | N/A | N/A |
 | [EFTA00015361](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015361.pdf) | Email | NYT FOIA request -- BOP #1, filed 8/13/19 | ...ent titled MCC New York Updates; draft letters to Epstein's brother, Chief Judge McMahon and Judg... | None | "Ivory, Danielle" <danielle.ivory@nytimes.corn> | <OGC_EFOIAgbop.gov> |
 | [EFTA00015438](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015438.pdf) | Email | Case 1:20-cv-00833-PAE Document 22 Filed 08/05/20 Page 1 of 13 | ...opulation. On July 18, 2019, a bond hearing as to Epstein was held before the Honorable Richard M... | None | N/A | N/A |
-| [EFTA00015529](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015529.pdf) | Email | RE: draft bail reply, Epstein | ============================================================ From: ar t To: "Berman, Geoffit SANYS (... | None | ar | ["Berman, Geoffit](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00015529](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015529.pdf) | Email | RE: draft bail reply, Epstein | ============================================================ From: ar t To: "Berman, Geoffit SANYS (... | None | ar | "Berman, Geoffit |
 | [EFTA00015532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015532.pdf) | Legal Filing | Case 1:19-cr-00490-RMB Document 11 Filed 07/12/19 Page 1 of 14 | ...ne Saint Andrew's Plaza New York. New York 10007 July 12, 2019 VIA ECF The Honorable Richard M. B... | None | N/A | N/A |
 | [EFTA00015606](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015606.pdf) | Email | UNITED STATES DISTRICT COURT | ...ference July 8, 2019 1:20 p.m. HON. HENRY B. PITMAN, Magistrate Judge APPEARANCES GEOFFREY S. BER... | None | N/A | N/A |
 | [EFTA00015632](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015632.pdf) | Email | Fwd: Epstein | ...uliet Sent from my iPhone On Jul 11, 2019, at 8:45 AM, > wrote: Nope. Monday at 10:00 am, Judge B... | None | To: | r. |
 | [EFTA00015634](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015634.pdf) | Email | Re: Epstein | ...tter: Sent from my iPhone On Jul 11, 2019, at 8:45 AM, > wrote: Nope. Monday at 10:00 am, Judge B... | None | ' | ' |
 | [EFTA00015661](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015661.pdf) | Email | UNITED STATES DISTRICT COURT | ...Cr. 490(KMB) Conference July 8, 2019 1:20 p.m. HON. HENRY B. PITMAN, APPEARANCES GEOFFREY S. BERM... | None | N/A | N/A |
-| [EFTA00016124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016124.pdf) | Email | My bad - no fewer than 4 articles today. Still relatively slow | ============================================================ From: "Berman, Geoffrey (USANYS)" < To:... | None | ["Berman, Geoffrey (USANYS)" <](/G/GEOFFREY-BERMAN.md) | (USANYS)" |
+| [EFTA00016124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016124.pdf) | Email | My bad - no fewer than 4 articles today. Still relatively slow | ============================================================ From: "Berman, Geoffrey (USANYS)" < To:... | None | "Berman, Geoffrey (USANYS)" < | (USANYS)" |
 | [EFTA00016136](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016136.pdf) | Email | Assistant United States Attorneys | ...United States v. Bagley, 473 U.S. 667 (1985), and Kyles v. Whitney, 514 U.S. 419 (1995), and Judg... | None | N/A | N/A |
 | [EFTA00016172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016172.pdf) | Document | U. | ...ne Saint Andrew's Plaza New York, New York 10007 July 17, 2019 VIA ECF The Honorable Richard M. B... | None | N/A | N/A |
-| [EFTA00016324](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016324.pdf) | Email | Experian Consumer Affairs | ...lties of the Law. DATED: New York, New York August 16, 2019 ;VW ,thodefreez'fl. - GEOFFREY S. BER... | None | N/A | [Experian Infonnation Solutions, Inc.](/A/AIR-GHISLAINE-INC.md) |
+| [EFTA00016324](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016324.pdf) | Email | Experian Consumer Affairs | ...lties of the Law. DATED: New York, New York August 16, 2019 ;VW ,thodefreez'fl. - GEOFFREY S. BER... | None | N/A | Experian Infonnation Solutions, Inc. |
 | [EFTA00016593](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016593.pdf) | Email | Re: Ex Parte Submission: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) | ...Sent from my iPhone > On Aug 5, 2019, at 9:45 AM, <MIMI.> wrote: > FYI, here's the order from Ber... | None | (USANYS)" < | Cc: 'M |
 | [EFTA00016596](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016596.pdf) | Document | U. | ...U.S. Attorney's Office or other Non-Party Entities or Individuals. Very truly yours, GEOFFREY S. ... | None | N/A | N/A |
-| [EFTA00016733](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016733.pdf) | Email | Re: Epstein | ============================================================ From: To: "Berman, Geoffrey (USANYS)" C... | None | [To: "Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00016733](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016733.pdf) | Email | Re: Epstein | ============================================================ From: To: "Berman, Geoffrey (USANYS)" C... | None | To: "Berman, Geoffrey (USANYS)" | "Berman, Geoffrey (USANYS)" |
 | [EFTA00016743](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016743.pdf) | Email | SDNY Homepage | ...Caton Sher from the US to Iran gala riCh'crrn5n Manhattan U.... 24rn e US Attorney SONY O USA Ber... | None | To: | Cc: |
 | [EFTA00016748](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016748.pdf) | Document | U. | ...f Justice United States Attorney Southern District of New York VIA ECF The Honorable Richard M. B... | None | N/A | N/A |
 | [EFTA00016805](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016805.pdf) | Email | RE: WG: introduction to Mr Peter Goldscheider, fouding partner of EPIC Invest ( investment bank | ...rom Vienna, Austira, mainly focused on Eastern European investments and advisory ) Mr. Geoffrey S... | None | Margareth Puttini | USANYS |
 | [EFTA00016810](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016810.pdf) | Email | Re: Andrew claims he hasn't been approached | ...tes Subject: Re: Andrew claims he hasn't been approached Thank you, we'll decline. Note: you have... | None | ' | daniel bates |
-| [EFTA00016812](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016812.pdf) | Email | RE: Epstein Trust Analysis | ============================================================ From (USANYS) [Contractor]" To: "Berman... | None | Sent: Wednesday, January 29, 2020 5:51 PM | ["Berman Geoffre](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00016812](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016812.pdf) | Email | RE: Epstein Trust Analysis | ============================================================ From (USANYS) [Contractor]" To: "Berman... | None | Sent: Wednesday, January 29, 2020 5:51 PM | "Berman Geoffre |
 | [EFTA00016822](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016822.pdf) | Email | DAILY BEAST: Prince Andrew: I'm Ready to Talk. The FBI Never Asked. Feds: Oh Yes, We Did | ...in a furious war of words Tuesday, after he denied claims made by the U.S. attorney for Manhattan... | None | N/A | (USANYS)" |
 | [EFTA00017042](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017042.pdf) | Email | RE: U.S. Department of Justice investigation | ...at all, according to three people familiar with the investigation." (New York Times 27.01.20) and... | None | ' | Gary Bloxsome |
 | [EFTA00017125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017125.pdf) | Email | 11760 US HWY 1. | ...es, in addition to other penalties of the Law. DATED: New York, New York June 15, 2020 GEOFF . BE... | None | N/A | AT&T Wireless |
@@ -448,24 +98,24 @@
 | [EFTA00017761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017761.pdf) | Email | RE: MCC Visit Thursday | ...TA00017761 Cc Subject: Re: MCC Visit Thursday It should not be a problem. Does 10 am work for Mr.... | None | To: | Cc: |
 | [EFTA00017765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017765.pdf) | Email | RE: Epstein 2018R01618 | ...s From: Sent: Wednesday, August 14, 2019 7:55 AM Toil Subject: Epstein 2018R01618 The SDNY USA Ge... | None | To: | Cc: |
 | [EFTA00017788](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017788.pdf) | Email | Re: MCC Visit Thursday | ...Visit Thursday ) < •c > wrote: EFTA00017788 Ed O'Callahan — Principal Deputy Attorney General Geo... | None | ' | " |
-| [EFTA00017909](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017909.pdf) | Email | Fwd: Epstein Ranch | ============================================================ From: "Berman. Geoffrey (USANYS)" To: a... | None | ["Berman. Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | a" |
+| [EFTA00017909](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017909.pdf) | Email | Fwd: Epstein Ranch | ============================================================ From: "Berman. Geoffrey (USANYS)" To: a... | None | "Berman. Geoffrey (USANYS)" | a" |
 | [EFTA00017912](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017912.pdf) | Document | UNITED STATES ATTORNEY'S OFFICE | ...======== UNITED STATES ATTORNEY'S OFFICE Southern District of New York U.S. ATTORNEY GEOFFREY S. ... | None | N/A | N/A |
 | [EFTA00017915](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017915.pdf) | Email | UNITED STATES DISTRICT COURT | ...ot in fact done so. (Title 18, United States Code, Sections 1001(a) (3) and 2) 5..ge4s- GEOFFREY ... | None | N/A | N/A |
 | [EFTA00017935](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017935.pdf) | Email | FW: CORRECTIONAL OFFICERS CHARGED WITH FALSIFYING RECORDS ON | ...Did in the Special Housing Unit on the Night Inmate Jeffiwy Epstein Committed Suicide Geoffrey S.... | None | (USANYS)" | (USANYS)" |
 | [EFTA00017953](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017953.pdf) | Document | U. | ...nse counsel's review at the United States Attorney's Office. Respectfully submitted, GEOFFREY S. ... | None | N/A | N/A |
 | [EFTA00017955](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017955.pdf) | Document | U. | ...nse counsel's review at the United States Attorney's Office. Respectfully submitted, GEOFFREY S. ... | None | N/A | N/A |
 | [EFTA00018155](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018155.pdf) | Email | NEW YORK TIMES; Epstein | ...and up for them by bringing this indictment," the United States attorney in Manhattan, Geoffrey S... | None | (USANYS)" | ." |
-| [EFTA00018162](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018162.pdf) | Email | Re: updates | ============================================================ From: "Berman, Geoffrey (USANYS)" To: C... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | Cc: |
+| [EFTA00018162](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018162.pdf) | Email | Re: updates | ============================================================ From: "Berman, Geoffrey (USANYS)" To: C... | None | "Berman, Geoffrey (USANYS)" | Cc: |
 | [EFTA00018169](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018169.pdf) | Email | Re: JE | ...w and see if that becomes a concern. >» >» Sent from my iPhone >>>> On Jul 10, 2019, at 8:10 PM, ... | None | To: | Cc: |
 | [EFTA00018172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018172.pdf) | Email | Times: Jeffrey Epstein Offers Mansion and Jet as Bond to Avoid Jail Before Trial | ...d of abusing dozens of underage girls, posed "an extraordinary risk of flight." Imag Geoffrey S. ... | None | To: | Cc: |
 | [EFTA00018183](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018183.pdf) | Email | FW: disclosure | ...+0000 Importance: Normal Attachments: Scan_6.pdf This is Epstein's financial disclosure. Judge Be... | None | Sent: Friday, July 12, 2019 11:06 AM | Subject: disclosure |
 | [EFTA00018270](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018270.pdf) | Email | Re: Next week events | ...t from my iPhone On Jul 12, 2019, at 5:36 PM, Monday— Bail hearing for Epstein, 10am before Judge... | None | To: | Cc: |
 | [EFTA00018272](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018272.pdf) | Email | r ‘‘u. Lpstcm | ...-record Curcio given that his son works for Sent from my iPhone Begin forwarded message: From: "B... | None | To: | Cc: |
 | [EFTA00018384](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018384.pdf) | Email | NYT; `Uncontrollable' Jeffrey Epstein: 5 Takeaways From Judge's Bail Decision | ...an jail that typically holds accused mobsters, drug dealers and terrorists. The judge, Richard M.... | None | To: | Cc: |
-| [EFTA00018441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf) | Email | FW: SDNY News Clips Wednesday, July 31, 2019 | ...inberg said at Wednesday's hearing that they intended to file motions on the issue. U.S. Attorney... | None | To: | [Subject: FW: SDNY News Clips Wednesday, July 31, 2019](/S/SDNY.md) |
+| [EFTA00018441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf) | Email | FW: SDNY News Clips Wednesday, July 31, 2019 | ...inberg said at Wednesday's hearing that they intended to file motions on the issue. U.S. Attorney... | None | To: | Subject: FW: SDNY News Clips Wednesday, July 31, 2019 |
 | [EFTA00018466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf) | Legal Filing | SDNY News Clips, Wednesday, July 31, 2019 | ...inberg said at Wednesday's hearing that they intended to file motions on the issue. U.S. Attorney... | None | N/A | N/A |
-| [EFTA00018542](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018542.pdf) | Email | Re: Maxwell Clip (Email 1 of 11) | ============================================================ From: "Berman, Geoffrey (USANYS)" To: "... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | " |
-| [EFTA00018543](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018543.pdf) | Email | Re: From the USVI--Jeffrey Epstein matter | ============================================================ From: "Berman, Geoffrey (USANYS) To: "S... | None | ["Berman, Geoffrey (USANYS)](/G/GEOFFREY-BERMAN.md) | "Shappert, Gretchen (USAVI)" |
+| [EFTA00018542](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018542.pdf) | Email | Re: Maxwell Clip (Email 1 of 11) | ============================================================ From: "Berman, Geoffrey (USANYS)" To: "... | None | "Berman, Geoffrey (USANYS)" | " |
+| [EFTA00018543](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018543.pdf) | Email | Re: From the USVI--Jeffrey Epstein matter | ============================================================ From: "Berman, Geoffrey (USANYS) To: "S... | None | "Berman, Geoffrey (USANYS) | "Shappert, Gretchen (USAVI)" |
 | [EFTA00018556](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018556.pdf) | Email | BRITISH TV REQUEST Important | ...lofkky To: ' Subject: BRITISH TV REQUEST Important Date: Mon, 08 Jun 2020 19:32:20 +0000 Dear Mr ... | None | kathryn milofkky | ' |
 | [EFTA00018557](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018557.pdf) | Document | Attachments: 2019-07-01, JEUIrst_indictment,_final. | ============================================================ From: "Ma' Cc: "Berman, Geoffrey (USANY... | None | "Ma' | N/A |
 | [EFTA00018618](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018618.pdf) | Document | U. | ...132 S. Ct. 1376 (2012); Missouri v. Fiye, 132 S. Ct. 1399 (2012). Very truly yours, GEOFFREY S. B... | None | N/A | N/A |
@@ -475,24 +125,22 @@
 | [EFTA00018867](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018867.pdf) | Email | Re: The Judge in Epstein's Case Should Not Turn the Dismissal Into a Drama for the Victims | ...r the Victims NY Law Journal By Bruce Green and Rebecca Roiphe 8/26/19 Last week, Judge Richard B... | None | '• | '• |
 | [EFTA00018874](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018874.pdf) | Email | Pnitetratates Pistrirt Court | ...penalties of the Law. DATED: New York, New York August 28, 2019 otoeft•SS. Item," GEOFFREY S. BER... | None | N/A | GREETINGS: |
 | [EFTA00018899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018899.pdf) | Email | RE: Epstein OCME | ...18:49:06 +0000 Thanks for the update. From: (USANYS) Sent: Friday, August 16, 2019 2:48 PM To: Be... | None | ' | ' |
-| [EFTA00018920](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018920.pdf) | Email | Fwd: UK / US Contact Details |  | None | [A. (NY) (FBI)"](/F/FBI.md) | (USANYS)" -1 |
 | [EFTA00018922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018922.pdf) | Document | United States Attorney | ============================================================ Geoffrey S. Berman United States Attorn... | None | N/A | N/A |
 | [EFTA00018944](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018944.pdf) | Document | U. | ...additional process. Please contact us with any further questions. Very truly yours, GEOFFREY S. B... | None | N/A | N/A |
 | [EFTA00018948](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018948.pdf) | Legal Filing | U. | ...2019. We are available at your convenience to discuss any further. Very truly yours, GEOFFREY S. ... | None | N/A | N/A |
 | [EFTA00018955](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018955.pdf) | Document | prritetratates lElistrict Court | ...r penalties of the Law. DATED: New York, New York August 15, 2019 6Coefe•SS. Item," GEOFFREY S. B... | None | N/A | GREETINGS: |
-| [EFTA00018968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018968.pdf) | Email | https://www.washingtonexaminercorninews/epstein-accuser-angry-about-financiers-death-and- | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00018968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018968.pdf) | Email | https://www.washingtonexaminercorninews/epstein-accuser-angry-about-financiers-death-and- | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | "Berman, Geoffrey (USANYS)" |
 | [EFTA00019112](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019112.pdf) | Email | FW: FOR THE ATTENTION OF GEOFFREY BERMAN | ...=============================================== From: To: Cc: Subject: FW: FOR THE ATTENTION OF G... | None | To: | Cc: |
-| [EFTA00019246](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019246.pdf) | Email | RE: | ============================================================ From: To: "Berman, Geoffrey (USANYS)" S... | None | [To: "Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00019246](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019246.pdf) | Email | RE: | ============================================================ From: To: "Berman, Geoffrey (USANYS)" S... | None | To: "Berman, Geoffrey (USANYS)" | "Berman, Geoffrey (USANYS)" |
 | [EFTA00019464](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019464.pdf) | Email | EOUSA-2020-003382, ABC News | ...rds of Jeffrey Epstein from "Insitution-1" referenced by SDNY in a Jul 12, 2019 letter to Richard... | None | "MIE=a | ' |
-| [EFTA00019687](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019687.pdf) | Email | RE: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) |  | None | Kelley Lynch | [Subject: RE: United States v. Jeffrey Epstein, 19 Cr. 490 (R](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00019750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019750.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | [Bank of America N.A.](/D/DEUTSCHE-BANK.md) |
+| [EFTA00019750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019750.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | Bank of America N.A. |
 | [EFTA00019831](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019831.pdf) | Document | With respect to the meeting of | ...and clause in this Agreement and the consequences thereof. Dated: New York, New York GEOFFREY S. ... | None | N/A | N/A |
-| [EFTA00019885](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019885.pdf) | Email | FW: DOJ ongoing Investigation. | ============================================================ From: "- To: "Berman Geoffre (USANYS)" ... | None | "- | ["Berman Geoffre](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00019961](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019961.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | [Western Union Financial Services, Inc.](/A/AIR-GHISLAINE-INC.md) |
-| [EFTA00019966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019966.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | [Wells Fargo Bank N.A.](/D/DEUTSCHE-BANK.md) |
-| [EFTA00019971](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019971.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | [Citibank N.A.](/D/DEUTSCHE-BANK.md) |
-| [EFTA00019976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019976.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | [MoneyGram International, Inc.](/A/AIR-GHISLAINE-INC.md) |
-| [EFTA00019981](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019981.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | [Experian Information Solutions, Inc.](/A/AIR-GHISLAINE-INC.md) |
+| [EFTA00019885](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019885.pdf) | Email | FW: DOJ ongoing Investigation. | ============================================================ From: "- To: "Berman Geoffre (USANYS)" ... | None | "- | "Berman Geoffre |
+| [EFTA00019961](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019961.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | Western Union Financial Services, Inc. |
+| [EFTA00019966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019966.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | Wells Fargo Bank N.A. |
+| [EFTA00019971](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019971.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | Citibank N.A. |
+| [EFTA00019976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019976.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | MoneyGram International, Inc. |
+| [EFTA00019981](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019981.pdf) | Email | U. | ...the investigation. Thank you for your cooperation in this matter. Very truly yours, GEOFFREY S. B... | None | N/A | Experian Information Solutions, Inc. |
 | [EFTA00019988](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019988.pdf) | Email | RE: U.S. v. Epstein, 19 Cr. 490 (RMB), letter motion for order of nolle prosequi | .... v. Epstein, 19 Cr. 490 (RMB), letter motion for order of nolle prosequi To the Chambers of Judg... | None | "Miller, Michael" | ' |
 | [EFTA00019990](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019990.pdf) | Email | Re: Epstein | ...en you have a moment? It's On Aug 27, 2019, at 8:46 AM, Hi > wrote: Just a heads-up that Judge Be... | None | ' | 'c |
 | [EFTA00019994](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019994.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...on in this case. We also have here today the U.S. Attorney for the Southern District of New York,... | None | N/A | N/A |
@@ -508,7 +156,7 @@
 | [EFTA00021012](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021012.pdf) | Document | U. | ...ave information related to the conduct in this case to please contact 1-800-CALL-FBI. Sincerely, ... | None | N/A | N/A |
 | [EFTA00021196](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021196.pdf) | Email | Epstein UMR | ...ITED STATES ATTORNEY SOUTHERN DISTRICT OF NEW YORK PHONE: 212-637-2200 DISTRICT POC: Geoffrey S. ... | None | UNITED STATES ATTORNEY | Cc: |
 | [EFTA00021252](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021252.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ..., Sections 981 and 1594; and Title 28, United States Code, Section 2461.) FOREPERSON GEOFFREY S. ... | None | N/A | N/A |
-| [EFTA00021268](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021268.pdf) | Email | Accepted: Epstein Press Meeting | ============================================================ From: To: "Berman, Geoffrey (USANYS)" S... | None | [To: "Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00021268](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021268.pdf) | Email | Accepted: Epstein Press Meeting | ============================================================ From: To: "Berman, Geoffrey (USANYS)" S... | None | To: "Berman, Geoffrey (USANYS)" | "Berman, Geoffrey (USANYS)" |
 | [EFTA00021269](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021269.pdf) | Document | Event: Accepted: Epstein Press Meeting | ...ess Meeting Start Date: 2019-07-01 20:00:00 +0000 End Date: 2019-07-01 21:00:00 +0000 Organizer: ... | None | N/A | N/A |
 | [EFTA00021273](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021273.pdf) | Email | Re: updates | ...: Cc: (USANYS)" Subject: Re: updates Date: Sat, 06 Jul 2019 21:58:14 +0000 Importance: Normal Ber... | None | To: | Cc: |
 | [EFTA00021295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021295.pdf) | Document | U. | ...additional process. Please contact us with any further questions. Very truly yours, GEOFFREY S. B... | None | N/A | N/A |
@@ -522,35 +170,34 @@
 | [EFTA00021651](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021651.pdf) | Email | UNITED STATES DISTRICT COURT | ...ATES OF AMERICA JEFFREY EPSTEIN, Defendant. PROTECTIVE ORDER 19 Cr. 490 (RMB) x RICHARD M. BERMAN... | None | N/A | N/A |
 | [EFTA00021988](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021988.pdf) | Document | U. | ...2019. We are available at your convenience to discuss any further. Very truly yours, GEOFFREY S. ... | None | N/A | N/A |
 | [EFTA00022062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022062.pdf) | Email | Request for Assistance in the Matter of Material Witness PA | ...and clause in this Agreement and the consequences thereof. Dated: New York, New York GEOFFREY S. ... | None | The Central Authority of the United States | The Central Authority of the United Kingdom |
-| [EFTA00022086](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022086.pdf) | Email | RE: | ============================================================ From: " 1. )' To: "Berman, Geoffrey (US... | None | " | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00022132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022132.pdf) | Email | Epstein accusers | ...====================================================== From: (USANYS) [Contractor]" aNIMIE> To: "... | None | (USANYS) [Contractor]" aNIMIE> | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00022086](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022086.pdf) | Email | RE: | ============================================================ From: " 1. )' To: "Berman, Geoffrey (US... | None | " | "Berman, Geoffrey (USANYS)" |
+| [EFTA00022132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022132.pdf) | Email | Epstein accusers | ...====================================================== From: (USANYS) [Contractor]" aNIMIE> To: "... | None | (USANYS) [Contractor]" aNIMIE> | "Berman, Geoffrey (USANYS)" |
 | [EFTA00022146](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022146.pdf) | Document | U. | ..., 340 U.S. 462 (1951); 28 C.F.R. § 16.21 et seq. The "proper official" in this case is Geoffrey S... | None | N/A | N/A |
-| [EFTA00022173](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022173.pdf) | Email | Fwd: Some inside info on Russian Money laundering and the Epstein paedophile ring | ...========================================= From: Jean James <j To: Undisclosed recipients:; Bcc: "... | None | [Jean James <j](/G/GREAT-ST-JAMES.md) | Undisclosed recipients:; |
+| [EFTA00022173](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022173.pdf) | Email | Fwd: Some inside info on Russian Money laundering and the Epstein paedophile ring | ...========================================= From: Jean James <j To: Undisclosed recipients:; Bcc: "... | None | Jean James <j | Undisclosed recipients:; |
 | [EFTA00022522](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022522.pdf) | Email | Re: Epstein Bail Statement | ...h them tomorrow to clarify and get back to you. Sent from my iPhone On Jul 17, 2019, at 6:41 PM, ... | None | " - | Cc: |
 | [EFTA00022535](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022535.pdf) | Email | RE: Epstein | ...48:55 +0000 Thanks for the report. From: (USANYS) c Sent: Wednesday, July 24, 2019 5:25 PM To: Be... | None | ' | ' |
 | [EFTA00022629](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022629.pdf) | Email | FW: Jeffrey Epstein 19 cr 490 | ...u jeer e rey Epstein 19 cr 490 Importance: High Please see attached letter from Judge Richard M. ... | None | ' | SANYSY. alMliff' |
 | [EFTA00022630](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022630.pdf) | Document | Subject Re: MCC Visit Thursday | ...hursday Date: Tue, 13 Aug 2019 19:37:41 +0000 It should not be a problem. Does 10 am work for Mr.... | None | To: | Cc: |
 | [EFTA00022631](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022631.pdf) | Email | : | ...nt• To: Cc: Subject: Re: MCC Visit Thursday It should not be a problem. Does 10 am work for Mr. B... | None | To: | Cc: |
 | [EFTA00022980](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022980.pdf) | Email | Re: U.S. Department of Justice investigation | ...at all, according to three people familiar with the investigation." (New York Times 27.01.20) and... | None | Subject: Re: U.S. Department of Justice investigation | " |
-| [EFTA00023106](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023106.pdf) | Document | Attachments: Professor_Green_letter,_19_Cr. |  | None | (USANYS)" | (USANYS)" |
 | [EFTA00023292](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023292.pdf) | Legal Filing | Case 1:19-cv-10577-LJL-DCF Document 1 Filed 11/14/19 Page 1 of 14 | ...quired by law to do so after Epstein was deceased. On August 29, 2019, U.S. District Judge Richar... | None | N/A | N/A |
 | [EFTA00023326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023326.pdf) | Document | Bradley J. | ...Brittany N. Henderson "0 Matthew D. Weissing "I VIA E-MAIL AND FEDEX The Honorable Geoffrey S. Be... | None | N/A | N/A |
-| [EFTA00023409](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023409.pdf) | Email | Prince Andrew | ============================================================ From: " (USANYS)" To: "Berman, Geoffrey... | None | " | ["Berman, Geoffrey (USANYS)" <](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00023773](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023773.pdf) | Email | Barr confirms DOJ wants Prince Andrew to 'provide some evidence' in Epstein investigation | ============================================================ From: '• (USANYS)" czi To: "Berman, Geo... | None | '• | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00023409](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023409.pdf) | Email | Prince Andrew | ============================================================ From: " (USANYS)" To: "Berman, Geoffrey... | None | " | "Berman, Geoffrey (USANYS)" < |
+| [EFTA00023773](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023773.pdf) | Email | Barr confirms DOJ wants Prince Andrew to 'provide some evidence' in Epstein investigation | ============================================================ From: '• (USANYS)" czi To: "Berman, Geo... | None | '• | "Berman, Geoffrey (USANYS)" |
 | [EFTA00023783](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023783.pdf) | Email | Re: Sensitive correspondence | ...9 To: ) Cc: Daniel Cundy ; Jennifer Richardson ; Subject: Re: Sensitive correspondence Dear Geoff... | None | Gary Bloxsome | "- |
 | [EFTA00023791](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023791.pdf) | Email | Re: Sensitive correspondence | ...0023792 Cc: Daniel Cundy ; Jennifer Richardson ; ) ; Subject: Re: Sensitive correspondence Dear G... | None | Gary Bloxsome | "- |
 | [EFTA00023802](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023802.pdf) | Document | Inline-Images: image543915. | ...argets of the investigation but instead have been used only to gather publicity for Mr Geoffrey S... | None | N/A | N/A |
 | [EFTA00023804](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023804.pdf) | Email | Re: U.S. Department of Justice investigation | ...at all, according to three people familiar with the investigation." (New York Times 27.01.20) and... | None | Gary Bloxsome < | Cc: |
 | [EFTA00023929](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023929.pdf) | Email | RE: Epstein victims | ...Cc: Subject: RE: Epstein victims Date: Thu, 22 Aug 2019 18:13:16 +0000 Bob, As an update, Judge B... | None | I | "ROBERT C. JOSEFSBERG" |
-| [EFTA00023968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023968.pdf) | Email | Re: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation | ============================================================ From: "Berman, Geoffrey (USANYS)" < E> ... | None | ["Berman, Geoffrey (USANYS)" <](/G/GEOFFREY-BERMAN.md) | [Subject: Re: Jeffrey Epstein friend Ghislaine Maxwell under ](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00023969](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023969.pdf) | Email | Epstein | ============================================================ From: "IM > To: "Berman Geoffre SANYS)"... | None | "IM | ["Berman Geoffre](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00023979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023979.pdf) | Email | Senate letter | ============================================================ From: (GAG)" To: "Berman, Geoffrey (USA... | None | (GAG)" | ["Berman, Geoffrey (USANYS)" alMINE>](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00023968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023968.pdf) | Email | Re: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation | ============================================================ From: "Berman, Geoffrey (USANYS)" < E> ... | None | "Berman, Geoffrey (USANYS)" < | Subject: Re: Jeffrey Epstein friend Ghislaine Maxwell under |
+| [EFTA00023969](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023969.pdf) | Email | Epstein | ============================================================ From: "IM > To: "Berman Geoffre SANYS)"... | None | "IM | "Berman Geoffre |
+| [EFTA00023979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023979.pdf) | Email | Senate letter | ============================================================ From: (GAG)" To: "Berman, Geoffrey (USA... | None | (GAG)" | "Berman, Geoffrey (USANYS)" alMINE> |
 | [EFTA00023982](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023982.pdf) | Email | Re: Epstein Autopsy | ...(USANYS)" c; Cc: SANYS Subject: Re: Epstein Autopsy Date: Sun, 11 Aug 2019 20:42:51 +0000 , "Berm... | None | (USANYS)" | (USANYS)" c; |
-| [EFTA00024002](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024002.pdf) | Email | Judge Berman letter | ============================================================ From: To: Subject: Judge Berman letter ... | None | To: | [Subject: Judge Berman letter](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00024002](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024002.pdf) | Email | Judge Berman letter | ============================================================ From: To: Subject: Judge Berman letter ... | None | To: | Subject: Judge Berman letter |
 | [EFTA00024003](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024003.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...been definitively explained what the BOP concluded about that incident. k ert.IL /11 Richard M. B... | None | N/A | N/A |
-| [EFTA00024007](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024007.pdf) | Email | Epstein OCME | ============================================================ From: ' (USANYS)" To: "Berman Geoffre U... | None | ' | ["Berman Geoffre](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00024250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024250.pdf) | Email | RE: epstein pros memo | ============================================================ From: "Berman, Geoffrey (USANYS)" To: "... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | "-(USANYS) |
-| [EFTA00024257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024257.pdf) | Email | Date: Wed, 08 Jan 2020 20:55:15 +0000 | ============================================================ From: "Berman, Geoffrey (USANYS)" To: S... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | Subject: |
+| [EFTA00024007](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024007.pdf) | Email | Epstein OCME | ============================================================ From: ' (USANYS)" To: "Berman Geoffre U... | None | ' | "Berman Geoffre |
+| [EFTA00024250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024250.pdf) | Email | RE: epstein pros memo | ============================================================ From: "Berman, Geoffrey (USANYS)" To: "... | None | "Berman, Geoffrey (USANYS)" | "-(USANYS) |
+| [EFTA00024257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024257.pdf) | Email | Date: Wed, 08 Jan 2020 20:55:15 +0000 | ============================================================ From: "Berman, Geoffrey (USANYS)" To: S... | None | "Berman, Geoffrey (USANYS)" | Subject: |
 | [EFTA00024400](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024400.pdf) | Email | RE: MCC Visit Thursday | ...Cc: (USANYS Subject: RE: MCC Visit Thursday Ed O'Callahan — Principal Deputy Attorney General Geo... | None | To: | bop.gov> |
 | [EFTA00024426](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024426.pdf) | Email | Fwd: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) | ...Date: Mon, 26 Aug 2019 20:17:15 +0000 Hi, The below emails apparently did not go through to Judge... | None | Date: August | Cc: |
 | [EFTA00024431](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024431.pdf) | Email | FW: Jeffrey Epstein consultation fees | ...have reported his concerns to the relevant authorities I need to communicate with the US Attorney... | None | " | alasigirBI)" |
@@ -558,16 +205,16 @@
 | [EFTA00024704](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024704.pdf) | Document | With respect to the meeting of | ...lause in this Agreement and the consequences thereof. Dated: West Palm Beach, Florida GEOFFREY S.... | None | N/A | N/A |
 | [EFTA00024713](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024713.pdf) | Email | RE: Briefings | ...) Subject: FW: Briefings (USANYS) From: (USANYS) Sent: Tuesday, February 19, 2019 6:24 PM To: Ber... | None | (USANYS)" | al |
 | [EFTA00024714](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024714.pdf) | Email | Fwd: New Epstein Ruling | ...arded message: From: ' (USANYS) [Contractor)" .< Date: February 21, 2019 at 3:01:04 PM EST To: "B... | None | (USANYS)" | ' |
-| [EFTA00024715](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024715.pdf) | Email | New Epstein Ruling | ...=========================================================== From: ' (USANYS) [Contractor]" To: "B... | None | ' | ["Berman, Geoffrey](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00024715](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024715.pdf) | Email | New Epstein Ruling | ...=========================================================== From: ' (USANYS) [Contractor]" To: "B... | None | ' | "Berman, Geoffrey |
 | [EFTA00024833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024833.pdf) | Legal Filing | Case 19-1018, Document 61, 08/01/2019, 2621854, Pagel of 10 | ...ited States v. Zarrab, No. 15 CR 867, 2016 WL 3681423, at •13 (S.D.N.Y. June 16, 2016) (Richard M... | None | N/A | N/A |
-| [EFTA00025071](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025071.pdf) | Email | PA | ============================================================ From: (USANYS)" To: "Berman Geoffrey (I... | None | (USANYS)" | ["Berman Geoffrey (IJSANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00025071](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025071.pdf) | Email | PA | ============================================================ From: (USANYS)" To: "Berman Geoffrey (I... | None | (USANYS)" | "Berman Geoffrey (IJSANYS)" |
 | [EFTA00025148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025148.pdf) | Legal Filing | Case 1:18-cr-00492-PGG Document 8 Filed 07/16/18 Page 1 of 10 | ...e 18, United States Code, Section 924(c) (1) (A) (i) and (ii).) -A-Ufr 31 bititan.4.4-N— GEOFF B.... | None | N/A | N/A |
 | [EFTA00025239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025239.pdf) | Document | U. | ...r, 132 S.Ct. 1376 (2012); Missouri v. Frye, 132 S.Ct. 1399 (2012). Very truly yours, GEOFFREY S. ... | None | N/A | N/A |
 | [EFTA00025287](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025287.pdf) | Document | U. | ...tify at trial. MIM e I o Y paid for travel to and from an August 2019 court hearing before Judge ... | None | N/A | N/A |
 | [EFTA00025383](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025383.pdf) | Email | NY Judge Rips 'Terrible' Conditions At NYC Federal Jails - Law360 | ...er who tried to steal $2.5 million from a law firm to time served. U.S. District Judge Richard M.... | None | ' | ' |
 | [EFTA00025481](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025481.pdf) | Email | RE: Sentencing with Berman | ...======================================= From: (USANYS) 1" To: ' )" Subject: RE: Sentencing with B... | None | (USANYS) 1" | ' |
 | [EFTA00025499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025499.pdf) | Email | RE: Sentencing with Berman | ...======================================== From: ' To: ' (USANYS)" < Subject: RE: Sentencing with B... | None | ' | ' |
-| [EFTA00025545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025545.pdf) | Email | Prince Andrew hires leading extradition lawyer to fend off FBI probe into his links with paedo | ============================================================ From• To: "Berman, Geoffre Subject: Pri... | None | N/A | ["Berman, Geoffre](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00025545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025545.pdf) | Email | Prince Andrew hires leading extradition lawyer to fend off FBI probe into his links with paedo | ============================================================ From• To: "Berman, Geoffre Subject: Pri... | None | N/A | "Berman, Geoffre |
 | [EFTA00025549](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025549.pdf) | Email | Fwd: FOX Business inquiry | ...ess to cooperate. One of the things that has come up from multiple people is how unusual it is fo... | None | ' | "r>, |
 | [EFTA00026487](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026487.pdf) | Email | Re: EOUSA-2020-003382, ABC News follow up | ...rds of Jeffrey Epstein from "Insitution-1" referenced by SDNY in a Jul 12, 2019 letter to Richard... | None | ' | ' |
 | [EFTA00026545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026545.pdf) | Document | U. | ...age from the Tier DVR, and is unlikely to recover any video. Respectfully submitted, GEOFFREY S. ... | None | N/A | N/A |
@@ -579,42 +226,41 @@
 | [EFTA00026650](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026650.pdf) | Document | Event: Accepted: Epstein bail hearing | ...te: 2019-07-15 14:00:00 +0000 End Date: 2019-07-15 14:30:00 +0000 Organizer: ) < Location: 17B (B... | None | N/A | N/A |
 | [EFTA00026652](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026652.pdf) | Document | Event: Accepted: Epstein defense bail submission due | ...rt Date: 2019-07-11 16:00:00 +0000 End Date: 2019-07-11 16:30:00 +0000 Organizer: ) < Location: B... | None | N/A | N/A |
 | [EFTA00026656](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026656.pdf) | Email | RE: USAO SDNY Prisoner for Court Production Request | ...URT REQUEST Use this e-mail only to order defendants for Court. DATE 7/15/19 TIME 10 am JUDGE Ber... | None | To: " | " |
-| [EFTA00026689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026689.pdf) | Email | FW: 19CR490 |  | None | To: ' | ' |
 | [EFTA00026772](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026772.pdf) | Email | Case 1:19-cr-00490-RMB Document 38 Filed 07/25/19 Page 1 of 9 | ...ECTRONICALLY FILED DOC #: DATE FILED: S3 OR PROTECTIVE ORDER 19 Cr. 490 (RMB) x RICHARD M. BERMAN... | None | N/A | N/A |
 | [EFTA00026851](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026851.pdf) | Email | UNITED STATES DISTRICT COURT | ...to be renewed. Thank you for your cooperation in this matter. Very truly yours, By: GEOFFREY S. B... | None | N/A | Interlochen Center for the Arts |
-| [EFTA00027095](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027095.pdf) | Email | Fwd: FW: Jeffrey Epstein 19 cr 490 | ...Jett: Jeffrey Epstein 19 cr 490 Importance: High Please see attached letter from Judge Richard M.... | None | To: | [Subject: Fwd: FW: Jeffrey Epstein 19 cr 490](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00027095](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027095.pdf) | Email | Fwd: FW: Jeffrey Epstein 19 cr 490 | ...Jett: Jeffrey Epstein 19 cr 490 Importance: High Please see attached letter from Judge Richard M.... | None | To: | Subject: Fwd: FW: Jeffrey Epstein 19 cr 490 |
 | [EFTA00027117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027117.pdf) | Email | RE: MCC Visit Thursday | ...o: Cc: ‹MEM > Subject: RE: MCC Visit Thursday Ed O'Callahan — Principal Deputy Attorney General G... | None | ' | ' |
 | [EFTA00027154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027154.pdf) | Document | U. | ...Saint Andrew's Plaza New York, New York 10007 August 15, 2019 VIA ECF The Honorable Richard M. Be... | None | N/A | N/A |
 | [EFTA00027155](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027155.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...hern District of New York SO ORDERED: Dated: New York, New York August , 2019 Hon. Richard M. Ber... | None | N/A | N/A |
-| [EFTA00027184](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027184.pdf) | Email | PnitetroStates Pistrirt Court | ...to other penalties of the Law. DATED: New York, New York August 17, 2019 ogoefe-ss, GEOFFREY S. B... | None | N/A | [Wells Fargo Bank, N.A.](/D/DEUTSCHE-BANK.md) |
-| [EFTA00027189](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027189.pdf) | Email | Pnitetratates Pistria Court | ...r penalties of the Law. DATED: New York, New York August 17, 2019 6€4.%'s• fon•-•• GEOFFREY S. BE... | None | N/A | [USAA Federal Savings Bank](/D/DEUTSCHE-BANK.md) |
-| [EFTA00027194](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027194.pdf) | Email | PnitebStates Pistrirt Cunt | ...penalties of the Law. DATED: New York, New York August 17, 2019 ocoefe-ss. funsv. GEOFFREY S. BER... | None | N/A | [TD Bank N.A.](/D/DEUTSCHE-BANK.md) |
+| [EFTA00027184](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027184.pdf) | Email | PnitetroStates Pistrirt Court | ...to other penalties of the Law. DATED: New York, New York August 17, 2019 ogoefe-ss, GEOFFREY S. B... | None | N/A | Wells Fargo Bank, N.A. |
+| [EFTA00027189](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027189.pdf) | Email | Pnitetratates Pistria Court | ...r penalties of the Law. DATED: New York, New York August 17, 2019 6€4.%'s• fon•-•• GEOFFREY S. BE... | None | N/A | USAA Federal Savings Bank |
+| [EFTA00027194](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027194.pdf) | Email | PnitebStates Pistrirt Cunt | ...penalties of the Law. DATED: New York, New York August 17, 2019 ocoefe-ss. funsv. GEOFFREY S. BER... | None | N/A | TD Bank N.A. |
 | [EFTA00027199](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027199.pdf) | Email | Rthteb$tutes Pistrirt Court | ...to other penalties of the Law. DATED: New York, New York August 17, 2019 ogoefe-ss. GEOFFREY S. B... | None | N/A | Navy Federal Credit Union |
 | [EFTA00027204](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027204.pdf) | Email | Pnitetratates glistrict Court | ...to other penalties of the Law. DATED: New York, New York August 17, 2019 6cafsss. GEOFFREY S. BER... | None | N/A | Municipal Credit Union |
-| [EFTA00027209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027209.pdf) | Email | Rniteb$tutes Pistrirt Court | ...to other penalties of the Law. DATED: New York, New York August 17, 2019 6eaft-ss. GEOFFREY S. BE... | None | N/A | [JPMorgan Chase Bank, N.A.](/D/DEUTSCHE-BANK.md) |
-| [EFTA00027214](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027214.pdf) | Email | Pnitetratates glistria Court | ...penalties of the Law. DATED: New York, New York August 17, 2019 6404....ss• fun," GEOFFREY S. BER... | None | N/A | [Citibank](/D/DEUTSCHE-BANK.md) |
-| [EFTA00027219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027219.pdf) | Email | Rthteb$tutes glistrict Court | ...penalties of the Law. DATED: New York, New York August 17, 2019 644r-a-ss, tra-v, GEOFFREY S. BER... | None | N/A | [Bank of America, N.A.](/D/DEUTSCHE-BANK.md) |
+| [EFTA00027209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027209.pdf) | Email | Rniteb$tutes Pistrirt Court | ...to other penalties of the Law. DATED: New York, New York August 17, 2019 6eaft-ss. GEOFFREY S. BE... | None | N/A | JPMorgan Chase Bank, N.A. |
+| [EFTA00027214](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027214.pdf) | Email | Pnitetratates glistria Court | ...penalties of the Law. DATED: New York, New York August 17, 2019 6404....ss• fun," GEOFFREY S. BER... | None | N/A | Citibank |
+| [EFTA00027219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027219.pdf) | Email | Rthteb$tutes glistrict Court | ...penalties of the Law. DATED: New York, New York August 17, 2019 644r-a-ss, tra-v, GEOFFREY S. BER... | None | N/A | Bank of America, N.A. |
 | [EFTA00027234](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027234.pdf) | Document | U. | ...not examine Government work product in connection with his case."). Very truly yours, GEOFFREY S.... | None | N/A | N/A |
 | [EFTA00027242](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027242.pdf) | Email | Re: Epstein | ...we confirm to the press? Or should we refer them to BOP? EFTA00027242 On Aug 10, 2019, at 8:24 AM... | None | ' | ' |
-| [EFTA00027257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027257.pdf) | Email | RE: Epstein | ============================================================ From: "Berman, Geoffrey (USANYS)" To: "... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | "= |
+| [EFTA00027257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027257.pdf) | Email | RE: Epstein | ============================================================ From: "Berman, Geoffrey (USANYS)" To: "... | None | "Berman, Geoffrey (USANYS)" | "= |
 | [EFTA00027307](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027307.pdf) | Legal Filing | Case 1:19-cr-00830-AT Document 35 Filed 04/24/20 Page 1 of 34 | ...UNITED STATES OF AMERICA IN OPPOSITION TO DEFENDANT MICHAEL THOMAS'S MOTION TO COMPEL GEOFFREY S.... | None | N/A | N/A |
 | [EFTA00027458](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027458.pdf) | Email | Re: Maxwell Clip (Email 1 of 11) | ...w even if I turn my volume to highest. From: (USANYS) Sent: Wednesday, May 27, 2020 3:37 PM To: B... | None | ' | ' |
-| [EFTA00027528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027528.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...rsday, July 11, 2019 8:07 AM To: EFTA00027531 Subject: Fw: Apollo/ Epstein/Kushner connection Mr ... | None | Chris Dilorio | [Subject: Fw: Apollo/ Epstein/Kushner connection](/J/JARED-KUSHNER.md) |
+| [EFTA00027528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027528.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...rsday, July 11, 2019 8:07 AM To: EFTA00027531 Subject: Fw: Apollo/ Epstein/Kushner connection Mr ... | None | Chris Dilorio | Subject: Fw: Apollo/ Epstein/Kushner connection |
 | [EFTA00027554](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027554.pdf) | Email | FW: | ..., Subject: Re: medical list Hi • (NY) (FBI) After Monday's bizarre and insulting appearance of Ge... | None | " | " |
-| [EFTA00027567](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027567.pdf) | Document | Inline-Images: image001. | ...themselves to recruit other underage girls to engage in similar sex acts for money — before Judge... | None | N/A | N/A |
+| [EFTA00027567](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027567.pdf) | Document | Document | ...themselves to recruit other underage girls to engage in similar sex acts for money — before Judge... | None | N/A | N/A |
 | [EFTA00027643](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027643.pdf) | Document | With respect to the meeting o | ...Client A ey for Client Dates of Continuation ()kit. 1 tax sIN I 2A Lou (21 by: GEOFFREY S. BERMAN... | None | N/A | N/A |
 | [EFTA00027732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027732.pdf) | Document | U. | ...r, 132 S.Ct. 1376 (2012); Missouri v. Frye, 132 S.Ct. 1399 (2012). Very truly yours, GEOFFREY S. ... | None | N/A | N/A |
-| [EFTA00027846](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027846.pdf) | Email | Congrats and a Caution re: Maxwell Indictment & Apprehension | ...rs from my Office in 1996. Preet Bharara speaks very highly of you. Congratulations to you, Geoff... | None | Peter Brightbill <pbrightbill®gmail.com> | [Subject: Congrats and a Caution re: Maxwell Indictment & App](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00027926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027926.pdf) | Email | RE: Briefings | ============================================================ From: ' (USANYS)" To: "Berman, Geoffrey... | None | ' | ["Berman, Geoffrey (USANYS)" .<1](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00027927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027927.pdf) | Email | FW: Jeffrey Epstein 19 cr 490 | ...ject: Jeffrey Epstein 19 cr 490 Importance: High Please see attached letter from Judge Richard M.... | None | To: | [Subject: FW: Jeffrey Epstein 19 cr 490](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00027846](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027846.pdf) | Email | Congrats and a Caution re: Maxwell Indictment & Apprehension | ...rs from my Office in 1996. Preet Bharara speaks very highly of you. Congratulations to you, Geoff... | None | Peter Brightbill <pbrightbill®gmail.com> | Subject: Congrats and a Caution re: Maxwell Indictment & App |
+| [EFTA00027926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027926.pdf) | Email | RE: Briefings | ============================================================ From: ' (USANYS)" To: "Berman, Geoffrey... | None | ' | "Berman, Geoffrey (USANYS)" .<1 |
+| [EFTA00027927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027927.pdf) | Email | FW: Jeffrey Epstein 19 cr 490 | ...ject: Jeffrey Epstein 19 cr 490 Importance: High Please see attached letter from Judge Richard M.... | None | To: | Subject: FW: Jeffrey Epstein 19 cr 490 |
 | [EFTA00027936](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027936.pdf) | Email | RE: Re: | ...201912:12 PM To USANYS) Subject: Fwd: Re: Sent from my iPhone Begin forwarded message: From: "Ber... | None | (USANYS) | -(USANYS)" |
 | [EFTA00028149](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028149.pdf) | Email | Re: Epstein - Legal Issues and Requests | ...in the above-captioned case, in connection with the presentment and arraignment referred by Judge... | None | Martin Weinberg -4 | " |
 | [EFTA00028158](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028158.pdf) | Email | RE: VW Update draft | ...matters, is scheduled for Wednesday, July 31, 2019, at 11:30 a.m. before the Honorable Richard M.... | None | ' | ' |
-| [EFTA00028196](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028196.pdf) | Email | Re: Jeffrey Epstein 19 cr 490 | ============================================================ From: "Berman, Geoffre (USANYS)" To: (N... | None | ["Berman, Geoffre (USANYS)"](/G/GEOFFREY-BERMAN.md) | [(NY) (FBI "](/F/FBI.md) |
-| [EFTA00028197](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028197.pdf) | Email | Epstein/ investigation by court | ============================================================ From: To: "Berman, Geoffrey (USANYS)" S... | None | [To: "Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00028282](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028282.pdf) | Email | Re: | ============================================================ From: " > To: "Berman, Geoffrey (USANYS... | None | " | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00028196](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028196.pdf) | Email | Re: Jeffrey Epstein 19 cr 490 | ============================================================ From: "Berman, Geoffre (USANYS)" To: (N... | None | "Berman, Geoffre (USANYS)" | (NY) (FBI " |
+| [EFTA00028197](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028197.pdf) | Email | Epstein/ investigation by court | ============================================================ From: To: "Berman, Geoffrey (USANYS)" S... | None | To: "Berman, Geoffrey (USANYS)" | "Berman, Geoffrey (USANYS)" |
+| [EFTA00028282](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028282.pdf) | Email | Re: | ============================================================ From: " > To: "Berman, Geoffrey (USANYS... | None | " | "Berman, Geoffrey (USANYS)" |
 | [EFTA00028284](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028284.pdf) | Email | RE: Epstein | ============================================================ From: "M, (USANYS)" To: < >, "Berman, G... | None | "M, | < |
-| [EFTA00028285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028285.pdf) | Email | RE: Update: Jeffrey Epstein Estate/Southern Country International Bank/USVI | ============================================================ From: "=, (USANYS)" To: "Berman, Geoffr... | None | "=, | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00028285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028285.pdf) | Email | RE: Update: Jeffrey Epstein Estate/Southern Country International Bank/USVI | ============================================================ From: "=, (USANYS)" To: "Berman, Geoffr... | None | "=, | "Berman, Geoffrey (USANYS)" |
 | [EFTA00028295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028295.pdf) | Email | latest memo and redline | ...,_JEJletention_memo,_draftdocx; detention_memo_redline.pdf I'm proofing it now (and will add Judg... | None | '' | Cc: |
 | [EFTA00028297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028297.pdf) | Legal Filing | U. | ...community, and that any application for bail should be denied. Very truly yours, By: GEOF REY S. ... | None | N/A | N/A |
 | [EFTA00028308](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028308.pdf) | Email | RE: NEW YORK TIMES; Epstein | ...and up for them by bringing this indictment," the United States attorney in Manhattan, Geoffrey S... | None | (USANYS)" | ' |
@@ -637,16 +283,16 @@
 | [EFTA00028990](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028990.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...States Code, Section 853(p); and Title 28, United States Code, Section 2461.) @ It" — GEOFFR Y S.... | None | N/A | N/A |
 | [EFTA00029004](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029004.pdf) | Legal Filing | U. | ...the community, and that any application for bail should be denied. Very truly yours, GEOF REY S. ... | None | N/A | N/A |
 | [EFTA00029017](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029017.pdf) | Email | Epstein | ...Date: Mon, 15 Jul 2019 00:09:15 +0000 Importance: Normal We have his bail argument before Judge B... | None | (USANYS)" alMIE> | ' |
-| [EFTA00029303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029303.pdf) | Email | Second Epstein victim says she had sex with Prince Andrew | ============================================================ From: "Berman, Geoffrey (11SANYS)" To:'... | None | ["Berman, Geoffrey (11SANYS)"](/G/GEOFFREY-BERMAN.md) | ' |
+| [EFTA00029303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029303.pdf) | Email | Second Epstein victim says she had sex with Prince Andrew | ============================================================ From: "Berman, Geoffrey (11SANYS)" To:'... | None | "Berman, Geoffrey (11SANYS)" | ' |
 | [EFTA00029499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029499.pdf) | Email | RE: Epstein and SDNY in 2016 | ...bviously everything changed after the Miami Herald articles and SDNY opened an investigation unde... | None | ' | "III |
-| [EFTA00029509](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029509.pdf) | Email | Re: Epstein draft press materials | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00029509](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029509.pdf) | Email | Re: Epstein draft press materials | ============================================================ From: (USANYS)" To: "Berman, Geoffrey (... | None | (USANYS)" | "Berman, Geoffrey (USANYS)" |
 | [EFTA00029512](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029512.pdf) | Email | Fwd: updates | ...fense counsel. My guess is it will be quick. Sent from my iPhone Begin forwarded message: From: "... | None | (USANYS)" <1 | ' |
-| [EFTA00029514](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029514.pdf) | Email | Re: updates | ============================================================ From: "Berman, Geoffrey (USANYS)" To:' ... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | ' |
-| [EFTA00029522](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029522.pdf) | Email | Read: Fwd: VIDEO CHILD SEX TRAFFICKING - JEFFREY EPSTEIN CONNECTIONS | ============================================================ From: "Berman, Geoffrey (USANYS)" To: J... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | [Jean James <jeanjames@telus.net>](/G/GREAT-ST-JAMES.md) |
+| [EFTA00029514](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029514.pdf) | Email | Re: updates | ============================================================ From: "Berman, Geoffrey (USANYS)" To:' ... | None | "Berman, Geoffrey (USANYS)" | ' |
+| [EFTA00029522](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029522.pdf) | Email | Read: Fwd: VIDEO CHILD SEX TRAFFICKING - JEFFREY EPSTEIN CONNECTIONS | ============================================================ From: "Berman, Geoffrey (USANYS)" To: J... | None | "Berman, Geoffrey (USANYS)" | Jean James <jeanjames@telus.net> |
 | [EFTA00029807](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029807.pdf) | Document | Good afternoon, my name is Geoffrey Berman, I am the U. | ============================================================ Good afternoon, my name is Geoffrey Ber... | None | N/A | N/A |
 | [EFTA00029813](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029813.pdf) | Document | UNITED STATES ATTORNEY'S OFFICE | ...======== UNITED STATES ATTORNEY'S OFFICE Southern District of New York U.S. ATTORNEY GEOFFREY S. ... | None | N/A | N/A |
-| [EFTA00030001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030001.pdf) | Email | JEFFREY EPSTEIN et al | ...eld < >, newyork Subject: JEFFREY EPSTEIN et al Date: Wed, 17 Jul 2019 13:08:25 +0000 Dear Mr. Be... | None | [Jean James <I](/G/GREAT-ST-JAMES.md) | Cc: washington field < |
-| [EFTA00030003](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030003.pdf) | Email | 2020-04-10 GM prosecution memo..pdf | ============================================================ From: "Berman, Geoffrey (USANYS)" alMIE... | None | ["Berman, Geoffrey (USANYS)" alMIE>](/G/GEOFFREY-BERMAN.md) | (USANYS)" aMIE> |
+| [EFTA00030001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030001.pdf) | Email | JEFFREY EPSTEIN et al | ...eld < >, newyork Subject: JEFFREY EPSTEIN et al Date: Wed, 17 Jul 2019 13:08:25 +0000 Dear Mr. Be... | None | Jean James <I | Cc: washington field < |
+| [EFTA00030003](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030003.pdf) | Email | 2020-04-10 GM prosecution memo..pdf | ============================================================ From: "Berman, Geoffrey (USANYS)" alMIE... | None | "Berman, Geoffrey (USANYS)" alMIE> | (USANYS)" aMIE> |
 | [EFTA00030190](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030190.pdf) | Email | RE: U.S. Department of Justice investigation | ...at all, according to three people familiar with the investigation." (New York Times 27.01.20) and... | None | ' | (CRM)" < |
 | [EFTA00030238](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030238.pdf) | Email | Re: U.S. v. Epstein, 19 Cr. 490 (RMB), Government bail memorandum | ...in the above-captioned case, in connection with the presentment and arraignment referred by Judge... | None | Marc Femich | ' |
 | [EFTA00030247](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030247.pdf) | Legal Filing | U. | ...f Justice United States Attorney Southern District of New York VIA ECF The Honorable Richard M. B... | None | N/A | N/A |
@@ -654,26 +300,25 @@
 | [EFTA00030280](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030280.pdf) | Email | RE: Hello and potentially helpful info | ...hing sometime soon. Just reaching out because I believe you are handling the Epstein case and tha... | None | To: Aimee Hector | Aimee Hector |
 | [EFTA00030532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030532.pdf) | Legal Filing | U. | ...132 S. Ct. 1376 (2012); Missouri v. Fiye, 132 S. Ct. 1399 (2012). Very truly yours, GEOFFREY S. B... | None | N/A | N/A |
 | [EFTA00030610](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030610.pdf) | Document | U. | ...with these requests. Please contact us with any further questions. Very truly yours, GEOFFREY S. ... | None | N/A | N/A |
-| [EFTA00030614](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030614.pdf) | Document | PRISONER PRODUCTION FOR COURT REQUEST | ...OURT REQUEST Use this e-mail only to order defendants for Court. DATE 7/31/19 TIME 11 am JUDGE Be... | None | [Subject: USAO SDNY Prisoner for Court Production Request](/S/SDNY.md) | N/A |
+| [EFTA00030614](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030614.pdf) | Document | PRISONER PRODUCTION FOR COURT REQUEST | ...OURT REQUEST Use this e-mail only to order defendants for Court. DATE 7/31/19 TIME 11 am JUDGE Be... | None | Subject: USAO SDNY Prisoner for Court Production Request | N/A |
 | [EFTA00030617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030617.pdf) | Email | RE: USAO SDNY Prisoner for Court Production Request | ...risoner for Court Production Request Date: Wed, 17 Jul 2019 18:04:17 -4)000 Good afternoon— Judge... | None | To: | Cc: |
 | [EFTA00030798](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030798.pdf) | Email | FW: DOJ ongoing Investigation. | ...argets of the investigation but instead have been used only to gather publicity for Mr Geoffrey S... | None | ' | ' |
 | [EFTA00030824](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030824.pdf) | Document | Event: Gov't reply to Epstein bail motion due | ...rt Date: 2019-07-12 21:00:00 +0000 End Date: 2019-07-12 21:30:00 +0000 Organizer: ) < Location: B... | None | N/A | N/A |
 | [EFTA00030832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030832.pdf) | Legal Filing | U. | ...community, and that any application for bail should be denied. Very truly yours, By: GEOF REY S. ... | None | N/A | N/A |
-| [EFTA00030976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030976.pdf) | Email | Ghislaine Maxwell seeks court delay due to Epstein probe - New York Daily News | ============================================================ From: "Berman. Geoffrey (USANYS)" To: "... | None | ["Berman. Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | "lallairinUSANYS)" |
+| [EFTA00030976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030976.pdf) | Email | Ghislaine Maxwell seeks court delay due to Epstein probe - New York Daily News | ============================================================ From: "Berman. Geoffrey (USANYS)" To: "... | None | "Berman. Geoffrey (USANYS)" | "lallairinUSANYS)" |
 | [EFTA00030979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030979.pdf) | Email | RE: Catch up tomorrow? 10:30? | ..., 2019, at 9:14 PM, (USANYS) aMIE> wrote: is our this week, and I have Epstein conference before ... | None | (USANYS)" alMIE> | ' |
-| [EFTA00031006](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031006.pdf) | Email | Fwd: Epstein OCME | ============================================================ From: "Berman, Geoffrey (USANYS)" To: '... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | ' |
+| [EFTA00031006](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031006.pdf) | Email | Fwd: Epstein OCME | ============================================================ From: "Berman, Geoffrey (USANYS)" To: '... | None | "Berman, Geoffrey (USANYS)" | ' |
 | [EFTA00031025](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031025.pdf) | Email | Case 1:20-cv-00833-PAE Document 22 Filed 08/05/20 Page 1 of 13 | ...opulation. On July 18, 2019, a bond hearing as to Epstein was held before the Honorable Richard M... | None | N/A | N/A |
 | [EFTA00031263](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031263.pdf) | Email | UNITED STATES DISTRICT COURT | ...UNITED STATES OF AMERICA IN OPPOSITION TO DEFENDANT MICHAEL THOMAS'S MOTION TO COMPEL GEOFFREY S.... | None | N/A | N/A |
 | [EFTA00031352](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031352.pdf) | Email | favor(s) | ...the Epstein case from Sept. 17-19, which also happens to be when we have three (I) check-ins with... | None | 'I | 1. |
 | [EFTA00031397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031397.pdf) | Email | RE: Epstein Victim Impact Statements | ...e hearing is scheduled for Tuesday, August 27, 2019, at 10:30 a.m. before the Honorable Richard M... | None | ' | " |
-| [EFTA00032299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032299.pdf) | Email | BRITISH FREEDOM OF INFORMATION REQUEST RE EPSTEIN & PARLIAMENT | ...====================================================== From: Jean James <jeanjames@telus.net> To:... | None | [Jean James <jeanjames@telus.net>](/G/GREAT-ST-JAMES.md) | [geoffrey berman cza](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00032299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032299.pdf) | Email | BRITISH FREEDOM OF INFORMATION REQUEST RE EPSTEIN & PARLIAMENT | ...====================================================== From: Jean James <jeanjames@telus.net> To:... | None | Jean James <jeanjames@telus.net> | geoffrey berman cza |
 | [EFTA00032375](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032375.pdf) | Email | Re: MCC Visit Thursday | ...York 10007 EFTA00032376 > 8/13/2019 2:05 PM >> > The list of visitors from our office is below: G... | None | < | Cc: |
 | [EFTA00032378](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032378.pdf) | Email | RE: MCC Visit Thursday | ...o: Cc: Subject: Re: MCC Visit Thursday Hi a It should not be a problem. Does 10 am work for Mr. B... | None | To: | Subject RE: MCC Visit Thursday |
-| [EFTA00032518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032518.pdf) | Email | The Daily 202: Ifs personal for the lead sponsors of the Iran war powers resolutions |  | None | The Washington Post <email@washingtonpost.com> | <I |
 | [EFTA00032547](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032547.pdf) | Document | U. | ...nse counsel's review at the United States Attorney's Office. Respectfully submitted, GEOFFREY S. ... | None | N/A | N/A |
 | [EFTA00032581](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032581.pdf) | Email | Re: Epstein draft press materials | ...NYS) Sent: Saturday, July 6, 2019 3:16 PM To: Subject: FW: Epstein draft press materials From: Be... | None | (USANYS)" | " |
 | [EFTA00032583](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032583.pdf) | Email | Cravath's Ties To NYU Not Enough For New Trial, Judge Says | ...rance Co. in a dispute with United Financial Casualty Co. over coverage for a truck driver Hagens... | None | New York Law360 <news-alt@law360.com> | Subject: Cravath's Ties To NYU Not Enough For New Trial, Jud |
-| [EFTA00032633](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032633.pdf) | Email | Supreme Court Leads At 1st Trump-Biden Debate | ...O'Reilly Ahdoot & Wolfson Akerman LLP Akin Gump Arnold & Porter Baker Botts Berger Montague Berma... | None | Public Policy Law360 <news@law360.com> | [Subject: Supreme Court Leads At 1st Trump-Biden Debate](/D/DONALD-TRUMP.md) |
+| [EFTA00032633](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032633.pdf) | Email | Supreme Court Leads At 1st Trump-Biden Debate | ...O'Reilly Ahdoot & Wolfson Akerman LLP Akin Gump Arnold & Porter Baker Botts Berger Montague Berma... | None | Public Policy Law360 <news@law360.com> | Subject: Supreme Court Leads At 1st Trump-Biden Debate |
 | [EFTA00032698](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032698.pdf) | Email | RE: Activity in Case 1:19-cr-00490-RMB USA v. Epstein Status Conference | ...mber: No document attached Docket Text: Minute Entry for proceedings held before Jud e Richard M.... | None | ' | ' |
 | [EFTA00032732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032732.pdf) | Email | 5 Ways Companies Can Prep For Biden's Anti-Corruption Push | ...Gelb & Gelb Gibbons PC Girardi & Keese Goodwin Procter Greenberg Traurig Haddon Morgan Hagens Ber... | None | White Collar Law360 <news@law360.com> | Subject: 5 Ways Companies Can Prep For Biden's Anti-Corrupti |
 | [EFTA00032753](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032753.pdf) | News Article | U. | ...the Court. If you do not agree with this request, please advise us. Very truly yours, GEOFFREY S.... | None | N/A | N/A |
@@ -699,7 +344,7 @@
 | [EFTA00035367](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035367.pdf) | Document | Attached please find Warden | ...Chambers@nysd.uscourts.gov> 8/12/2019 12:47 PM »> Please see attached letter from Judge Richard M... | None | N/A | N/A |
 | [EFTA00035425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035425.pdf) | Document | U. | ...36-7551 (Fax) SENT VIA EMAIL The Honorable Colleen McMahon, Chief Judge The Honorable Richard M. ... | None | N/A | N/A |
 | [EFTA00035445](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035445.pdf) | Document | re: Epstein, Jeffrey Edward, Reg. | ...taken of inmate Epstein. Inmate clothing secured and brought back to institution. 10:00 am Judge ... | None | N/A | N/A |
-| [EFTA00035449](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035449.pdf) | Email | Fwd: Re: Jeffrey Epstein 19 cr 490 | ...> 8/12/2019 2:42 PM >>> please thank the Warden for his prompt response to my letter. Richard M. ... | None | " | [Subject: Fwd: Re: Jeffrey Epstein 19 cr 490](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00035449](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035449.pdf) | Email | Fwd: Re: Jeffrey Epstein 19 cr 490 | ...> 8/12/2019 2:42 PM >>> please thank the Warden for his prompt response to my letter. Richard M. ... | None | " | Subject: Fwd: Re: Jeffrey Epstein 19 cr 490 |
 | [EFTA00035450](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035450.pdf) | Document | > 8/12/2019 2:42 PM > » | ...> 8/12/2019 2:42 PM > » please thank the Warden for his prompt response to my letter. Richard M. ... | None | N/A | N/A |
 | [EFTA00035461](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035461.pdf) | Document | RE: Epstein, Jeffrey Edward, Reg. | ...taken of inmate Epstein. Inmate clothing secured and brought back to institution. 10:00 am: Judge... | None | N/A | N/A |
 | [EFTA00035626](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035626.pdf) | Document | Suicide Timeline re: Epstein, Jeffrey Edward, Reg. | ...taken of inmate Epstein. Inmate clothing secured and brought back to institution. 10:00 am Judge ... | None | N/A | N/A |
@@ -709,5 +354,4 @@
 | [EFTA00037872](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037872.pdf) | Document | Event: Nolle conference | ...ER as to Jeffrey Epstein ( Status Conference set for 8/27/2019 at 10:30 AM before Judge Richard M... | None | N/A | N/A |
 | [EFTA00037879](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037879.pdf) | Email | Fwd: FW: Activity in Case 1:19-cr-00490-RMB USA v. Epstein Order | ...:15 AM Subject: FW: Activi in Case 1:19-cr-00490-RMB USA v. E stein Order To: ' Cc: FYI, Judge Be... | None | To: | Subject: Fwd: FW: Activity in Case 1:19-cr-00490-RMB USA v. |
 | [EFTA00037897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037897.pdf) | Email | U. | ...notify me before taking such action. Thank you for your cooperation. By: Sincerely, GEOFFREY S. B... | None | N/A | any emails presently stored in the accounts (including any e |
-
 

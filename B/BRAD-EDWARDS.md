@@ -10,139 +10,7 @@
 
 **Emails:** be@bradedwardslaw.com, brad@pathtojustice.com
 
-**Documents (129):**
-- [EFTA00004231](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004231.pdf)
-- [EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf)
-- [EFTA00010334](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010334.pdf)
-- [EFTA00010474](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010474.pdf)
-- [EFTA00011096](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011096.pdf)
-- [EFTA00011115](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011115.pdf)
-- [EFTA00011364](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011364.pdf)
-- [EFTA00013373](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013373.pdf)
-- [EFTA00013570](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013570.pdf)
-- [EFTA00013595](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013595.pdf)
-- [EFTA00013833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013833.pdf)
-- [EFTA00013871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013871.pdf)
-- [EFTA00013876](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013876.pdf)
-- [EFTA00013926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013926.pdf)
-- [EFTA00013942](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013942.pdf)
-- [EFTA00013976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013976.pdf)
-- [EFTA00014001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014001.pdf)
-- [EFTA00014026](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014026.pdf)
-- [EFTA00014028](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014028.pdf)
-- [EFTA00014060](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014060.pdf)
-- [EFTA00014067](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014067.pdf)
-- [EFTA00014073](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014073.pdf)
-- [EFTA00014077](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014077.pdf)
-- [EFTA00014082](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014082.pdf)
-- [EFTA00014116](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014116.pdf)
-- [EFTA00014125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014125.pdf)
-- [EFTA00014131](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014131.pdf)
-- [EFTA00014133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014133.pdf)
-- [EFTA00014146](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014146.pdf)
-- [EFTA00014150](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014150.pdf)
-- [EFTA00014177](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014177.pdf)
-- [EFTA00014178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014178.pdf)
-- [EFTA00014192](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014192.pdf)
-- [EFTA00014477](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014477.pdf)
-- [EFTA00014496](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014496.pdf)
-- [EFTA00014499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014499.pdf)
-- [EFTA00014652](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014652.pdf)
-- [EFTA00015074](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015074.pdf)
-- [EFTA00015078](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015078.pdf)
-- [EFTA00015140](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015140.pdf)
-- [EFTA00016726](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016726.pdf)
-- [EFTA00017905](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017905.pdf)
-- [EFTA00018180](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018180.pdf)
-- [EFTA00018300](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018300.pdf)
-- [EFTA00018441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf)
-- [EFTA00018466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf)
-- [EFTA00018647](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018647.pdf)
-- [EFTA00019071](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019071.pdf)
-- [EFTA00019565](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019565.pdf)
-- [EFTA00019747](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019747.pdf)
-- [EFTA00019899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019899.pdf)
-- [EFTA00019911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019911.pdf)
-- [EFTA00019994](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019994.pdf)
-- [EFTA00020541](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020541.pdf)
-- [EFTA00020703](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020703.pdf)
-- [EFTA00020729](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020729.pdf)
-- [EFTA00020757](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020757.pdf)
-- [EFTA00020762](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020762.pdf)
-- [EFTA00021001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021001.pdf)
-- [EFTA00021032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021032.pdf)
-- [EFTA00021033](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021033.pdf)
-- [EFTA00021331](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021331.pdf)
-- [EFTA00021332](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021332.pdf)
-- [EFTA00021442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021442.pdf)
-- [EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf)
-- [EFTA00021861](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021861.pdf)
-- [EFTA00021914](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021914.pdf)
-- [EFTA00021968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021968.pdf)
-- [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf)
-- [EFTA00022546](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022546.pdf)
-- [EFTA00022960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022960.pdf)
-- [EFTA00023053](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023053.pdf)
-- [EFTA00023139](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023139.pdf)
-- [EFTA00023230](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023230.pdf)
-- [EFTA00023326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023326.pdf)
-- [EFTA00023357](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023357.pdf)
-- [EFTA00023557](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023557.pdf)
-- [EFTA00023641](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023641.pdf)
-- [EFTA00023920](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023920.pdf)
-- [EFTA00023938](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023938.pdf)
-- [EFTA00024248](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024248.pdf)
-- [EFTA00024418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024418.pdf)
-- [EFTA00025171](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025171.pdf)
-- [EFTA00025398](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025398.pdf)
-- [EFTA00025469](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025469.pdf)
-- [EFTA00026678](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026678.pdf)
-- [EFTA00027307](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027307.pdf)
-- [EFTA00027343](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027343.pdf)
-- [EFTA00027666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027666.pdf)
-- [EFTA00027770](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027770.pdf)
-- [EFTA00027776](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027776.pdf)
-- [EFTA00027881](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027881.pdf)
-- [EFTA00027912](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027912.pdf)
-- [EFTA00027949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027949.pdf)
-- [EFTA00028850](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028850.pdf)
-- [EFTA00028927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028927.pdf)
-- [EFTA00028929](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028929.pdf)
-- [EFTA00029100](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029100.pdf)
-- [EFTA00029389](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029389.pdf)
-- [EFTA00029457](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029457.pdf)
-- [EFTA00029458](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029458.pdf)
-- [EFTA00029499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029499.pdf)
-- [EFTA00029705](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029705.pdf)
-- [EFTA00030231](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030231.pdf)
-- [EFTA00030511](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030511.pdf)
-- [EFTA00030765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030765.pdf)
-- [EFTA00030962](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030962.pdf)
-- [EFTA00031263](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031263.pdf)
-- [EFTA00031397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031397.pdf)
-- [EFTA00032506](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032506.pdf)
-- [EFTA00032792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032792.pdf)
-- [EFTA00037122](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037122.pdf)
-- [EFTA00037173](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037173.pdf)
-- [EFTA00037175](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037175.pdf)
-- [EFTA00037340](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037340.pdf)
-- [EFTA00037368](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037368.pdf)
-- [EFTA00037509](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037509.pdf)
-- [EFTA00037911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037911.pdf)
-- [EFTA00037922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037922.pdf)
-- [EFTA00037927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037927.pdf)
-- [EFTA00037937](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037937.pdf)
-- [EFTA00037939](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037939.pdf)
-- [EFTA00037997](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037997.pdf)
-- [EFTA00038006](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038006.pdf)
-- [EFTA00038089](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038089.pdf)
-- [EFTA00038299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038299.pdf)
-- [EFTA00038425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038425.pdf)
-- [EFTA00038453](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038453.pdf)
-- [EFTA00038652](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038652.pdf)
-
-
-**Document Details:**
+**Document Details (129):**
 
 | Doc ID | Type | Title/Subject | Context | Cross-Refs | From | To |
 |--------|------|---------------|---------|------------|------|-----|
@@ -156,8 +24,8 @@
 | [EFTA00013373](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013373.pdf) | Legal Filing | U. | ...iam Martin, Chicago, IL, for Christopher Richard Messina. Douglas P. Roller, Naperville, IL, E.E.... | None | N/A | N/A |
 | [EFTA00013570](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013570.pdf) | Legal Filing | Case 9:08-cv-80736-KAM | ...e victims' rights. DATED this 1st day of August, 2008. Respectfully Submitted, THE LAW OFFICE OF ... | None | N/A | N/A |
 | [EFTA00013595](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013595.pdf) | Document | United States Attorney's Office | ...closure cc: Ma, AUSA United States Attorney's Office 99 N.E. 4th Street Miami, Florida 33132 Brad... | None | N/A | N/A |
-| [EFTA00013833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013833.pdf) | Email | Conversation with Florida Bar Ethics Counsel re Epstein matter | ...so that I can revise them if necessary. On another note, Dexter, have you heard anything from Mr.... | None | To: | ["Acosta, Alex (USAFLS)"](/A/ALEXANDER-ACOSTA.md) |
-| [EFTA00013871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013871.pdf) | Email | RE: Jeff Epstein | ...th him and with Assistant U.S. Attorney West Palm Beach, FL 33401 Phone Fax EFTA00013871 From: Br... | None | (USAFLS)" alMIN> | [(FBI)" ca](/F/FBI.md) |
+| [EFTA00013833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013833.pdf) | Email | Conversation with Florida Bar Ethics Counsel re Epstein matter | ...so that I can revise them if necessary. On another note, Dexter, have you heard anything from Mr.... | None | To: | "Acosta, Alex (USAFLS)" |
+| [EFTA00013871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013871.pdf) | Email | RE: Jeff Epstein | ...th him and with Assistant U.S. Attorney West Palm Beach, FL 33401 Phone Fax EFTA00013871 From: Br... | None | (USAFLS)" alMIN> | (FBI)" ca |
 | [EFTA00013876](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013876.pdf) | Email | RE: Letter re Epstein | ...I do anything with this letter or respond in any way? Also, have you heard anything back from Mr.... | None | To: | Cc: |
 | [EFTA00013926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013926.pdf) | Legal Filing | Case 9:08-cv-80736-KAM | ...e victims' rights. DATED this 1st day of August, 2008. Respectfully Submitted, THE LAW OFFICE OF ... | None | N/A | N/A |
 | [EFTA00013942](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013942.pdf) | Email | FW: Draft Protective Order | ...oo many cooks get involved. Assistant U.S. Attorney West Palm Beach, FL 33401 Phone Fax From: Bra... | None | ' | (USAFLS)" |
@@ -166,31 +34,31 @@
 | [EFTA00014026](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014026.pdf) | Email | RE: Jeffrey Epstein | ...orrect ? Original Message From: (USAFLS) `: ?* To: ROBERT C. JOSEFSBERG; KATHERINE W. EZELL; Brad... | None | ' | "ROBERT C. JOSEFSBERG" |
 | [EFTA00014028](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014028.pdf) | Email | Re: Jeffrey Epstein | ...coming to u. Nothing re Epstein. From: (USAFLS) To: ROBERT C. JOSEFSBERG ; KATHERINE W. EZELL • B... | None | ' | ' |
 | [EFTA00014060](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014060.pdf) | Email | Re: Jane Does v. United States | ...Agreement, which was filed in the victims' rights suit filed against the United States by Attorne... | None | Jay Lefl«miti | alliff |
-| [EFTA00014067](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014067.pdf) | Email | RE: Draft Protective Order | ============================================================ From: Brad Edwards To: (USAFLS)" c Cc: ... | None | [Brad Edwards](/B/BRAD-EDWARDS.md) | (USAFLS)" c |
-| [EFTA00014073](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014073.pdf) | Email | RE: Draft Protective Order - slight tweak | ============================================================ cEl == From: Brad Edwards • To: USAFLS ... | None | [Brad Edwards •](/B/BRAD-EDWARDS.md) | USAFLS |
+| [EFTA00014067](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014067.pdf) | Email | RE: Draft Protective Order | ============================================================ From: Brad Edwards To: (USAFLS)" c Cc: ... | None | Brad Edwards | (USAFLS)" c |
+| [EFTA00014073](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014073.pdf) | Email | RE: Draft Protective Order - slight tweak | ============================================================ cEl == From: Brad Edwards • To: USAFLS ... | None | Brad Edwards • | USAFLS |
 | [EFTA00014077](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014077.pdf) | Email | UNITED STATES DISTRICT COURT | ...to the victim by both the FBI Victim-Witness Specialist and AUSA Id. , 1 3. Petitioner's counsel,... | None | N/A | N/A |
 | [EFTA00014082](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014082.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...the FBI's Victim-Witness Specialist. Attached hereto are copies of the letters provided to Bradle... | None | N/A | N/A |
-| [EFTA00014116](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014116.pdf) | Email | Re: Letter from Brad Edwards | ..."Acosta, Alex (USAFLS)" alMIE> To: ' (USAFLS)" Cc: (USAFLS)" alMIN> Subject: Re: Letter from Brad... | None | ["Acosta, Alex (USAFLS)" alMIE>](/A/ALEXANDER-ACOSTA.md) | ' |
+| [EFTA00014116](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014116.pdf) | Email | Re: Letter from Brad Edwards | ..."Acosta, Alex (USAFLS)" alMIE> To: ' (USAFLS)" Cc: (USAFLS)" alMIN> Subject: Re: Letter from Brad... | None | "Acosta, Alex (USAFLS)" alMIE> | ' |
 | [EFTA00014125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014125.pdf) | Document | nited States Attorney's Office | ...by providing that transcript. Thank you for your attention to these concerns. Sincerely, BE/sg Br... | None | N/A | N/A |
 | [EFTA00014131](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014131.pdf) | Email | Fw: Draft Response to Edwards' Oct 15, 2008 letter | ...============================================ From: To: Cc: Bcc• Subject: Fw: Draft Response to Ed... | None | To: | Cc: |
 | [EFTA00014133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014133.pdf) | Email | RE: Draft Protective Order - slight tweak | ...======================================================== From: (USAFLS)" To: Paul Cassell >, Brad... | None | (USAFLS)" | Paul Cassell |
 | [EFTA00014146](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014146.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...the FBI's Victim-Witness Specialist. Attached hereto are copies of the letters provided to Bradle... | None | N/A | N/A |
-| [EFTA00014150](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014150.pdf) | Email | Re: Epstein | ...To: Ro BLACK Cc Sent: 12/5/2008 6:17:23 PM Subject: Epstein Dear Roy and Jay: This afternoon Brad... | None | [To: "RBlack](/L/LEON-BLACK.md) | ["RBlack](/L/LEON-BLACK.md) |
+| [EFTA00014150](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014150.pdf) | Email | Re: Epstein | ...To: Ro BLACK Cc Sent: 12/5/2008 6:17:23 PM Subject: Epstein Dear Roy and Jay: This afternoon Brad... | None | To: "RBlack | "RBlack |
 | [EFTA00014177](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014177.pdf) | Email | FW: Jeffrey Epstein -- Letter from Roy Black | ...n me. I haven't seen the Complaint against the Rothstein firm yet, but I did have a voicemail fro... | None | To: | Cc: |
-| [EFTA00014178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014178.pdf) | Legal Filing | Assistant United States Attorney | ...sed. On Monday, Mr. Epstein filed a state civil RICO lawsuit charging Rothstein, his partner Brad... | None | N/A | N/A |
+| [EFTA00014178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014178.pdf) | Legal Filing | Document | ...sed. On Monday, Mr. Epstein filed a state civil RICO lawsuit charging Rothstein, his partner Brad... | None | N/A | N/A |
 | [EFTA00014192](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014192.pdf) | Legal Filing | CASE NO. | ...orowitz, counsel for plaintiffs Jane 2 through Jane Doe 7. THE COURT: Good morning. MR. EDWARDS: ... | None | N/A | N/A |
 | [EFTA00014477](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014477.pdf) | Email | FW: Reporter question on Jeffrey Epstein | ...ps://www.thedailybeast com effrey-epstein-abused-victims-while- serving-time-in-florida-lawyer-br... | None | To: | Cc: |
 | [EFTA00014496](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014496.pdf) | Email | RE: Requested Info | ...OTHERS THAT SLIP MY MIND BUT ILL REMEMBER AND SEND THEM." EFTA00014497 Best regards, = lir fl I E... | None | To: | Cc: ' |
 | [EFTA00014499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014499.pdf) | Email | FW: Confidentiality Order - | ...DE_56]_New_Case_Manager_Assigned Inline-Images: image001.png These documents are public. ry rill ... | None | To: | Subject: FW: Confidentiality Order - |
-| [EFTA00014652](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014652.pdf) | Email | [EXTERNAL] Trial | ============================================================ From: Brad Edwards < > To: " I" < =.. "... | None | [Brad Edwards <](/B/BRAD-EDWARDS.md) | " |
-| [EFTA00015074](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015074.pdf) | Email | Re: i hear you've had a spot of bother.... | ============================================================ rom: Jeffery Edwards <jeevacationPgmail... | None | [Jeffery Edwards <jeevacation@gmail.com>](/B/BRAD-EDWARDS.md) | < |
-| [EFTA00015078](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015078.pdf) | Email | Re: i hear you've had a spot of bother.... | ============================================================ From: Jeffery Edwards <jpevarationfaema... | None | [Jeffery Edwards <jpevarationfaemail corn>](/B/BRAD-EDWARDS.md) | Subject: Re: i hear you've had a spot of bother.... |
+| [EFTA00014652](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014652.pdf) | Email | [EXTERNAL] Trial | ============================================================ From: Brad Edwards < > To: " I" < =.. "... | None | Brad Edwards < | " |
+| [EFTA00015074](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015074.pdf) | Email | Re: i hear you've had a spot of bother.... | ============================================================ rom: Jeffery Edwards <jeevacationPgmail... | None | Jeffery Edwards <jeevacation@gmail.com> | < |
+| [EFTA00015078](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015078.pdf) | Email | Re: i hear you've had a spot of bother.... | ============================================================ From: Jeffery Edwards <jpevarationfaema... | None | Jeffery Edwards <jpevarationfaemail corn> | Subject: Re: i hear you've had a spot of bother.... |
 | [EFTA00015140](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015140.pdf) | Document | III/FBI/State Delayed Response | ...y West Palm Beach, FL 33401 Agency Address Palm Beach Shores Police Department; FLO5O33OO; 247 Ed... | None | N/A | N/A |
 | [EFTA00016726](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016726.pdf) | Email | [EXTERNAL] Re: 20cr330 - US v. Maxwell | ...ily/Friends Ian Maxwell Kevin Maxwell Pandora Maxwell Philip Maxwell Anne Holve Katie Vaughan Edw... | None | BOBBI C STERNHEIM | Cc |
 | [EFTA00017905](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017905.pdf) | Email | RE: Epstein Victim Impact Statements | ...though entirely possible that we were in touch with additional victims through counsel—we spoke t... | None | (USANYS) | (USANYS) |
-| [EFTA00018180](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018180.pdf) | Email | Fwd: | ============================================================ From: adrian edwards ‹ > To: ` 1> Subje... | None | [adrian edwards ‹](/B/BRAD-EDWARDS.md) | ` |
+| [EFTA00018180](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018180.pdf) | Email | Fwd: | ============================================================ From: adrian edwards ‹ > To: ` 1> Subje... | None | adrian edwards ‹ | ` |
 | [EFTA00018300](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018300.pdf) | News Article | GAIL S. | ...Guildford. Block, S. D., Segovia, D., & Goodman, G. S. (2009). Children: Suggestibility of. In C.... | None | N/A | N/A |
-| [EFTA00018441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf) | Email | FW: SDNY News Clips Wednesday, July 31, 2019 | ...the government's reasoning to leave Epstein's non-prosecution agreement in place. Lawyers Bradley... | None | To: | [Subject: FW: SDNY News Clips Wednesday, July 31, 2019](/S/SDNY.md) |
+| [EFTA00018441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf) | Email | FW: SDNY News Clips Wednesday, July 31, 2019 | ...the government's reasoning to leave Epstein's non-prosecution agreement in place. Lawyers Bradley... | None | To: | Subject: FW: SDNY News Clips Wednesday, July 31, 2019 |
 | [EFTA00018466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf) | Legal Filing | SDNY News Clips, Wednesday, July 31, 2019 | ...the government's reasoning to leave Epstein's non-prosecution agreement in place. Lawyers Bradley... | None | N/A | N/A |
 | [EFTA00018647](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018647.pdf) | Email | Re: Epstein investigation | ...21 2/17/2010 deposition of Jeffrey Epstein (IN vs. Jeffrey Epstein). Media received from attorney... | None | To: | r <S> |
 | [EFTA00019071](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019071.pdf) | Document | Document | ...ass Tons ClassAction Pttson,4 Injury Worm??'. Death Whtstleblower Cases WWW.PATHT0JUSTICE.00M Bra... | None | N/A | N/A |
@@ -205,8 +73,8 @@
 | [EFTA00020757](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020757.pdf) | Document | Case 9:08-cv-80736-KAM Document 361-26 Entered on FLSD Docket 02/10/2016 Page 1 of 5 | ...to do. 10. When I had not heard from the prosecuting attorney for a while, I met with attorney Br... | None | N/A | N/A |
 | [EFTA00020762](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020762.pdf) | Document | Case 9:08-cv-80736-KAM Document 361-27 Entered on FLSD Docket 02/10/2016 Page 1 of 4 | ...e would be. I spoke about this with one of my friends around May 2008. I then called an attorney,... | None | N/A | N/A |
 | [EFTA00021001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021001.pdf) | Email | RE: The Estate of Jeffrey Epstein | ...cember 3, 2019 9:36:45 PM To: Andrew Villacastin >; Sigrid McCawley Cc: >; >; Kate L. Doniger Bra... | None | ' | Roberta Kaplan |
-| [EFTA00021032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021032.pdf) | Email | RE: Response re Rule 17(c) subpoena | ============================================================ From: le alMIE> To: Brad Edwards <=lia>... | None | le | [Brad Edwards <=lia>,](/B/BRAD-EDWARDS.md) |
-| [EFTA00021033](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021033.pdf) | Email | Response re Rule 17(c) subpoena | ============================================================ From: "a" alMIE> To: Brad Edwards <=lia... | None | "a" | [Brad Edwards <=lia>,](/B/BRAD-EDWARDS.md) |
+| [EFTA00021032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021032.pdf) | Email | RE: Response re Rule 17(c) subpoena | ============================================================ From: le alMIE> To: Brad Edwards <=lia>... | None | le | Brad Edwards <=lia>, |
+| [EFTA00021033](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021033.pdf) | Email | Response re Rule 17(c) subpoena | ============================================================ From: "a" alMIE> To: Brad Edwards <=lia... | None | "a" | Brad Edwards <=lia>, |
 | [EFTA00021331](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021331.pdf) | Email | FW: Epstein Client Meetings | ...works for you guys? From: Brittany Henderson < Sent: Thursday, October 10, 2019 2:08 PM To: Cc: B... | None | To: | • |
 | [EFTA00021332](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021332.pdf) | Email | RE: Epstein | ...a Sent: Wednesday, August 07, 2019 08:54 To: Cc: ROBERT C. JOSEFSBERG <RIOSEFSBERG@podhurst.com>;... | None | ' | Jack Scarola <I |
 | [EFTA00021442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021442.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 466 Entered on FLSD Docket 07/23/2019 Page 1 of 70 | ...ND JANE DOE 2'S REPLY TO INTERVENOR EPSTEIN'S BRIEF IN OPPOSITION TO PROPOSED REMEDIES Bradley J.... | None | N/A | N/A |
@@ -218,7 +86,7 @@
 | [EFTA00022546](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022546.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 466 Entered on FLSD Docket 07/23/2019 Page 1 of 70 | ...ND JANE DOE 2'S REPLY TO INTERVENOR EPSTEIN'S BRIEF IN OPPOSITION TO PROPOSED REMEDIES Bradley J.... | None | N/A | N/A |
 | [EFTA00022960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022960.pdf) | Legal Filing | CageagAg0atifiSEAPIerbdthhiEgti id5i352PiletiViMdbagriad4 | ...ulevard, Ste. 1200 Ft. Lauderdale, FL 33301 smccawley@bsfilp.com mschultz@bsfllp.com Bradley J. E... | None | N/A | N/A |
 | [EFTA00023053](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023053.pdf) | Document | DOCUMENTS RELATED TO DEFENSE MOTIONS | ...meetings between the attorneys for the accusing witnesses—including, but not limited to, Bradley ... | None | N/A | N/A |
-| [EFTA00023139](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023139.pdf) | Email | doc 001 Doe vs Epstein estate complaint.pdf | ============================================================ From: Brad Edwards <brad@epllc.com> To:... | None | [Brad Edwards <brad@epllc.com>](/B/BRAD-EDWARDS.md) | N/A |
+| [EFTA00023139](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023139.pdf) | Email | doc 001 Doe vs Epstein estate complaint.pdf | ============================================================ From: Brad Edwards <brad@epllc.com> To:... | None | Brad Edwards <brad@epllc.com> | N/A |
 | [EFTA00023230](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023230.pdf) | Legal Filing | New York. | ...c: David Brodie, Esq. (via Email) Andrew Buzin, Esq. (via Email) Kate Doniger, Esq. (via Email) B... | None | N/A | N/A |
 | [EFTA00023326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023326.pdf) | Document | Bradley J. | ============================================================ Florida Office Bradley J. Edwards "Of S... | None | N/A | N/A |
 | [EFTA00023357](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023357.pdf) | Email | [EXTERNAL] United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) - Minor Victim 3's | ...dant's Rule 17 Subpoena to Administrator of the Epstein Victims' Compensation Program. Thank ou, ... | None | To: | Cc: |
@@ -226,7 +94,7 @@
 | [EFTA00023641](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023641.pdf) | Email | UNITED STATES DISTRICT COURT | ...Jane Doe (Case No.: 502008CA020614) do her attorney: Isidro M. Garcia, Esquire The Law Office of ... | None | N/A | N/A |
 | [EFTA00023920](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023920.pdf) | Email | RE: Daily Beast story on Epstein investigation | ...r continued, "and we are in the process of receiving and corroborating this additional evidence."... | None | To: | Cc: |
 | [EFTA00023938](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023938.pdf) | Document | SOUTHERN DISTRICT OF NEW YORK | ...ultiple adult women. Purcell was sentenced to 188 months' imprisonment. • In December 2018, Clint... | None | N/A | N/A |
-| [EFTA00024248](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024248.pdf) | Email | Rule 412 Motion | ============================================================ From: ' IM :' To: Brad Edwards <brad@ep... | None | ' | [Brad Edwards <brad@eplIc.com>, Brittany Henderson <brittany®](/B/BRAD-EDWARDS.md) |
+| [EFTA00024248](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024248.pdf) | Email | Rule 412 Motion | ============================================================ From: ' IM :' To: Brad Edwards <brad@ep... | None | ' | Brad Edwards <brad@eplIc.com>, Brittany Henderson <brittany® |
 | [EFTA00024418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024418.pdf) | Email | Fwd: Travel for Epstein vic for hearing | ...' (USANYS)" Cc: Hi Just of another call from one of the victims from LA. She is represented by Br... | None | ' | ' |
 | [EFTA00025171](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025171.pdf) | Document | A. | ...19 Cr. 791 (ER). Finally, the unit charged and secured a guilty plea from Natalie Mayflower Sours... | None | N/A | N/A |
 | [EFTA00025398](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025398.pdf) | Email | RE: OPR Matter (following up on our recent conversation) | ...started. As reflected in the spreadsheet, of the 32 individuals you listed, 22 are represented by... | None | To: | Cc: '1 |
@@ -256,23 +124,23 @@
 | [EFTA00031263](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031263.pdf) | Email | UNITED STATES DISTRICT COURT | ...lacruz, No. 14 Cr. 815 (KBF), 2015 WL 2211943, at *4 (S.D.N.Y. May 12, 2015) 16 United States v. ... | None | N/A | N/A |
 | [EFTA00031397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031397.pdf) | Email | RE: Epstein Victim Impact Statements | ...ls who spoke or were present for their letters being read (10 identified by name and 7 Jane Does)... | None | ' | " |
 | [EFTA00032506](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032506.pdf) | Email | Prosecutors Broke Law In Epstein Plea Deal, Fla. Judge Says | ...portunity to testify in court in any proceeding thus far, according to the Herald report. Bradley... | None | SAWS)" | '1 |
-| [EFTA00032792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032792.pdf) | Email | RE: United States v. Ghislaine Maxwell | ============================================================ From: ' < To: Brad Edwards c, Brittany ... | None | ' | [Brad Edwards c,](/B/BRAD-EDWARDS.md) |
+| [EFTA00032792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032792.pdf) | Email | RE: United States v. Ghislaine Maxwell | ============================================================ From: ' < To: Brad Edwards c, Brittany ... | None | ' | Brad Edwards c, |
 | [EFTA00037122](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037122.pdf) | Document | UMW. | ...itives SILVER $25,000 AYLSTOCK, WITKIN, KREIS & OVERHOLTZ, PLLC CERRI, BOSKOVICH &ALLARD L.L.P. E... | None | N/A | N/A |
-| [EFTA00037173](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037173.pdf) | Email | I wanted to congratulate you on the win with Deutsche | ...======================================================= 13:42 el 1..%@ ) S Congratulations To: Br... | None | N/A | [Brad Edwards](/B/BRAD-EDWARDS.md) |
-| [EFTA00037175](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037175.pdf) | Email | Go kick some JPM butt. | ============================================================ 13:42 . S% @ ) S To: Brad Edwards * * /... | None | N/A | [Brad Edwards](/B/BRAD-EDWARDS.md) |
+| [EFTA00037173](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037173.pdf) | Email | I wanted to congratulate you on the win with Deutsche | ...======================================================= 13:42 el 1..%@ ) S Congratulations To: Br... | None | N/A | Brad Edwards |
+| [EFTA00037175](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037175.pdf) | Email | Go kick some JPM butt. | ============================================================ 13:42 . S% @ ) S To: Brad Edwards * * /... | None | N/A | Brad Edwards |
 | [EFTA00037340](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037340.pdf) | Email | Operations Order Form | ...ons Order Form Section 2 Subject Information : Name : Jeffrey Epstein - ARRESTED Alias : Jeffrey ... | None | N/A | N/A |
 | [EFTA00037368](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037368.pdf) | Document | Operations Order Form Section 2 | ...t Information : Name : Alias : Nationality : Date of Birth : Age : "Jeffrey Epstein 'Jeffrey Edwa... | None | N/A | N/A |
 | [EFTA00037509](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037509.pdf) | Email | Re: Epstein Claims Fund Program | ...nfusing. Please let me know if you have any questions or would like clarification on anything. in... | None | ' | ' |
-| [EFTA00037911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037911.pdf) | Document | Inline-Images: image001. | ...s. We can make any day next week work. Just let me know what is best and I will let and know. rn ... | None | [Subject: Re: Epstein Victims](/J/JEFFREY-EPSTEIN.md) | N/A |
-| [EFTA00037922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037922.pdf) | Email | RE: Epstein Victims | ...is great. They are both on standby and with a day or so notice can make anytime work. .r 1L-41. E... | None | Sent: Tuesday, June 30, 2020 7:22 PM | [Subject: RE: Epstein Victims](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00037927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037927.pdf) | Email | RE: Epstein Victims | ...r another form of verification that a victim has interviewed with you. Have a great weekend, T'l ... | None | [Subject: RE: Epstein Victims](/J/JEFFREY-EPSTEIN.md) | Cc: |
-| [EFTA00037937](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037937.pdf) | Email | RE: Epstein Victim Interviews | ...I Facsimile: 954-524-2822 www.epllc.com From: Sent: Thursday, October 3, 2019 6:18 PM To: Cc: Bra... | None | Cc: | [Cc: Brad Edwards <brad@epllc.com>](/B/BRAD-EDWARDS.md) |
+| [EFTA00037911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037911.pdf) | Document | Inline-Images: image001. | ...s. We can make any day next week work. Just let me know what is best and I will let and know. rn ... | None | Subject: Re: Epstein Victims | N/A |
+| [EFTA00037922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037922.pdf) | Email | RE: Epstein Victims | ...is great. They are both on standby and with a day or so notice can make anytime work. .r 1L-41. E... | None | Sent: Tuesday, June 30, 2020 7:22 PM | Subject: RE: Epstein Victims |
+| [EFTA00037927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037927.pdf) | Email | RE: Epstein Victims | ...r another form of verification that a victim has interviewed with you. Have a great weekend, T'l ... | None | Subject: RE: Epstein Victims | Cc: |
+| [EFTA00037937](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037937.pdf) | Email | RE: Epstein Victim Interviews | ...I Facsimile: 954-524-2822 www.epllc.com From: Sent: Thursday, October 3, 2019 6:18 PM To: Cc: Bra... | None | Cc: | Cc: Brad Edwards <brad@epllc.com> |
 | [EFTA00037939](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037939.pdf) | Email | Epstein Victim Interviews | ...e meantime, we are happy to set up a time to discuss. Hope you are doing well, EFTA00037939 lr 71... | None | "= | "MI |
 | [EFTA00037997](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037997.pdf) | Email | Re: Epstein Victims | ...ortance: Normal Hey Just called you with Let us know if you are available. 2. Thanks so much! Edw... | None | EMI | "IMI |
-| [EFTA00038006](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038006.pdf) | Email | Re: Epstein Victims | ...ance: Normal Great. We will call you on Wednesday at 1pm with and Wednesday at 2pm with Thanks! E... | None | [Subject: Re: Epstein Victims](/J/JEFFREY-EPSTEIN.md) | Cc: |
+| [EFTA00038006](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038006.pdf) | Email | Re: Epstein Victims | ...ance: Normal Great. We will call you on Wednesday at 1pm with and Wednesday at 2pm with Thanks! E... | None | Subject: Re: Epstein Victims | Cc: |
 | [EFTA00038089](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038089.pdf) | Document | Operations Order Form Section 2 | ...t Information : Name : Alias : Nationality : Date of Birth : Age : !Jeffrey Epstein !Jeffrey Edwa... | None | N/A | N/A |
 | [EFTA00038299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038299.pdf) | Document | PRIVILEGED AND CONFIDENTIAL | ============================================================ PRIVILEGED AND CONFIDENTIAL EDWARDS POT... | None | N/A | N/A |
 | [EFTA00038425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038425.pdf) | Email | Epstein Victims | ...be offered in India? Let me know when you have a few minutes to talk. EFTA00038425 Thank you! n E... | None | allElaa> | ' |
-| [EFTA00038453](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038453.pdf) | Email | Fwd: West Palm Beach Epstein Victims - | ...reach out to. As always, thank you so much for everything that you do. EFTA00038453 r11 elt sa ED... | None | "MII | [Subject: Fwd: West Palm Beach Epstein Victims -](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00038453](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038453.pdf) | Email | Fwd: West Palm Beach Epstein Victims - | ...reach out to. As always, thank you so much for everything that you do. EFTA00038453 r11 elt sa ED... | None | "MII | Subject: Fwd: West Palm Beach Epstein Victims - |
 | [EFTA00038652](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038652.pdf) | Legal Filing | Case 1:17-cv-03956-PGG Document 64 Filed 06/25/24 Page 1 of 20 | ...Cases "Summary judgment is the procedural vehicle by which most FOIA actions are resolved." Jones... | None | N/A | N/A |
 

@@ -10,89 +10,7 @@
 
 **Companies:** MIT Media Lab
 
-**Documents (79):**
-- [EFTA00001808](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001808.pdf)
-- [EFTA00001884](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001884.pdf)
-- [EFTA00003490](https://www.justice.gov/epstein/files/DataSet%202/EFTA00003490.pdf)
-- [EFTA00003499](https://www.justice.gov/epstein/files/DataSet%202/EFTA00003499.pdf)
-- [EFTA00003849](https://www.justice.gov/epstein/files/DataSet%202/EFTA00003849.pdf)
-- [EFTA00003931](https://www.justice.gov/epstein/files/DataSet%203/EFTA00003931.pdf)
-- [EFTA00004070](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf)
-- [EFTA00005284](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005284.pdf)
-- [EFTA00007097](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007097.pdf)
-- [EFTA00007893](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007893.pdf)
-- [EFTA00008320](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008320.pdf)
-- [EFTA00008410](https://www.justice.gov/epstein/files/DataSet%205/EFTA00008410.pdf)
-- [EFTA00008475](https://www.justice.gov/epstein/files/DataSet%205/EFTA00008475.pdf)
-- [EFTA00008526](https://www.justice.gov/epstein/files/DataSet%205/EFTA00008526.pdf)
-- [EFTA00008892](https://www.justice.gov/epstein/files/DataSet%206/EFTA00008892.pdf)
-- [EFTA00009428](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009428.pdf)
-- [EFTA00009502](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009502.pdf)
-- [EFTA00011669](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011669.pdf)
-- [EFTA00012111](https://www.justice.gov/epstein/files/DataSet%208/EFTA00012111.pdf)
-- [EFTA00013570](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013570.pdf)
-- [EFTA00013884](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013884.pdf)
-- [EFTA00013916](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013916.pdf)
-- [EFTA00013999](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013999.pdf)
-- [EFTA00014922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014922.pdf)
-- [EFTA00015277](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015277.pdf)
-- [EFTA00015438](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015438.pdf)
-- [EFTA00016622](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016622.pdf)
-- [EFTA00016841](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016841.pdf)
-- [EFTA00019938](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019938.pdf)
-- [EFTA00019990](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019990.pdf)
-- [EFTA00020310](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020310.pdf)
-- [EFTA00020541](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020541.pdf)
-- [EFTA00020578](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020578.pdf)
-- [EFTA00020596](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020596.pdf)
-- [EFTA00020729](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020729.pdf)
-- [EFTA00020959](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020959.pdf)
-- [EFTA00021076](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021076.pdf)
-- [EFTA00021414](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021414.pdf)
-- [EFTA00021578](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021578.pdf)
-- [EFTA00021720](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021720.pdf)
-- [EFTA00022199](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022199.pdf)
-- [EFTA00022206](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022206.pdf)
-- [EFTA00022456](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022456.pdf)
-- [EFTA00022669](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022669.pdf)
-- [EFTA00024861](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024861.pdf)
-- [EFTA00025060](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025060.pdf)
-- [EFTA00025355](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025355.pdf)
-- [EFTA00025624](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025624.pdf)
-- [EFTA00026279](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026279.pdf)
-- [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)
-- [EFTA00028044](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028044.pdf)
-- [EFTA00029206](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029206.pdf)
-- [EFTA00029895](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029895.pdf)
-- [EFTA00030118](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030118.pdf)
-- [EFTA00030126](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030126.pdf)
-- [EFTA00031025](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031025.pdf)
-- [EFTA00031202](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031202.pdf)
-- [EFTA00031250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031250.pdf)
-- [EFTA00031397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031397.pdf)
-- [EFTA00032356](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032356.pdf)
-- [EFTA00032708](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032708.pdf)
-- [EFTA00033715](https://www.justice.gov/epstein/files/DataSet%208/EFTA00033715.pdf)
-- [EFTA00033786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00033786.pdf)
-- [EFTA00033886](https://www.justice.gov/epstein/files/DataSet%208/EFTA00033886.pdf)
-- [EFTA00034392](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034392.pdf)
-- [EFTA00034516](https://www.justice.gov/epstein/files/DataSet%208/EFTA00034516.pdf)
-- [EFTA00035022](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035022.pdf)
-- [EFTA00035087](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035087.pdf)
-- [EFTA00035119](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035119.pdf)
-- [EFTA00035134](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035134.pdf)
-- [EFTA00035147](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035147.pdf)
-- [EFTA00035225](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035225.pdf)
-- [EFTA00036380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00036380.pdf)
-- [EFTA00037236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037236.pdf)
-- [EFTA00037340](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037340.pdf)
-- [EFTA00037588](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037588.pdf)
-- [EFTA00037596](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037596.pdf)
-- [EFTA00037612](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037612.pdf)
-- [EFTA00037857](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037857.pdf)
-
-
-**Document Details:**
+**Document Details (79):**
 
 | Doc ID | Type | Title/Subject | Context | Cross-Refs | From | To |
 |--------|------|---------------|---------|------------|------|-----|
@@ -104,7 +22,7 @@
 | [EFTA00003931](https://www.justice.gov/epstein/files/DataSet%203/EFTA00003931.pdf) | Document | Document |  | None | N/A | N/A |
 | [EFTA00004070](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf) | Document | Grand Jury Material • Disseminate Only Pursuant to Rule 6 (e) |  | None | N/A | N/A |
 | [EFTA00005284](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005284.pdf) | Document | JE GLASSES WALLSTREET JOURNAL |  | None | N/A | N/A |
-| [EFTA00007097](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007097.pdf) | Email | UNITED STATES DISTRICT COURT |  | None | [Omega World Travel To: company](/F/FINANCIAL-TRUST-COMPANY.md) | New York La Guardia IVY, USA |
+| [EFTA00007097](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007097.pdf) | Email | UNITED STATES DISTRICT COURT |  | None | Omega World Travel To: company | New York La Guardia IVY, USA |
 | [EFTA00007893](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007893.pdf) | Email | Town of Palm Beach efklcsA |  | None | N/A | 4 |
 | [EFTA00008320](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008320.pdf) | Email | 272 Part V: Living the Good Life: Massage for Every Body |  | None | N/A | N/A |
 | [EFTA00008410](https://www.justice.gov/epstein/files/DataSet%205/EFTA00008410.pdf) | Document | Document |  | None | N/A | N/A |
@@ -117,7 +35,7 @@
 | [EFTA00012111](https://www.justice.gov/epstein/files/DataSet%208/EFTA00012111.pdf) | Email | DocuSign Envelope ID: 5F5A5466-1857-4351a244-A6FD438E6749 |  | None | N/A | 6425 S Denning Rm 118, Oklahoma City OK 73169-6937 |
 | [EFTA00013570](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013570.pdf) | Legal Filing | Case 9:08-cv-80736-KAM |  | None | N/A | N/A |
 | [EFTA00013884](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013884.pdf) | Email | Re: Epstein |  | None | ' | I" MIII6BillraLS)" |
-| [EFTA00013916](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013916.pdf) | Email | Re: Epstein |  | None | [(FBI)" ca](/F/FBI.md) | (USAFLS)" |
+| [EFTA00013916](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013916.pdf) | Email | Re: Epstein |  | None | (FBI)" ca | (USAFLS)" |
 | [EFTA00013999](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013999.pdf) | Email | Re: Notification of Possible Compelled Disclosure of theNon-Prosecution Agreement |  | None | To:' | ' |
 | [EFTA00014922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014922.pdf) | Email | Monday, November 16, 2020 11:22 AM |  | None | Sent: | Classification: UNCLASSIFIED//FOUO |
 | [EFTA00015277](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015277.pdf) | Email | RE: Question re AJN/Maxwell Suppression Hearing |  | None | To: | (USANYS)" |
@@ -153,7 +71,7 @@
 | [EFTA00030126](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030126.pdf) | Email | NYC DEPARTMENT OF FINANCE |  | None | N/A | N/A |
 | [EFTA00031025](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031025.pdf) | Email | Case 1:20-cv-00833-PAE Document 22 Filed 08/05/20 Page 1 of 13 |  | None | N/A | N/A |
 | [EFTA00031202](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031202.pdf) | Email | RE: [EXTERNAL] U.S. v. Maxwell S2 20 Cr. 330 (AJN) |  | None | '• | laNYS)" < |
-| [EFTA00031250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031250.pdf) | Email | Fwd: United States v. Ghislaine Maxwell -- |  | None | To: | [Subject: Fwd: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00031250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031250.pdf) | Email | Fwd: United States v. Ghislaine Maxwell -- |  | None | To: | Subject: Fwd: United States v. Ghislaine Maxwell -- |
 | [EFTA00031397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031397.pdf) | Email | RE: Epstein Victim Impact Statements |  | None | ' | " |
 | [EFTA00032356](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032356.pdf) | Document | OtC. |  | None | N/A | N/A |
 | [EFTA00032708](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032708.pdf) | Email | Re: additional contact info for Epstein |  | None | " | " |
@@ -175,5 +93,4 @@
 | [EFTA00037596](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037596.pdf) | Document | U. |  | None | N/A | N/A |
 | [EFTA00037612](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037612.pdf) | Document | U. |  | None | N/A | N/A |
 | [EFTA00037857](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037857.pdf) | Email | ASSIGNMENT OF SPECIAL |  | None | N/A | N/A |
-
 

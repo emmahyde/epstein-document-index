@@ -10,12 +10,7 @@
 
 **Companies:** Trump Organization
 
-**Documents (2):**
-- [EFTA00010819](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010819.pdf)
-- [EFTA00032518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032518.pdf)
-
-
-**Document Details:**
+**Document Details (2):**
 
 | Doc ID | Type | Title/Subject | Context | Cross-Refs | From | To |
 |--------|------|---------------|---------|------------|------|-----|

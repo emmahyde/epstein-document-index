@@ -8,1471 +8,36 @@
 
 **Roles:** associate, royal
 
-**Documents (1409):**
-- [EFTA00001728](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001728.pdf)
-- [EFTA00002907](https://www.justice.gov/epstein/files/DataSet%201/EFTA00002907.pdf)
-- [EFTA00003067](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003067.pdf)
-- [EFTA00003090](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003090.pdf)
-- [EFTA00003732](https://www.justice.gov/epstein/files/DataSet%202/EFTA00003732.pdf)
-- [EFTA00005718](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf)
-- [EFTA00005740](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005740.pdf)
-- [EFTA00005924](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005924.pdf)
-- [EFTA00007157](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007157.pdf)
-- [EFTA00007585](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007585.pdf)
-- [EFTA00007781](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007781.pdf)
-- [EFTA00007824](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007824.pdf)
-- [EFTA00007893](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007893.pdf)
-- [EFTA00008020](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008020.pdf)
-- [EFTA00008120](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008120.pdf)
-- [EFTA00008220](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008220.pdf)
-- [EFTA00008320](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008320.pdf)
-- [EFTA00008870](https://www.justice.gov/epstein/files/DataSet%206/EFTA00008870.pdf)
-- [EFTA00009016](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf)
-- [EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf)
-- [EFTA00009478](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009478.pdf)
-- [EFTA00009550](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009550.pdf)
-- [EFTA00009586](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009586.pdf)
-- [EFTA00009808](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009808.pdf)
-- [EFTA00009823](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009823.pdf)
-- [EFTA00009860](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009860.pdf)
-- [EFTA00009865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009865.pdf)
-- [EFTA00009895](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009895.pdf)
-- [EFTA00009897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009897.pdf)
-- [EFTA00009914](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009914.pdf)
-- [EFTA00009915](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009915.pdf)
-- [EFTA00009924](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009924.pdf)
-- [EFTA00009927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009927.pdf)
-- [EFTA00009958](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009958.pdf)
-- [EFTA00009964](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009964.pdf)
-- [EFTA00009983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009983.pdf)
-- [EFTA00010017](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010017.pdf)
-- [EFTA00010021](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010021.pdf)
-- [EFTA00010024](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010024.pdf)
-- [EFTA00010036](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010036.pdf)
-- [EFTA00010037](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010037.pdf)
-- [EFTA00010040](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010040.pdf)
-- [EFTA00010043](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010043.pdf)
-- [EFTA00010083](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010083.pdf)
-- [EFTA00010102](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010102.pdf)
-- [EFTA00010104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010104.pdf)
-- [EFTA00010105](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010105.pdf)
-- [EFTA00010111](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010111.pdf)
-- [EFTA00010117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010117.pdf)
-- [EFTA00010118](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010118.pdf)
-- [EFTA00010133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010133.pdf)
-- [EFTA00010139](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010139.pdf)
-- [EFTA00010145](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010145.pdf)
-- [EFTA00010149](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010149.pdf)
-- [EFTA00010152](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010152.pdf)
-- [EFTA00010154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010154.pdf)
-- [EFTA00010157](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010157.pdf)
-- [EFTA00010159](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010159.pdf)
-- [EFTA00010160](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010160.pdf)
-- [EFTA00010162](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010162.pdf)
-- [EFTA00010178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010178.pdf)
-- [EFTA00010180](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010180.pdf)
-- [EFTA00010183](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010183.pdf)
-- [EFTA00010196](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010196.pdf)
-- [EFTA00010202](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010202.pdf)
-- [EFTA00010211](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010211.pdf)
-- [EFTA00010220](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010220.pdf)
-- [EFTA00010241](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010241.pdf)
-- [EFTA00010243](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010243.pdf)
-- [EFTA00010244](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010244.pdf)
-- [EFTA00010245](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010245.pdf)
-- [EFTA00010252](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010252.pdf)
-- [EFTA00010256](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010256.pdf)
-- [EFTA00010261](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010261.pdf)
-- [EFTA00010285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010285.pdf)
-- [EFTA00010287](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010287.pdf)
-- [EFTA00010302](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010302.pdf)
-- [EFTA00010305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010305.pdf)
-- [EFTA00010321](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010321.pdf)
-- [EFTA00010339](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010339.pdf)
-- [EFTA00010351](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010351.pdf)
-- [EFTA00010379](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010379.pdf)
-- [EFTA00010380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010380.pdf)
-- [EFTA00010383](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010383.pdf)
-- [EFTA00010384](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010384.pdf)
-- [EFTA00010410](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010410.pdf)
-- [EFTA00010422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010422.pdf)
-- [EFTA00010454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010454.pdf)
-- [EFTA00010507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf)
-- [EFTA00010619](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010619.pdf)
-- [EFTA00010701](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010701.pdf)
-- [EFTA00010710](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010710.pdf)
-- [EFTA00010724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010724.pdf)
-- [EFTA00010750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010750.pdf)
-- [EFTA00010767](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010767.pdf)
-- [EFTA00010786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010786.pdf)
-- [EFTA00010818](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010818.pdf)
-- [EFTA00010819](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010819.pdf)
-- [EFTA00010945](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010945.pdf)
-- [EFTA00010955](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010955.pdf)
-- [EFTA00010956](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010956.pdf)
-- [EFTA00010988](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010988.pdf)
-- [EFTA00011039](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011039.pdf)
-- [EFTA00011048](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011048.pdf)
-- [EFTA00011051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011051.pdf)
-- [EFTA00011096](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011096.pdf)
-- [EFTA00011113](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011113.pdf)
-- [EFTA00011115](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011115.pdf)
-- [EFTA00011132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011132.pdf)
-- [EFTA00011133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011133.pdf)
-- [EFTA00011135](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011135.pdf)
-- [EFTA00011140](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011140.pdf)
-- [EFTA00011142](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011142.pdf)
-- [EFTA00011149](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011149.pdf)
-- [EFTA00011157](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011157.pdf)
-- [EFTA00011164](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011164.pdf)
-- [EFTA00011172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011172.pdf)
-- [EFTA00011187](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011187.pdf)
-- [EFTA00011266](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011266.pdf)
-- [EFTA00011267](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011267.pdf)
-- [EFTA00011357](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011357.pdf)
-- [EFTA00011413](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011413.pdf)
-- [EFTA00011418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011418.pdf)
-- [EFTA00011430](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011430.pdf)
-- [EFTA00011432](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011432.pdf)
-- [EFTA00011441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011441.pdf)
-- [EFTA00011452](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011452.pdf)
-- [EFTA00011520](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011520.pdf)
-- [EFTA00011669](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011669.pdf)
-- [EFTA00013181](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013181.pdf)
-- [EFTA00013216](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013216.pdf)
-- [EFTA00013218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013218.pdf)
-- [EFTA00013219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013219.pdf)
-- [EFTA00013235](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013235.pdf)
-- [EFTA00013253](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013253.pdf)
-- [EFTA00013279](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013279.pdf)
-- [EFTA00013289](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013289.pdf)
-- [EFTA00013305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013305.pdf)
-- [EFTA00013329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013329.pdf)
-- [EFTA00013333](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013333.pdf)
-- [EFTA00013337](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013337.pdf)
-- [EFTA00013342](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013342.pdf)
-- [EFTA00013372](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013372.pdf)
-- [EFTA00013422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013422.pdf)
-- [EFTA00013424](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013424.pdf)
-- [EFTA00013425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013425.pdf)
-- [EFTA00013434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013434.pdf)
-- [EFTA00013630](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013630.pdf)
-- [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf)
-- [EFTA00013649](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013649.pdf)
-- [EFTA00013693](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013693.pdf)
-- [EFTA00013947](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013947.pdf)
-- [EFTA00014243](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014243.pdf)
-- [EFTA00014263](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014263.pdf)
-- [EFTA00014286](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014286.pdf)
-- [EFTA00014298](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014298.pdf)
-- [EFTA00014334](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014334.pdf)
-- [EFTA00014380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014380.pdf)
-- [EFTA00014384](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014384.pdf)
-- [EFTA00014466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014466.pdf)
-- [EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf)
-- [EFTA00014508](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014508.pdf)
-- [EFTA00014514](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014514.pdf)
-- [EFTA00014534](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014534.pdf)
-- [EFTA00014564](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014564.pdf)
-- [EFTA00014576](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014576.pdf)
-- [EFTA00014589](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014589.pdf)
-- [EFTA00014598](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014598.pdf)
-- [EFTA00014608](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014608.pdf)
-- [EFTA00014611](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014611.pdf)
-- [EFTA00014613](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014613.pdf)
-- [EFTA00014625](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014625.pdf)
-- [EFTA00014636](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014636.pdf)
-- [EFTA00014650](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014650.pdf)
-- [EFTA00014663](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014663.pdf)
-- [EFTA00014709](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014709.pdf)
-- [EFTA00014718](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014718.pdf)
-- [EFTA00014878](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014878.pdf)
-- [EFTA00014889](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014889.pdf)
-- [EFTA00014897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014897.pdf)
-- [EFTA00014901](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014901.pdf)
-- [EFTA00014904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014904.pdf)
-- [EFTA00014962](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014962.pdf)
-- [EFTA00014982](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014982.pdf)
-- [EFTA00015028](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015028.pdf)
-- [EFTA00015084](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015084.pdf)
-- [EFTA00015128](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015128.pdf)
-- [EFTA00015185](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015185.pdf)
-- [EFTA00015186](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015186.pdf)
-- [EFTA00015188](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015188.pdf)
-- [EFTA00015206](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015206.pdf)
-- [EFTA00015217](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015217.pdf)
-- [EFTA00015335](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015335.pdf)
-- [EFTA00015337](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015337.pdf)
-- [EFTA00015532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015532.pdf)
-- [EFTA00015563](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015563.pdf)
-- [EFTA00015646](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015646.pdf)
-- [EFTA00015659](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015659.pdf)
-- [EFTA00015711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015711.pdf)
-- [EFTA00015738](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015738.pdf)
-- [EFTA00015753](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015753.pdf)
-- [EFTA00015770](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015770.pdf)
-- [EFTA00015786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015786.pdf)
-- [EFTA00015804](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015804.pdf)
-- [EFTA00015823](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015823.pdf)
-- [EFTA00015825](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015825.pdf)
-- [EFTA00015829](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015829.pdf)
-- [EFTA00015831](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015831.pdf)
-- [EFTA00015833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015833.pdf)
-- [EFTA00015838](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015838.pdf)
-- [EFTA00015865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015865.pdf)
-- [EFTA00015899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015899.pdf)
-- [EFTA00015902](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015902.pdf)
-- [EFTA00015915](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015915.pdf)
-- [EFTA00015941](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015941.pdf)
-- [EFTA00015951](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015951.pdf)
-- [EFTA00015954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015954.pdf)
-- [EFTA00015956](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015956.pdf)
-- [EFTA00015957](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015957.pdf)
-- [EFTA00015972](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015972.pdf)
-- [EFTA00016000](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016000.pdf)
-- [EFTA00016023](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016023.pdf)
-- [EFTA00016117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016117.pdf)
-- [EFTA00016124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016124.pdf)
-- [EFTA00016171](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016171.pdf)
-- [EFTA00016172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016172.pdf)
-- [EFTA00016177](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016177.pdf)
-- [EFTA00016179](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016179.pdf)
-- [EFTA00016206](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016206.pdf)
-- [EFTA00016218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016218.pdf)
-- [EFTA00016228](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016228.pdf)
-- [EFTA00016237](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016237.pdf)
-- [EFTA00016264](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016264.pdf)
-- [EFTA00016285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016285.pdf)
-- [EFTA00016292](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016292.pdf)
-- [EFTA00016295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016295.pdf)
-- [EFTA00016298](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016298.pdf)
-- [EFTA00016299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016299.pdf)
-- [EFTA00016306](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016306.pdf)
-- [EFTA00016308](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016308.pdf)
-- [EFTA00016310](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016310.pdf)
-- [EFTA00016313](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016313.pdf)
-- [EFTA00016316](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016316.pdf)
-- [EFTA00016324](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016324.pdf)
-- [EFTA00016345](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016345.pdf)
-- [EFTA00016348](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016348.pdf)
-- [EFTA00016392](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016392.pdf)
-- [EFTA00016396](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016396.pdf)
-- [EFTA00016422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016422.pdf)
-- [EFTA00016448](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016448.pdf)
-- [EFTA00016449](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016449.pdf)
-- [EFTA00016461](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016461.pdf)
-- [EFTA00016465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016465.pdf)
-- [EFTA00016466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016466.pdf)
-- [EFTA00016469](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016469.pdf)
-- [EFTA00016482](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016482.pdf)
-- [EFTA00016484](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016484.pdf)
-- [EFTA00016492](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016492.pdf)
-- [EFTA00016494](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016494.pdf)
-- [EFTA00016495](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016495.pdf)
-- [EFTA00016496](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016496.pdf)
-- [EFTA00016510](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016510.pdf)
-- [EFTA00016590](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016590.pdf)
-- [EFTA00016594](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016594.pdf)
-- [EFTA00016596](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016596.pdf)
-- [EFTA00016620](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016620.pdf)
-- [EFTA00016714](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016714.pdf)
-- [EFTA00016729](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016729.pdf)
-- [EFTA00016730](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016730.pdf)
-- [EFTA00016748](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016748.pdf)
-- [EFTA00016758](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016758.pdf)
-- [EFTA00016765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016765.pdf)
-- [EFTA00016766](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016766.pdf)
-- [EFTA00016792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016792.pdf)
-- [EFTA00016793](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016793.pdf)
-- [EFTA00016794](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016794.pdf)
-- [EFTA00016800](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016800.pdf)
-- [EFTA00016809](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016809.pdf)
-- [EFTA00016810](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016810.pdf)
-- [EFTA00016822](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016822.pdf)
-- [EFTA00016828](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016828.pdf)
-- [EFTA00016829](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016829.pdf)
-- [EFTA00016865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016865.pdf)
-- [EFTA00016895](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016895.pdf)
-- [EFTA00016901](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016901.pdf)
-- [EFTA00016944](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016944.pdf)
-- [EFTA00016949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016949.pdf)
-- [EFTA00016959](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016959.pdf)
-- [EFTA00017037](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017037.pdf)
-- [EFTA00017038](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017038.pdf)
-- [EFTA00017040](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017040.pdf)
-- [EFTA00017041](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017041.pdf)
-- [EFTA00017042](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017042.pdf)
-- [EFTA00017055](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017055.pdf)
-- [EFTA00017067](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017067.pdf)
-- [EFTA00017085](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017085.pdf)
-- [EFTA00017095](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017095.pdf)
-- [EFTA00017107](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017107.pdf)
-- [EFTA00017125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017125.pdf)
-- [EFTA00017702](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017702.pdf)
-- [EFTA00017711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017711.pdf)
-- [EFTA00017743](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017743.pdf)
-- [EFTA00017752](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017752.pdf)
-- [EFTA00017768](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017768.pdf)
-- [EFTA00017781](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017781.pdf)
-- [EFTA00017805](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017805.pdf)
-- [EFTA00017810](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017810.pdf)
-- [EFTA00017811](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017811.pdf)
-- [EFTA00017813](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017813.pdf)
-- [EFTA00017817](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017817.pdf)
-- [EFTA00017832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017832.pdf)
-- [EFTA00017837](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017837.pdf)
-- [EFTA00017867](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017867.pdf)
-- [EFTA00017881](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017881.pdf)
-- [EFTA00017884](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017884.pdf)
-- [EFTA00017886](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017886.pdf)
-- [EFTA00017887](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017887.pdf)
-- [EFTA00017892](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017892.pdf)
-- [EFTA00017911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017911.pdf)
-- [EFTA00017940](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017940.pdf)
-- [EFTA00017942](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017942.pdf)
-- [EFTA00018005](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018005.pdf)
-- [EFTA00018019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018019.pdf)
-- [EFTA00018020](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018020.pdf)
-- [EFTA00018022](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018022.pdf)
-- [EFTA00018031](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018031.pdf)
-- [EFTA00018032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018032.pdf)
-- [EFTA00018077](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018077.pdf)
-- [EFTA00018089](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018089.pdf)
-- [EFTA00018098](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018098.pdf)
-- [EFTA00018130](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018130.pdf)
-- [EFTA00018155](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018155.pdf)
-- [EFTA00018168](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018168.pdf)
-- [EFTA00018178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018178.pdf)
-- [EFTA00018186](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018186.pdf)
-- [EFTA00018192](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018192.pdf)
-- [EFTA00018228](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018228.pdf)
-- [EFTA00018236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018236.pdf)
-- [EFTA00018260](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018260.pdf)
-- [EFTA00018262](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018262.pdf)
-- [EFTA00018267](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018267.pdf)
-- [EFTA00018286](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018286.pdf)
-- [EFTA00018371](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018371.pdf)
-- [EFTA00018372](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018372.pdf)
-- [EFTA00018380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018380.pdf)
-- [EFTA00018381](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018381.pdf)
-- [EFTA00018391](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018391.pdf)
-- [EFTA00018402](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018402.pdf)
-- [EFTA00018430](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018430.pdf)
-- [EFTA00018434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018434.pdf)
-- [EFTA00018441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf)
-- [EFTA00018466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf)
-- [EFTA00018541](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018541.pdf)
-- [EFTA00018552](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018552.pdf)
-- [EFTA00018556](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018556.pdf)
-- [EFTA00018585](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018585.pdf)
-- [EFTA00018614](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018614.pdf)
-- [EFTA00018615](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018615.pdf)
-- [EFTA00018624](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018624.pdf)
-- [EFTA00018632](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018632.pdf)
-- [EFTA00018659](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018659.pdf)
-- [EFTA00018724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018724.pdf)
-- [EFTA00018735](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018735.pdf)
-- [EFTA00018837](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018837.pdf)
-- [EFTA00018838](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018838.pdf)
-- [EFTA00018840](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018840.pdf)
-- [EFTA00018841](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018841.pdf)
-- [EFTA00018860](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018860.pdf)
-- [EFTA00018874](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018874.pdf)
-- [EFTA00018878](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018878.pdf)
-- [EFTA00018883](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018883.pdf)
-- [EFTA00018889](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018889.pdf)
-- [EFTA00018891](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018891.pdf)
-- [EFTA00018892](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018892.pdf)
-- [EFTA00018893](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018893.pdf)
-- [EFTA00018905](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018905.pdf)
-- [EFTA00018922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018922.pdf)
-- [EFTA00018924](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018924.pdf)
-- [EFTA00018944](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018944.pdf)
-- [EFTA00018954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018954.pdf)
-- [EFTA00018957](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018957.pdf)
-- [EFTA00018959](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018959.pdf)
-- [EFTA00018989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018989.pdf)
-- [EFTA00018994](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018994.pdf)
-- [EFTA00018997](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018997.pdf)
-- [EFTA00019032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019032.pdf)
-- [EFTA00019045](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019045.pdf)
-- [EFTA00019046](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019046.pdf)
-- [EFTA00019047](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019047.pdf)
-- [EFTA00019051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019051.pdf)
-- [EFTA00019055](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019055.pdf)
-- [EFTA00019057](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019057.pdf)
-- [EFTA00019058](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019058.pdf)
-- [EFTA00019059](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019059.pdf)
-- [EFTA00019062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019062.pdf)
-- [EFTA00019071](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019071.pdf)
-- [EFTA00019082](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019082.pdf)
-- [EFTA00019086](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019086.pdf)
-- [EFTA00019088](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019088.pdf)
-- [EFTA00019112](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019112.pdf)
-- [EFTA00019126](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019126.pdf)
-- [EFTA00019127](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019127.pdf)
-- [EFTA00019129](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019129.pdf)
-- [EFTA00019130](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019130.pdf)
-- [EFTA00019131](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019131.pdf)
-- [EFTA00019133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019133.pdf)
-- [EFTA00019142](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019142.pdf)
-- [EFTA00019183](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019183.pdf)
-- [EFTA00019197](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019197.pdf)
-- [EFTA00019213](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019213.pdf)
-- [EFTA00019215](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019215.pdf)
-- [EFTA00019216](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019216.pdf)
-- [EFTA00019217](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019217.pdf)
-- [EFTA00019218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019218.pdf)
-- [EFTA00019219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019219.pdf)
-- [EFTA00019220](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019220.pdf)
-- [EFTA00019222](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019222.pdf)
-- [EFTA00019244](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019244.pdf)
-- [EFTA00019249](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019249.pdf)
-- [EFTA00019282](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019282.pdf)
-- [EFTA00019283](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019283.pdf)
-- [EFTA00019284](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019284.pdf)
-- [EFTA00019285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019285.pdf)
-- [EFTA00019286](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019286.pdf)
-- [EFTA00019289](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019289.pdf)
-- [EFTA00019314](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019314.pdf)
-- [EFTA00019338](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019338.pdf)
-- [EFTA00019341](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019341.pdf)
-- [EFTA00019342](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019342.pdf)
-- [EFTA00019407](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019407.pdf)
-- [EFTA00019415](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019415.pdf)
-- [EFTA00019418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019418.pdf)
-- [EFTA00019419](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019419.pdf)
-- [EFTA00019420](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019420.pdf)
-- [EFTA00019422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019422.pdf)
-- [EFTA00019437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019437.pdf)
-- [EFTA00019440](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019440.pdf)
-- [EFTA00019445](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019445.pdf)
-- [EFTA00019449](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019449.pdf)
-- [EFTA00019450](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019450.pdf)
-- [EFTA00019451](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019451.pdf)
-- [EFTA00019458](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019458.pdf)
-- [EFTA00019459](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019459.pdf)
-- [EFTA00019465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019465.pdf)
-- [EFTA00019471](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019471.pdf)
-- [EFTA00019486](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019486.pdf)
-- [EFTA00019492](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019492.pdf)
-- [EFTA00019493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019493.pdf)
-- [EFTA00019503](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019503.pdf)
-- [EFTA00019513](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019513.pdf)
-- [EFTA00019530](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019530.pdf)
-- [EFTA00019549](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019549.pdf)
-- [EFTA00019554](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019554.pdf)
-- [EFTA00019565](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019565.pdf)
-- [EFTA00019582](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019582.pdf)
-- [EFTA00019594](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019594.pdf)
-- [EFTA00019599](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019599.pdf)
-- [EFTA00019602](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019602.pdf)
-- [EFTA00019603](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019603.pdf)
-- [EFTA00019615](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019615.pdf)
-- [EFTA00019650](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019650.pdf)
-- [EFTA00019651](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019651.pdf)
-- [EFTA00019652](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019652.pdf)
-- [EFTA00019656](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019656.pdf)
-- [EFTA00019664](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019664.pdf)
-- [EFTA00019684](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019684.pdf)
-- [EFTA00019685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019685.pdf)
-- [EFTA00019686](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019686.pdf)
-- [EFTA00019701](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019701.pdf)
-- [EFTA00019703](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019703.pdf)
-- [EFTA00019708](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019708.pdf)
-- [EFTA00019718](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019718.pdf)
-- [EFTA00019719](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019719.pdf)
-- [EFTA00019744](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019744.pdf)
-- [EFTA00019747](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019747.pdf)
-- [EFTA00019750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019750.pdf)
-- [EFTA00019821](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019821.pdf)
-- [EFTA00019836](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019836.pdf)
-- [EFTA00019851](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019851.pdf)
-- [EFTA00019858](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019858.pdf)
-- [EFTA00019867](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019867.pdf)
-- [EFTA00019868](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019868.pdf)
-- [EFTA00019869](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019869.pdf)
-- [EFTA00019870](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019870.pdf)
-- [EFTA00019876](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019876.pdf)
-- [EFTA00019878](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019878.pdf)
-- [EFTA00019880](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019880.pdf)
-- [EFTA00019885](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019885.pdf)
-- [EFTA00019889](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019889.pdf)
-- [EFTA00019892](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019892.pdf)
-- [EFTA00019898](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019898.pdf)
-- [EFTA00019899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019899.pdf)
-- [EFTA00019904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019904.pdf)
-- [EFTA00019911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019911.pdf)
-- [EFTA00019912](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019912.pdf)
-- [EFTA00019926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019926.pdf)
-- [EFTA00019928](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019928.pdf)
-- [EFTA00019958](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019958.pdf)
-- [EFTA00019959](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019959.pdf)
-- [EFTA00019961](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019961.pdf)
-- [EFTA00019966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019966.pdf)
-- [EFTA00019971](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019971.pdf)
-- [EFTA00019976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019976.pdf)
-- [EFTA00019981](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019981.pdf)
-- [EFTA00019986](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019986.pdf)
-- [EFTA00020085](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020085.pdf)
-- [EFTA00020098](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020098.pdf)
-- [EFTA00020102](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020102.pdf)
-- [EFTA00020103](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020103.pdf)
-- [EFTA00020104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020104.pdf)
-- [EFTA00020105](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020105.pdf)
-- [EFTA00020107](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020107.pdf)
-- [EFTA00020213](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020213.pdf)
-- [EFTA00020232](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020232.pdf)
-- [EFTA00020237](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020237.pdf)
-- [EFTA00020248](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020248.pdf)
-- [EFTA00020320](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020320.pdf)
-- [EFTA00020322](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020322.pdf)
-- [EFTA00020352](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020352.pdf)
-- [EFTA00020355](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020355.pdf)
-- [EFTA00020358](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020358.pdf)
-- [EFTA00020359](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020359.pdf)
-- [EFTA00020364](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020364.pdf)
-- [EFTA00020365](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020365.pdf)
-- [EFTA00020395](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020395.pdf)
-- [EFTA00020397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020397.pdf)
-- [EFTA00020437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020437.pdf)
-- [EFTA00020439](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020439.pdf)
-- [EFTA00020447](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020447.pdf)
-- [EFTA00020457](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020457.pdf)
-- [EFTA00020462](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020462.pdf)
-- [EFTA00020470](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020470.pdf)
-- [EFTA00020477](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020477.pdf)
-- [EFTA00020479](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020479.pdf)
-- [EFTA00020481](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020481.pdf)
-- [EFTA00020526](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020526.pdf)
-- [EFTA00020527](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020527.pdf)
-- [EFTA00020541](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020541.pdf)
-- [EFTA00020576](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020576.pdf)
-- [EFTA00020621](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020621.pdf)
-- [EFTA00020664](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020664.pdf)
-- [EFTA00020668](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020668.pdf)
-- [EFTA00020685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020685.pdf)
-- [EFTA00020689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020689.pdf)
-- [EFTA00020692](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020692.pdf)
-- [EFTA00020696](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020696.pdf)
-- [EFTA00020703](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020703.pdf)
-- [EFTA00020711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020711.pdf)
-- [EFTA00020729](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020729.pdf)
-- [EFTA00020769](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020769.pdf)
-- [EFTA00020773](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020773.pdf)
-- [EFTA00020780](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020780.pdf)
-- [EFTA00020781](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020781.pdf)
-- [EFTA00020786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020786.pdf)
-- [EFTA00020792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020792.pdf)
-- [EFTA00020810](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020810.pdf)
-- [EFTA00020815](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020815.pdf)
-- [EFTA00020817](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020817.pdf)
-- [EFTA00020820](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020820.pdf)
-- [EFTA00020821](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020821.pdf)
-- [EFTA00020831](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020831.pdf)
-- [EFTA00020832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020832.pdf)
-- [EFTA00020833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020833.pdf)
-- [EFTA00020837](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020837.pdf)
-- [EFTA00020844](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020844.pdf)
-- [EFTA00020846](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020846.pdf)
-- [EFTA00020864](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020864.pdf)
-- [EFTA00020865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020865.pdf)
-- [EFTA00020870](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020870.pdf)
-- [EFTA00020881](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020881.pdf)
-- [EFTA00020889](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020889.pdf)
-- [EFTA00020906](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020906.pdf)
-- [EFTA00020909](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020909.pdf)
-- [EFTA00020920](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020920.pdf)
-- [EFTA00020932](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020932.pdf)
-- [EFTA00020940](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020940.pdf)
-- [EFTA00020965](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020965.pdf)
-- [EFTA00020966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020966.pdf)
-- [EFTA00020978](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020978.pdf)
-- [EFTA00021001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021001.pdf)
-- [EFTA00021012](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021012.pdf)
-- [EFTA00021028](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021028.pdf)
-- [EFTA00021029](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021029.pdf)
-- [EFTA00021033](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021033.pdf)
-- [EFTA00021034](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021034.pdf)
-- [EFTA00021036](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021036.pdf)
-- [EFTA00021055](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021055.pdf)
-- [EFTA00021073](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021073.pdf)
-- [EFTA00021076](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021076.pdf)
-- [EFTA00021113](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021113.pdf)
-- [EFTA00021151](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021151.pdf)
-- [EFTA00021154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021154.pdf)
-- [EFTA00021202](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021202.pdf)
-- [EFTA00021251](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021251.pdf)
-- [EFTA00021294](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021294.pdf)
-- [EFTA00021295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021295.pdf)
-- [EFTA00021297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021297.pdf)
-- [EFTA00021307](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021307.pdf)
-- [EFTA00021317](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021317.pdf)
-- [EFTA00021332](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021332.pdf)
-- [EFTA00021344](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021344.pdf)
-- [EFTA00021349](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021349.pdf)
-- [EFTA00021353](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021353.pdf)
-- [EFTA00021355](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021355.pdf)
-- [EFTA00021358](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021358.pdf)
-- [EFTA00021364](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021364.pdf)
-- [EFTA00021367](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021367.pdf)
-- [EFTA00021373](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021373.pdf)
-- [EFTA00021428](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021428.pdf)
-- [EFTA00021434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021434.pdf)
-- [EFTA00021442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021442.pdf)
-- [EFTA00021545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021545.pdf)
-- [EFTA00021547](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021547.pdf)
-- [EFTA00021552](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021552.pdf)
-- [EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf)
-- [EFTA00021568](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021568.pdf)
-- [EFTA00021573](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021573.pdf)
-- [EFTA00021626](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021626.pdf)
-- [EFTA00021636](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021636.pdf)
-- [EFTA00021638](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021638.pdf)
-- [EFTA00021644](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021644.pdf)
-- [EFTA00021648](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021648.pdf)
-- [EFTA00021650](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021650.pdf)
-- [EFTA00021661](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021661.pdf)
-- [EFTA00021685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021685.pdf)
-- [EFTA00021687](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021687.pdf)
-- [EFTA00021688](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021688.pdf)
-- [EFTA00021689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021689.pdf)
-- [EFTA00021699](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021699.pdf)
-- [EFTA00021701](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021701.pdf)
-- [EFTA00021711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021711.pdf)
-- [EFTA00021717](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021717.pdf)
-- [EFTA00021720](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021720.pdf)
-- [EFTA00021741](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021741.pdf)
-- [EFTA00021743](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021743.pdf)
-- [EFTA00021745](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021745.pdf)
-- [EFTA00021763](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021763.pdf)
-- [EFTA00021765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021765.pdf)
-- [EFTA00021768](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021768.pdf)
-- [EFTA00021812](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021812.pdf)
-- [EFTA00021819](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021819.pdf)
-- [EFTA00021832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021832.pdf)
-- [EFTA00021898](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021898.pdf)
-- [EFTA00021902](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021902.pdf)
-- [EFTA00021940](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021940.pdf)
-- [EFTA00021941](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021941.pdf)
-- [EFTA00021944](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021944.pdf)
-- [EFTA00021978](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021978.pdf)
-- [EFTA00021979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021979.pdf)
-- [EFTA00021980](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021980.pdf)
-- [EFTA00021983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021983.pdf)
-- [EFTA00021992](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021992.pdf)
-- [EFTA00021997](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021997.pdf)
-- [EFTA00022021](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022021.pdf)
-- [EFTA00022026](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022026.pdf)
-- [EFTA00022027](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022027.pdf)
-- [EFTA00022047](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022047.pdf)
-- [EFTA00022050](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022050.pdf)
-- [EFTA00022051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022051.pdf)
-- [EFTA00022052](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022052.pdf)
-- [EFTA00022054](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022054.pdf)
-- [EFTA00022055](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022055.pdf)
-- [EFTA00022056](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022056.pdf)
-- [EFTA00022057](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022057.pdf)
-- [EFTA00022059](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022059.pdf)
-- [EFTA00022062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022062.pdf)
-- [EFTA00022084](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022084.pdf)
-- [EFTA00022130](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022130.pdf)
-- [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf)
-- [EFTA00022151](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022151.pdf)
-- [EFTA00022177](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022177.pdf)
-- [EFTA00022179](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022179.pdf)
-- [EFTA00022181](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022181.pdf)
-- [EFTA00022197](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022197.pdf)
-- [EFTA00022328](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022328.pdf)
-- [EFTA00022343](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022343.pdf)
-- [EFTA00022349](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022349.pdf)
-- [EFTA00022351](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022351.pdf)
-- [EFTA00022360](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022360.pdf)
-- [EFTA00022361](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022361.pdf)
-- [EFTA00022383](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022383.pdf)
-- [EFTA00022483](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022483.pdf)
-- [EFTA00022484](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022484.pdf)
-- [EFTA00022503](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022503.pdf)
-- [EFTA00022511](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022511.pdf)
-- [EFTA00022527](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022527.pdf)
-- [EFTA00022545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022545.pdf)
-- [EFTA00022625](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022625.pdf)
-- [EFTA00022628](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022628.pdf)
-- [EFTA00022645](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022645.pdf)
-- [EFTA00022666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022666.pdf)
-- [EFTA00022960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022960.pdf)
-- [EFTA00022980](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022980.pdf)
-- [EFTA00022989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022989.pdf)
-- [EFTA00022991](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022991.pdf)
-- [EFTA00022997](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022997.pdf)
-- [EFTA00023032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023032.pdf)
-- [EFTA00023033](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023033.pdf)
-- [EFTA00023034](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023034.pdf)
-- [EFTA00023035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023035.pdf)
-- [EFTA00023043](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023043.pdf)
-- [EFTA00023045](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023045.pdf)
-- [EFTA00023073](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023073.pdf)
-- [EFTA00023074](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023074.pdf)
-- [EFTA00023080](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023080.pdf)
-- [EFTA00023110](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023110.pdf)
-- [EFTA00023113](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023113.pdf)
-- [EFTA00023132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023132.pdf)
-- [EFTA00023136](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023136.pdf)
-- [EFTA00023148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023148.pdf)
-- [EFTA00023169](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023169.pdf)
-- [EFTA00023182](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023182.pdf)
-- [EFTA00023202](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023202.pdf)
-- [EFTA00023217](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023217.pdf)
-- [EFTA00023226](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023226.pdf)
-- [EFTA00023230](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023230.pdf)
-- [EFTA00023252](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023252.pdf)
-- [EFTA00023318](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023318.pdf)
-- [EFTA00023326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023326.pdf)
-- [EFTA00023335](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023335.pdf)
-- [EFTA00023378](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023378.pdf)
-- [EFTA00023405](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023405.pdf)
-- [EFTA00023409](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023409.pdf)
-- [EFTA00023411](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023411.pdf)
-- [EFTA00023413](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023413.pdf)
-- [EFTA00023455](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023455.pdf)
-- [EFTA00023462](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023462.pdf)
-- [EFTA00023466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023466.pdf)
-- [EFTA00023467](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023467.pdf)
-- [EFTA00023478](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023478.pdf)
-- [EFTA00023480](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023480.pdf)
-- [EFTA00023485](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023485.pdf)
-- [EFTA00023532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023532.pdf)
-- [EFTA00023551](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023551.pdf)
-- [EFTA00023662](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023662.pdf)
-- [EFTA00023673](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023673.pdf)
-- [EFTA00023683](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023683.pdf)
-- [EFTA00023688](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023688.pdf)
-- [EFTA00023693](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023693.pdf)
-- [EFTA00023698](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023698.pdf)
-- [EFTA00023699](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023699.pdf)
-- [EFTA00023709](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023709.pdf)
-- [EFTA00023750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023750.pdf)
-- [EFTA00023765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023765.pdf)
-- [EFTA00023768](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023768.pdf)
-- [EFTA00023771](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023771.pdf)
-- [EFTA00023773](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023773.pdf)
-- [EFTA00023778](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023778.pdf)
-- [EFTA00023780](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023780.pdf)
-- [EFTA00023783](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023783.pdf)
-- [EFTA00023791](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023791.pdf)
-- [EFTA00023798](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023798.pdf)
-- [EFTA00023802](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023802.pdf)
-- [EFTA00023804](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023804.pdf)
-- [EFTA00023813](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023813.pdf)
-- [EFTA00023864](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023864.pdf)
-- [EFTA00023865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023865.pdf)
-- [EFTA00023869](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023869.pdf)
-- [EFTA00023894](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023894.pdf)
-- [EFTA00023918](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023918.pdf)
-- [EFTA00023952](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023952.pdf)
-- [EFTA00023957](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023957.pdf)
-- [EFTA00023962](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023962.pdf)
-- [EFTA00023993](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023993.pdf)
-- [EFTA00024027](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024027.pdf)
-- [EFTA00024032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024032.pdf)
-- [EFTA00024174](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024174.pdf)
-- [EFTA00024225](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024225.pdf)
-- [EFTA00024236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024236.pdf)
-- [EFTA00024248](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024248.pdf)
-- [EFTA00024259](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024259.pdf)
-- [EFTA00024275](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024275.pdf)
-- [EFTA00024279](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024279.pdf)
-- [EFTA00024287](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024287.pdf)
-- [EFTA00024292](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024292.pdf)
-- [EFTA00024296](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024296.pdf)
-- [EFTA00024297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024297.pdf)
-- [EFTA00024302](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024302.pdf)
-- [EFTA00024303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024303.pdf)
-- [EFTA00024404](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024404.pdf)
-- [EFTA00024437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024437.pdf)
-- [EFTA00024442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024442.pdf)
-- [EFTA00024471](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024471.pdf)
-- [EFTA00024474](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024474.pdf)
-- [EFTA00024501](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024501.pdf)
-- [EFTA00024502](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024502.pdf)
-- [EFTA00024507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024507.pdf)
-- [EFTA00024510](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024510.pdf)
-- [EFTA00024562](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024562.pdf)
-- [EFTA00024584](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024584.pdf)
-- [EFTA00024662](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024662.pdf)
-- [EFTA00024671](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024671.pdf)
-- [EFTA00024672](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024672.pdf)
-- [EFTA00024683](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024683.pdf)
-- [EFTA00024713](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024713.pdf)
-- [EFTA00024724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024724.pdf)
-- [EFTA00024731](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024731.pdf)
-- [EFTA00024788](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024788.pdf)
-- [EFTA00024791](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024791.pdf)
-- [EFTA00024805](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024805.pdf)
-- [EFTA00024818](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024818.pdf)
-- [EFTA00024822](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024822.pdf)
-- [EFTA00024830](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024830.pdf)
-- [EFTA00024868](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024868.pdf)
-- [EFTA00024872](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024872.pdf)
-- [EFTA00024879](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024879.pdf)
-- [EFTA00024891](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024891.pdf)
-- [EFTA00024896](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024896.pdf)
-- [EFTA00024897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024897.pdf)
-- [EFTA00024898](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024898.pdf)
-- [EFTA00024899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024899.pdf)
-- [EFTA00024904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024904.pdf)
-- [EFTA00024905](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024905.pdf)
-- [EFTA00024919](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024919.pdf)
-- [EFTA00024923](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024923.pdf)
-- [EFTA00024924](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024924.pdf)
-- [EFTA00024925](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024925.pdf)
-- [EFTA00024926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024926.pdf)
-- [EFTA00024952](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024952.pdf)
-- [EFTA00024954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024954.pdf)
-- [EFTA00024983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024983.pdf)
-- [EFTA00024984](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024984.pdf)
-- [EFTA00024986](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024986.pdf)
-- [EFTA00024987](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024987.pdf)
-- [EFTA00025000](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025000.pdf)
-- [EFTA00025018](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025018.pdf)
-- [EFTA00025032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025032.pdf)
-- [EFTA00025035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025035.pdf)
-- [EFTA00025041](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025041.pdf)
-- [EFTA00025057](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025057.pdf)
-- [EFTA00025062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025062.pdf)
-- [EFTA00025066](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025066.pdf)
-- [EFTA00025069](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025069.pdf)
-- [EFTA00025080](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025080.pdf)
-- [EFTA00025103](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025103.pdf)
-- [EFTA00025125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025125.pdf)
-- [EFTA00025146](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025146.pdf)
-- [EFTA00025159](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025159.pdf)
-- [EFTA00025160](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025160.pdf)
-- [EFTA00025165](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025165.pdf)
-- [EFTA00025166](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025166.pdf)
-- [EFTA00025175](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025175.pdf)
-- [EFTA00025186](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025186.pdf)
-- [EFTA00025196](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025196.pdf)
-- [EFTA00025200](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025200.pdf)
-- [EFTA00025206](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025206.pdf)
-- [EFTA00025218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025218.pdf)
-- [EFTA00025231](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025231.pdf)
-- [EFTA00025238](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025238.pdf)
-- [EFTA00025239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025239.pdf)
-- [EFTA00025273](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025273.pdf)
-- [EFTA00025274](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025274.pdf)
-- [EFTA00025286](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025286.pdf)
-- [EFTA00025287](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025287.pdf)
-- [EFTA00025295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025295.pdf)
-- [EFTA00025300](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025300.pdf)
-- [EFTA00025305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025305.pdf)
-- [EFTA00025312](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025312.pdf)
-- [EFTA00025319](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025319.pdf)
-- [EFTA00025324](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025324.pdf)
-- [EFTA00025329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025329.pdf)
-- [EFTA00025381](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025381.pdf)
-- [EFTA00025392](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025392.pdf)
-- [EFTA00025442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025442.pdf)
-- [EFTA00025443](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025443.pdf)
-- [EFTA00025469](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025469.pdf)
-- [EFTA00025481](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025481.pdf)
-- [EFTA00025499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025499.pdf)
-- [EFTA00025501](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025501.pdf)
-- [EFTA00025508](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025508.pdf)
-- [EFTA00025519](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025519.pdf)
-- [EFTA00025521](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025521.pdf)
-- [EFTA00025526](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025526.pdf)
-- [EFTA00025536](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025536.pdf)
-- [EFTA00025540](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025540.pdf)
-- [EFTA00025545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025545.pdf)
-- [EFTA00025547](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025547.pdf)
-- [EFTA00025548](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025548.pdf)
-- [EFTA00025549](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025549.pdf)
-- [EFTA00025550](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025550.pdf)
-- [EFTA00026428](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026428.pdf)
-- [EFTA00026478](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026478.pdf)
-- [EFTA00026491](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026491.pdf)
-- [EFTA00026521](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026521.pdf)
-- [EFTA00026524](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026524.pdf)
-- [EFTA00026528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026528.pdf)
-- [EFTA00026530](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026530.pdf)
-- [EFTA00026532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026532.pdf)
-- [EFTA00026534](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026534.pdf)
-- [EFTA00026542](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026542.pdf)
-- [EFTA00026544](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026544.pdf)
-- [EFTA00026568](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026568.pdf)
-- [EFTA00026571](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026571.pdf)
-- [EFTA00026574](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026574.pdf)
-- [EFTA00026594](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026594.pdf)
-- [EFTA00026609](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026609.pdf)
-- [EFTA00026618](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026618.pdf)
-- [EFTA00026637](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026637.pdf)
-- [EFTA00026640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026640.pdf)
-- [EFTA00026656](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026656.pdf)
-- [EFTA00026672](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026672.pdf)
-- [EFTA00026685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026685.pdf)
-- [EFTA00026703](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026703.pdf)
-- [EFTA00026715](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026715.pdf)
-- [EFTA00026741](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026741.pdf)
-- [EFTA00026750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026750.pdf)
-- [EFTA00026802](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026802.pdf)
-- [EFTA00026806](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026806.pdf)
-- [EFTA00026808](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026808.pdf)
-- [EFTA00026819](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026819.pdf)
-- [EFTA00026834](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026834.pdf)
-- [EFTA00026842](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026842.pdf)
-- [EFTA00026849](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026849.pdf)
-- [EFTA00026851](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026851.pdf)
-- [EFTA00026863](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026863.pdf)
-- [EFTA00026869](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026869.pdf)
-- [EFTA00026872](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026872.pdf)
-- [EFTA00026890](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026890.pdf)
-- [EFTA00026910](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026910.pdf)
-- [EFTA00026929](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026929.pdf)
-- [EFTA00026939](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026939.pdf)
-- [EFTA00026964](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026964.pdf)
-- [EFTA00026965](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026965.pdf)
-- [EFTA00026968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026968.pdf)
-- [EFTA00026978](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026978.pdf)
-- [EFTA00027018](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027018.pdf)
-- [EFTA00027030](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027030.pdf)
-- [EFTA00027031](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027031.pdf)
-- [EFTA00027045](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027045.pdf)
-- [EFTA00027057](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027057.pdf)
-- [EFTA00027064](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027064.pdf)
-- [EFTA00027069](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027069.pdf)
-- [EFTA00027071](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027071.pdf)
-- [EFTA00027072](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027072.pdf)
-- [EFTA00027084](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027084.pdf)
-- [EFTA00027104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027104.pdf)
-- [EFTA00027116](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027116.pdf)
-- [EFTA00027153](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027153.pdf)
-- [EFTA00027154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027154.pdf)
-- [EFTA00027158](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027158.pdf)
-- [EFTA00027184](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027184.pdf)
-- [EFTA00027189](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027189.pdf)
-- [EFTA00027194](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027194.pdf)
-- [EFTA00027199](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027199.pdf)
-- [EFTA00027204](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027204.pdf)
-- [EFTA00027209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027209.pdf)
-- [EFTA00027214](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027214.pdf)
-- [EFTA00027219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027219.pdf)
-- [EFTA00027225](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027225.pdf)
-- [EFTA00027257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027257.pdf)
-- [EFTA00027268](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027268.pdf)
-- [EFTA00027294](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027294.pdf)
-- [EFTA00027296](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027296.pdf)
-- [EFTA00027298](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027298.pdf)
-- [EFTA00027301](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027301.pdf)
-- [EFTA00027378](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027378.pdf)
-- [EFTA00027387](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027387.pdf)
-- [EFTA00027410](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027410.pdf)
-- [EFTA00027421](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027421.pdf)
-- [EFTA00027422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027422.pdf)
-- [EFTA00027424](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027424.pdf)
-- [EFTA00027433](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027433.pdf)
-- [EFTA00027442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027442.pdf)
-- [EFTA00027528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027528.pdf)
-- [EFTA00027556](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027556.pdf)
-- [EFTA00027589](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027589.pdf)
-- [EFTA00027655](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027655.pdf)
-- [EFTA00027657](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027657.pdf)
-- [EFTA00027659](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027659.pdf)
-- [EFTA00027704](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027704.pdf)
-- [EFTA00027711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027711.pdf)
-- [EFTA00027717](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027717.pdf)
-- [EFTA00027732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027732.pdf)
-- [EFTA00027753](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027753.pdf)
-- [EFTA00027776](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027776.pdf)
-- [EFTA00027871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027871.pdf)
-- [EFTA00027881](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027881.pdf)
-- [EFTA00027912](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027912.pdf)
-- [EFTA00027926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027926.pdf)
-- [EFTA00027933](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027933.pdf)
-- [EFTA00027942](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027942.pdf)
-- [EFTA00027947](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027947.pdf)
-- [EFTA00027949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027949.pdf)
-- [EFTA00027954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027954.pdf)
-- [EFTA00028001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028001.pdf)
-- [EFTA00028002](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028002.pdf)
-- [EFTA00028028](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028028.pdf)
-- [EFTA00028035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028035.pdf)
-- [EFTA00028039](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028039.pdf)
-- [EFTA00028044](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028044.pdf)
-- [EFTA00028045](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028045.pdf)
-- [EFTA00028049](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028049.pdf)
-- [EFTA00028052](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028052.pdf)
-- [EFTA00028102](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028102.pdf)
-- [EFTA00028125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028125.pdf)
-- [EFTA00028148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028148.pdf)
-- [EFTA00028161](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028161.pdf)
-- [EFTA00028168](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028168.pdf)
-- [EFTA00028183](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028183.pdf)
-- [EFTA00028201](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028201.pdf)
-- [EFTA00028203](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028203.pdf)
-- [EFTA00028205](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028205.pdf)
-- [EFTA00028206](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028206.pdf)
-- [EFTA00028207](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028207.pdf)
-- [EFTA00028209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028209.pdf)
-- [EFTA00028257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028257.pdf)
-- [EFTA00028260](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028260.pdf)
-- [EFTA00028265](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028265.pdf)
-- [EFTA00028272](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028272.pdf)
-- [EFTA00028274](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028274.pdf)
-- [EFTA00028279](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028279.pdf)
-- [EFTA00028284](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028284.pdf)
-- [EFTA00028297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028297.pdf)
-- [EFTA00028307](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028307.pdf)
-- [EFTA00028308](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028308.pdf)
-- [EFTA00028312](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028312.pdf)
-- [EFTA00028364](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028364.pdf)
-- [EFTA00028375](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028375.pdf)
-- [EFTA00028384](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028384.pdf)
-- [EFTA00028387](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028387.pdf)
-- [EFTA00028423](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028423.pdf)
-- [EFTA00028437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028437.pdf)
-- [EFTA00028446](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028446.pdf)
-- [EFTA00028461](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028461.pdf)
-- [EFTA00028526](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028526.pdf)
-- [EFTA00028528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028528.pdf)
-- [EFTA00028560](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028560.pdf)
-- [EFTA00028565](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028565.pdf)
-- [EFTA00028582](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028582.pdf)
-- [EFTA00028595](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028595.pdf)
-- [EFTA00028607](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028607.pdf)
-- [EFTA00028662](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028662.pdf)
-- [EFTA00028680](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028680.pdf)
-- [EFTA00028682](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028682.pdf)
-- [EFTA00028690](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028690.pdf)
-- [EFTA00028697](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028697.pdf)
-- [EFTA00028705](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028705.pdf)
-- [EFTA00028733](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028733.pdf)
-- [EFTA00028759](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028759.pdf)
-- [EFTA00028760](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028760.pdf)
-- [EFTA00028771](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028771.pdf)
-- [EFTA00028779](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028779.pdf)
-- [EFTA00028785](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028785.pdf)
-- [EFTA00028820](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028820.pdf)
-- [EFTA00028823](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028823.pdf)
-- [EFTA00028880](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028880.pdf)
-- [EFTA00028989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028989.pdf)
-- [EFTA00029004](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029004.pdf)
-- [EFTA00029024](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029024.pdf)
-- [EFTA00029025](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029025.pdf)
-- [EFTA00029036](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029036.pdf)
-- [EFTA00029043](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029043.pdf)
-- [EFTA00029066](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029066.pdf)
-- [EFTA00029068](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029068.pdf)
-- [EFTA00029074](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029074.pdf)
-- [EFTA00029147](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029147.pdf)
-- [EFTA00029167](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029167.pdf)
-- [EFTA00029169](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029169.pdf)
-- [EFTA00029171](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029171.pdf)
-- [EFTA00029223](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029223.pdf)
-- [EFTA00029224](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029224.pdf)
-- [EFTA00029230](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029230.pdf)
-- [EFTA00029240](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029240.pdf)
-- [EFTA00029260](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029260.pdf)
-- [EFTA00029264](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029264.pdf)
-- [EFTA00029275](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029275.pdf)
-- [EFTA00029293](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029293.pdf)
-- [EFTA00029302](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029302.pdf)
-- [EFTA00029303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029303.pdf)
-- [EFTA00029309](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029309.pdf)
-- [EFTA00029315](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029315.pdf)
-- [EFTA00029327](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029327.pdf)
-- [EFTA00029339](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029339.pdf)
-- [EFTA00029342](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029342.pdf)
-- [EFTA00029389](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029389.pdf)
-- [EFTA00029418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029418.pdf)
-- [EFTA00029420](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029420.pdf)
-- [EFTA00029421](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029421.pdf)
-- [EFTA00029422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029422.pdf)
-- [EFTA00029424](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029424.pdf)
-- [EFTA00029425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029425.pdf)
-- [EFTA00029426](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029426.pdf)
-- [EFTA00029428](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029428.pdf)
-- [EFTA00029434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029434.pdf)
-- [EFTA00029470](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029470.pdf)
-- [EFTA00029515](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029515.pdf)
-- [EFTA00029524](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029524.pdf)
-- [EFTA00029535](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029535.pdf)
-- [EFTA00029576](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029576.pdf)
-- [EFTA00029579](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029579.pdf)
-- [EFTA00029588](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029588.pdf)
-- [EFTA00029600](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029600.pdf)
-- [EFTA00029632](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029632.pdf)
-- [EFTA00029636](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029636.pdf)
-- [EFTA00029637](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029637.pdf)
-- [EFTA00029644](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029644.pdf)
-- [EFTA00029649](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029649.pdf)
-- [EFTA00029659](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029659.pdf)
-- [EFTA00029680](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029680.pdf)
-- [EFTA00029699](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029699.pdf)
-- [EFTA00029700](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029700.pdf)
-- [EFTA00029711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029711.pdf)
-- [EFTA00029712](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029712.pdf)
-- [EFTA00029713](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029713.pdf)
-- [EFTA00029732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029732.pdf)
-- [EFTA00029760](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029760.pdf)
-- [EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf)
-- [EFTA00029774](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029774.pdf)
-- [EFTA00029796](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029796.pdf)
-- [EFTA00029800](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029800.pdf)
-- [EFTA00029804](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029804.pdf)
-- [EFTA00029842](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029842.pdf)
-- [EFTA00029860](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029860.pdf)
-- [EFTA00029893](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029893.pdf)
-- [EFTA00029894](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029894.pdf)
-- [EFTA00029932](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029932.pdf)
-- [EFTA00029939](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029939.pdf)
-- [EFTA00029966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029966.pdf)
-- [EFTA00029975](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029975.pdf)
-- [EFTA00029979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029979.pdf)
-- [EFTA00029980](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029980.pdf)
-- [EFTA00029981](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029981.pdf)
-- [EFTA00029982](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029982.pdf)
-- [EFTA00029984](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029984.pdf)
-- [EFTA00029985](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029985.pdf)
-- [EFTA00029989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029989.pdf)
-- [EFTA00029990](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029990.pdf)
-- [EFTA00029991](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029991.pdf)
-- [EFTA00030019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030019.pdf)
-- [EFTA00030021](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030021.pdf)
-- [EFTA00030035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030035.pdf)
-- [EFTA00030058](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030058.pdf)
-- [EFTA00030063](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030063.pdf)
-- [EFTA00030073](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030073.pdf)
-- [EFTA00030084](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030084.pdf)
-- [EFTA00030094](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030094.pdf)
-- [EFTA00030101](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030101.pdf)
-- [EFTA00030108](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030108.pdf)
-- [EFTA00030115](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030115.pdf)
-- [EFTA00030118](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030118.pdf)
-- [EFTA00030122](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030122.pdf)
-- [EFTA00030124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030124.pdf)
-- [EFTA00030148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030148.pdf)
-- [EFTA00030154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030154.pdf)
-- [EFTA00030155](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030155.pdf)
-- [EFTA00030175](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030175.pdf)
-- [EFTA00030190](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030190.pdf)
-- [EFTA00030222](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030222.pdf)
-- [EFTA00030223](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030223.pdf)
-- [EFTA00030245](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030245.pdf)
-- [EFTA00030281](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030281.pdf)
-- [EFTA00030303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030303.pdf)
-- [EFTA00030305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030305.pdf)
-- [EFTA00030306](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030306.pdf)
-- [EFTA00030316](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030316.pdf)
-- [EFTA00030386](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030386.pdf)
-- [EFTA00030392](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030392.pdf)
-- [EFTA00030413](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030413.pdf)
-- [EFTA00030487](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030487.pdf)
-- [EFTA00030498](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030498.pdf)
-- [EFTA00030518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030518.pdf)
-- [EFTA00030520](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030520.pdf)
-- [EFTA00030528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030528.pdf)
-- [EFTA00030532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030532.pdf)
-- [EFTA00030549](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030549.pdf)
-- [EFTA00030552](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030552.pdf)
-- [EFTA00030563](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030563.pdf)
-- [EFTA00030564](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030564.pdf)
-- [EFTA00030569](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030569.pdf)
-- [EFTA00030586](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030586.pdf)
-- [EFTA00030588](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030588.pdf)
-- [EFTA00030592](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030592.pdf)
-- [EFTA00030625](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030625.pdf)
-- [EFTA00030628](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030628.pdf)
-- [EFTA00030638](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030638.pdf)
-- [EFTA00030640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030640.pdf)
-- [EFTA00030664](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030664.pdf)
-- [EFTA00030686](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030686.pdf)
-- [EFTA00030689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030689.pdf)
-- [EFTA00030692](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030692.pdf)
-- [EFTA00030698](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030698.pdf)
-- [EFTA00030705](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030705.pdf)
-- [EFTA00030708](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030708.pdf)
-- [EFTA00030735](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030735.pdf)
-- [EFTA00030745](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030745.pdf)
-- [EFTA00030757](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030757.pdf)
-- [EFTA00030764](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030764.pdf)
-- [EFTA00030765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030765.pdf)
-- [EFTA00030767](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030767.pdf)
-- [EFTA00030798](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030798.pdf)
-- [EFTA00030818](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030818.pdf)
-- [EFTA00030825](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030825.pdf)
-- [EFTA00030830](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030830.pdf)
-- [EFTA00030831](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030831.pdf)
-- [EFTA00030832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030832.pdf)
-- [EFTA00030842](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030842.pdf)
-- [EFTA00030861](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030861.pdf)
-- [EFTA00030865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030865.pdf)
-- [EFTA00030868](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030868.pdf)
-- [EFTA00030870](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030870.pdf)
-- [EFTA00030888](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030888.pdf)
-- [EFTA00030904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030904.pdf)
-- [EFTA00030918](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030918.pdf)
-- [EFTA00030934](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030934.pdf)
-- [EFTA00030943](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030943.pdf)
-- [EFTA00030960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030960.pdf)
-- [EFTA00030978](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030978.pdf)
-- [EFTA00030983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030983.pdf)
-- [EFTA00030986](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030986.pdf)
-- [EFTA00030992](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030992.pdf)
-- [EFTA00031004](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031004.pdf)
-- [EFTA00031016](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031016.pdf)
-- [EFTA00031095](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031095.pdf)
-- [EFTA00031107](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031107.pdf)
-- [EFTA00031109](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031109.pdf)
-- [EFTA00031111](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031111.pdf)
-- [EFTA00031113](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031113.pdf)
-- [EFTA00031176](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031176.pdf)
-- [EFTA00031198](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031198.pdf)
-- [EFTA00031199](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031199.pdf)
-- [EFTA00031215](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031215.pdf)
-- [EFTA00031249](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031249.pdf)
-- [EFTA00031250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031250.pdf)
-- [EFTA00031251](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031251.pdf)
-- [EFTA00031252](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031252.pdf)
-- [EFTA00031256](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031256.pdf)
-- [EFTA00031257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031257.pdf)
-- [EFTA00031262](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031262.pdf)
-- [EFTA00031297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031297.pdf)
-- [EFTA00031332](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031332.pdf)
-- [EFTA00031349](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031349.pdf)
-- [EFTA00031360](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031360.pdf)
-- [EFTA00031388](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031388.pdf)
-- [EFTA00031401](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031401.pdf)
-- [EFTA00031409](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031409.pdf)
-- [EFTA00031410](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031410.pdf)
-- [EFTA00031422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031422.pdf)
-- [EFTA00031424](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031424.pdf)
-- [EFTA00031434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031434.pdf)
-- [EFTA00031435](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031435.pdf)
-- [EFTA00031437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031437.pdf)
-- [EFTA00031439](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031439.pdf)
-- [EFTA00031440](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031440.pdf)
-- [EFTA00031450](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031450.pdf)
-- [EFTA00031506](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031506.pdf)
-- [EFTA00031508](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031508.pdf)
-- [EFTA00031510](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031510.pdf)
-- [EFTA00031512](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031512.pdf)
-- [EFTA00031518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031518.pdf)
-- [EFTA00031576](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031576.pdf)
-- [EFTA00031583](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031583.pdf)
-- [EFTA00031589](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031589.pdf)
-- [EFTA00031609](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031609.pdf)
-- [EFTA00031677](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031677.pdf)
-- [EFTA00031688](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031688.pdf)
-- [EFTA00031689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031689.pdf)
-- [EFTA00031694](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031694.pdf)
-- [EFTA00031704](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031704.pdf)
-- [EFTA00031705](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031705.pdf)
-- [EFTA00031720](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031720.pdf)
-- [EFTA00031722](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031722.pdf)
-- [EFTA00031728](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031728.pdf)
-- [EFTA00031729](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031729.pdf)
-- [EFTA00031733](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031733.pdf)
-- [EFTA00031841](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031841.pdf)
-- [EFTA00031845](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031845.pdf)
-- [EFTA00031846](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031846.pdf)
-- [EFTA00031850](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031850.pdf)
-- [EFTA00031856](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031856.pdf)
-- [EFTA00031950](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031950.pdf)
-- [EFTA00031978](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031978.pdf)
-- [EFTA00031979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031979.pdf)
-- [EFTA00031986](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031986.pdf)
-- [EFTA00031987](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031987.pdf)
-- [EFTA00031989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031989.pdf)
-- [EFTA00031994](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031994.pdf)
-- [EFTA00032002](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032002.pdf)
-- [EFTA00032003](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032003.pdf)
-- [EFTA00032004](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032004.pdf)
-- [EFTA00032018](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032018.pdf)
-- [EFTA00032020](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032020.pdf)
-- [EFTA00032021](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032021.pdf)
-- [EFTA00032127](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032127.pdf)
-- [EFTA00032131](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032131.pdf)
-- [EFTA00032138](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032138.pdf)
-- [EFTA00032141](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032141.pdf)
-- [EFTA00032202](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032202.pdf)
-- [EFTA00032205](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032205.pdf)
-- [EFTA00032225](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032225.pdf)
-- [EFTA00032303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032303.pdf)
-- [EFTA00032317](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032317.pdf)
-- [EFTA00032330](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032330.pdf)
-- [EFTA00032349](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032349.pdf)
-- [EFTA00032383](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032383.pdf)
-- [EFTA00032400](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032400.pdf)
-- [EFTA00032409](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032409.pdf)
-- [EFTA00032446](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032446.pdf)
-- [EFTA00032447](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032447.pdf)
-- [EFTA00032448](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032448.pdf)
-- [EFTA00032454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032454.pdf)
-- [EFTA00032465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032465.pdf)
-- [EFTA00032502](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032502.pdf)
-- [EFTA00032515](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032515.pdf)
-- [EFTA00032518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032518.pdf)
-- [EFTA00032553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032553.pdf)
-- [EFTA00032556](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032556.pdf)
-- [EFTA00032562](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032562.pdf)
-- [EFTA00032583](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032583.pdf)
-- [EFTA00032593](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032593.pdf)
-- [EFTA00032594](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032594.pdf)
-- [EFTA00032597](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032597.pdf)
-- [EFTA00032669](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032669.pdf)
-- [EFTA00032686](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032686.pdf)
-- [EFTA00032721](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032721.pdf)
-- [EFTA00032732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032732.pdf)
-- [EFTA00032738](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032738.pdf)
-- [EFTA00032748](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032748.pdf)
-- [EFTA00032751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032751.pdf)
-- [EFTA00032753](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032753.pdf)
-- [EFTA00032785](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032785.pdf)
-- [EFTA00032790](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032790.pdf)
-- [EFTA00032792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032792.pdf)
-- [EFTA00032799](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032799.pdf)
-- [EFTA00032809](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032809.pdf)
-- [EFTA00032872](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032872.pdf)
-- [EFTA00032884](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032884.pdf)
-- [EFTA00032897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032897.pdf)
-- [EFTA00032901](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032901.pdf)
-- [EFTA00032913](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032913.pdf)
-- [EFTA00032922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032922.pdf)
-- [EFTA00032932](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032932.pdf)
-- [EFTA00032947](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032947.pdf)
-- [EFTA00032960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032960.pdf)
-- [EFTA00032964](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032964.pdf)
-- [EFTA00032976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032976.pdf)
-- [EFTA00033580](https://www.justice.gov/epstein/files/DataSet%208/EFTA00033580.pdf)
-- [EFTA00037000](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037000.pdf)
-- [EFTA00037001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037001.pdf)
-- [EFTA00037002](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037002.pdf)
-- [EFTA00037011](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037011.pdf)
-- [EFTA00037063](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037063.pdf)
-- [EFTA00037118](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037118.pdf)
-- [EFTA00037250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037250.pdf)
-- [EFTA00037269](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037269.pdf)
-- [EFTA00037415](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037415.pdf)
-- [EFTA00037445](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037445.pdf)
-- [EFTA00037454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037454.pdf)
-- [EFTA00037509](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037509.pdf)
-- [EFTA00037683](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037683.pdf)
-- [EFTA00037749](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037749.pdf)
-- [EFTA00037766](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037766.pdf)
-- [EFTA00037775](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037775.pdf)
-- [EFTA00037778](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037778.pdf)
-- [EFTA00037779](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037779.pdf)
-- [EFTA00037783](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037783.pdf)
-- [EFTA00037812](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037812.pdf)
-- [EFTA00037833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037833.pdf)
-- [EFTA00037866](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037866.pdf)
-- [EFTA00037895](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037895.pdf)
-- [EFTA00037896](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037896.pdf)
-- [EFTA00037897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037897.pdf)
-- [EFTA00037899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037899.pdf)
-- [EFTA00037907](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037907.pdf)
-- [EFTA00037911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037911.pdf)
-- [EFTA00037912](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037912.pdf)
-- [EFTA00037922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037922.pdf)
-- [EFTA00037925](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037925.pdf)
-- [EFTA00037927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037927.pdf)
-- [EFTA00037929](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037929.pdf)
-- [EFTA00037930](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037930.pdf)
-- [EFTA00037937](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037937.pdf)
-- [EFTA00037939](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037939.pdf)
-- [EFTA00037949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037949.pdf)
-- [EFTA00037955](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037955.pdf)
-- [EFTA00037960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037960.pdf)
-- [EFTA00037962](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037962.pdf)
-- [EFTA00037963](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037963.pdf)
-- [EFTA00037994](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037994.pdf)
-- [EFTA00037997](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037997.pdf)
-- [EFTA00038003](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038003.pdf)
-- [EFTA00038006](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038006.pdf)
-- [EFTA00038034](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038034.pdf)
-- [EFTA00038037](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038037.pdf)
-- [EFTA00038117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038117.pdf)
-- [EFTA00038276](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038276.pdf)
-- [EFTA00038318](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038318.pdf)
-- [EFTA00038329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038329.pdf)
-- [EFTA00038397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038397.pdf)
-- [EFTA00038404](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038404.pdf)
-- [EFTA00038450](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038450.pdf)
-- [EFTA00038453](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038453.pdf)
-- [EFTA00038502](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038502.pdf)
-- [EFTA00038559](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038559.pdf)
-- [EFTA00038586](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038586.pdf)
-- [EFTA00038604](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038604.pdf)
-- [EFTA00038674](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038674.pdf)
-- [EFTA00038717](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038717.pdf)
-- [EFTA00038718](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038718.pdf)
-- [EFTA00038763](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038763.pdf)
-- [EFTA00038774](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038774.pdf)
-- [EFTA00038777](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038777.pdf)
-- [EFTA00038796](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038796.pdf)
-- [EFTA00038835](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038835.pdf)
-- [EFTA00038839](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038839.pdf)
-- [EFTA00038862](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038862.pdf)
-- [EFTA00038896](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038896.pdf)
-- [EFTA00038949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038949.pdf)
-- [EFTA00038972](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038972.pdf)
-- [EFTA00038980](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038980.pdf)
-
-
-**Document Details:**
+**Document Details (1131):**
 
 | Doc ID | Type | Title/Subject | Context | Cross-Refs | From | To |
 |--------|------|---------------|---------|------------|------|-----|
-| [EFTA00001728](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001728.pdf) | Document | Document |  | None | N/A | N/A |
-| [EFTA00002907](https://www.justice.gov/epstein/files/DataSet%201/EFTA00002907.pdf) | Document | Document |  | None | N/A | N/A |
-| [EFTA00003067](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003067.pdf) | Document | 6100 Red Hook Quarters Suite B-3 St. |  | None | N/A | N/A |
-| [EFTA00003090](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003090.pdf) | Document | Document |  | None | N/A | N/A |
-| [EFTA00003732](https://www.justice.gov/epstein/files/DataSet%202/EFTA00003732.pdf) | Document | Document |  | None | N/A | N/A |
-| [EFTA00005718](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf) | Email | U. | ...ice United States Attorney Southern District of New York The Silvia I. Motto Building One Saint A... | None | N/A | GREETINGS: |
+| [EFTA00005718](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005718.pdf) | Email | Document | ...ice United States Attorney Southern District of New York The Silvia I. Motto Building One Saint A... | None | N/A | GREETINGS: |
 | [EFTA00005740](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005740.pdf) | Email | AppDatatocal/M ierosoft/W indows/Tem porarr/020Intemet%. | ...stice United States Attorney Southern District of New York The Silvio!. Mono liuddIng One Saint A... | None | N/A | GREETINGS: |
 | [EFTA00005924](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005924.pdf) | Email | Unouthorfrod scan. | ...REY S. B AN United States Attorney for the cnilthprn Assistant United States Attorneys One St. An... | None | N/A | GREETINGS: |
-| [EFTA00007157](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007157.pdf) | News Article | PALM BEACH -POLICE DEPARTMENT |  | None | N/A | N/A |
-| [EFTA00007585](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007585.pdf) | Email | Carpenter & Company, Inc. |  | None | N/A | [JEFFREY EPSTEIN](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00007781](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007781.pdf) | Legal Filing | FEDERAL BUREAU OF INVESMATION |  | None | N/A | N/A |
-| [EFTA00007824](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007824.pdf) | Document | Socal Security Number |  | None | N/A | N/A |
-| [EFTA00007893](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007893.pdf) | Email | Town of Palm Beach efklcsA |  | None | N/A | 4 |
 | [EFTA00008020](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008020.pdf) | News Article | "One of the great masters of massage. | ...s and business owners. Massaged Red Cross volunteers and army personnel in aftermath of Hurricane... | None | N/A | N/A |
-| [EFTA00008120](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008120.pdf) | News Article | Part II: The Art of Receiving Massage |  | None | N/A | N/A |
 | [EFTA00008220](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008220.pdf) | News Article | Chapter 11: Putting the Moves Together 173 | ...the front lines at athletic events and disaster sites, among others. For example, after Hurricane... | None | N/A | N/A |
 | [EFTA00008320](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008320.pdf) | Email | 272 Part V: Living the Good Life: Massage for Every Body | ...336 hospices, 282 hot tubs, 243 hotels, 113 Hudson, Clare Maxwell, 307 humerus, 51 Hurricane Andr... | None | N/A | N/A |
-| [EFTA00008870](https://www.justice.gov/epstein/files/DataSet%206/EFTA00008870.pdf) | Document | Records Listed For: JEFFREY EPSTEIN from 04/11/2005 to 04/11/2005 |  | None | N/A | N/A |
-| [EFTA00009016](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf) | Email | day, you were calling for some edits that really reflected -- |  | None | N/A | N/A |
 | [EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf) | News Article | right about that same time, he quite quickly | ...ch is, you 4 know, was, you know, did Mr. Epstein force a minor to have 5 sexual relations with P... | None | N/A | N/A |
-| [EFTA00009478](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009478.pdf) | Legal Filing | Document |  | None | N/A | N/A |
 | [EFTA00009550](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009550.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...just came 23 out regarding Mr. Epstein and his connection, or his 24 personal relationship with P... | None | N/A | N/A |
-| [EFTA00009586](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009586.pdf) | Legal Filing | MM20-GJ TESTIMONY-O00368 |  | None | N/A | N/A |
-| [EFTA00009808](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009808.pdf) | Email | RE: Epstein FOIAs | ...) Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | Cc: | [Subject: Epstein FOlAs](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00009808](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009808.pdf) | Email | RE: Epstein FOIAs | ...) Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | Cc: | Subject: Epstein FOlAs |
 | [EFTA00009823](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009823.pdf) | Email | RE: | ...=============== From: ' To: ' Cc: " Subject: RE: : Yahoo Lifestyle - "Prince Harry Comments on Pr... | None | ' | ' |
 | [EFTA00009860](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009860.pdf) | Email | RE: SDFL Epstein-related documents | ...ve used in the past please? Assistant United States Attorney Southern District of New York I St. ... | None | < | ' |
-| [EFTA00009865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009865.pdf) | Email | RE: Filing | ...evening if needed. Thanks, Assistant United States Attorney Southern District of New York I St. A... | None | [Sigrid McCawley <I](/S/SIGRID-MCCAWLEY.md) | ' |
+| [EFTA00009865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009865.pdf) | Email | RE: Filing | ...evening if needed. Thanks, Assistant United States Attorney Southern District of New York I St. A... | None | Sigrid McCawley <I | ' |
 | [EFTA00009895](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009895.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) - Letter Regarding Redactions to Defense Reply Briefs and | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Cc: |
 | [EFTA00009897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009897.pdf) | Email | RE: United States v. Ghislaine Maxwell, 20 Cr. 330 (MN) | ...in person. Respectfully, d States Attorney Southern District of New York EFTA00009897 One Saint A... | None | ' | Nathan NYSD Chambers <I |
-| [EFTA00009914](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009914.pdf) | Email | FW: Epstein Estate | ...47 United Kingdom +44 20 3443 6288 United States +1 (201) 630-0824 Full list of dial-in numbers A... | None | ["Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) | [Weinstein, Marc A.](/H/HARVEY-WEINSTEIN.md) |
-| [EFTA00009915](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009915.pdf) | Email | Epstein Estate | ...ntment From: Weinstein, Marc A. Sent: Monday, November 9, 2020 10:35 AM To: Weinstein, Marc A.; A... | None | [Weinstein, Marc A.](/H/HARVEY-WEINSTEIN.md) | [Weinstein, Marc A.;](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00009914](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009914.pdf) | Email | FW: Epstein Estate | ...47 United Kingdom +44 20 3443 6288 United States +1 (201) 630-0824 Full list of dial-in numbers A... | None | "Weinstein, Marc A." | Weinstein, Marc A. |
+| [EFTA00009915](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009915.pdf) | Email | Epstein Estate | ...ntment From: Weinstein, Marc A. Sent: Monday, November 9, 2020 10:35 AM To: Weinstein, Marc A.; A... | None | Weinstein, Marc A. | Weinstein, Marc A.; |
 | [EFTA00009924](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009924.pdf) | Email | Re: Laptop for Ghislaine Maxwell (Reg. No. 02879-509) | ...l do, thank you very much. Assistant United States Attorney Southern District of New York 1 St. A... | None | Sent: Monday, November 16, 2020 1:59 PM | Cc: |
 | [EFTA00009927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009927.pdf) | Legal Filing | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00009958](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009958.pdf) | Legal Filing | FEDERAL BUREAU OF INVESTIGATION |  | None | N/A | N/A |
 | [EFTA00009964](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009964.pdf) | Email | Outstanding requests - update | ...o work through the spreadsheet as well. Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. ... | None | '• | (USANYS)" < |
-| [EFTA00009983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009983.pdf) | Email | RE: Daubert motion |  | None | Sent: Monday, November 8, 2021 7:02 PM | Cc: |
 | [EFTA00010017](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010017.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00010021](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010021.pdf) | Email | Maxwell fact witness travel |  | None | ' | ' |
 | [EFTA00010024](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010024.pdf) | Legal Filing | Attachments: 2021. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Tol | N/A |
-| [EFTA00010036](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010036.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) - Letter Motion |  | None | To: | Cc: |
 | [EFTA00010037](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010037.pdf) | Legal Filing | U. | ...tice United States Attorney Southern District of New York The Silvio!. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00010040](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010040.pdf) | Legal Filing | U. | ...ustice United States Attorney Southern District of New York The SiAdol Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00010043](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010043.pdf) | Email | RE: Outside juror research | ...at time, etc.)? Thanks, EFTA00010043 Paralegal Specialist U.S. Attorney's Office I SDNY 1 Saint A... | None | To: | Cc: |
-| [EFTA00010083](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010083.pdf) | Document | U. |  | None | N/A | N/A |
-| [EFTA00010102](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010102.pdf) | Email | RE: Redaction |  | None | Nathan NYSD Chambers c | Cc: |
-| [EFTA00010104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010104.pdf) | Email | US v. Maxwell, 20 Cr. 330 (MN) - Birth Certificates |  | None | N/A | Nathan NYSD Chambers |
 | [EFTA00010105](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010105.pdf) | Document | U. | ...stice United States Attorney Southern District of New York The SilWoJ. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00010111](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010111.pdf) | Document | U. | ...stice United States Attorney Southern District of New York The SilWoJ. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00010117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010117.pdf) | Email | US v. Maxwell. 20 Cr. 330 (AJN) |  | None | [To: Sigrid McCawley •](/S/SIGRID-MCCAWLEY.md) | [Sigrid McCawley •](/S/SIGRID-MCCAWLEY.md) |
 | [EFTA00010118](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010118.pdf) | Document | U. | ...stice United States Attorney Southern District of New York The SilWoJ. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00010133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010133.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00010139](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010139.pdf) | Email | Fwd: Ghislaine Maxwell update | ...nd bars. 5) Is the investigation into Maxwell and Epstein's network still ongoing? 6) If so, does... | None | (USANYS)" alMINE> | " |
@@ -1484,7 +49,6 @@
 | [EFTA00010159](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010159.pdf) | Email | US v. Maxwell, 20 Cr. 330 (MN) | ...tUUniited States Attorney United States Attorney's Office Southern District of New York One St. A... | None | (USANYS)" | Christian Everdell .< |
 | [EFTA00010160](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010160.pdf) | Document | U. | ...ice United States Attorney Southern District IV-New York The Siltio.1. Moll° Building One Saint A... | None | N/A | N/A |
 | [EFTA00010162](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010162.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Siltio.1. Moll° Building One Saint A... | None | N/A | N/A |
-| [EFTA00010178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010178.pdf) | Email | R |  | None | Sent: Thursda November 11, 20219:46 AM | (USANYS) [Contractor] |
 | [EFTA00010180](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010180.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00010183](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010183.pdf) | Email | Witness Travel Chart | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | Subject: Witness Travel Chart |
 | [EFTA00010196](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010196.pdf) | Legal Filing | Case 1:20-cr-00330-AJN Document 78 Filed 12/02/20 Page 1 of 2 | ...tice United States Attorney Southern District of New York The Silvio J. Mono Building One Saint A... | None | N/A | N/A |
@@ -1492,31 +56,25 @@
 | [EFTA00010211](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010211.pdf) | Email | RE: New drive for Maxwell | ...ways, for your help. Best, Assistant United States Attorney Southern District of New York 1 St. A... | None | Sent: Frida , December 4, 2020 7:41 AM | Cc: |
 | [EFTA00010220](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010220.pdf) | Document | Attachments: Fact_ Witness_ Travel_Requestitrial). | ...ile he's here. Thanksl Assistant United States Attorney Southern District of New York One Saint A... | None | " | N/A |
 | [EFTA00010241](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010241.pdf) | Email | Date: | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Cc: |
-| [EFTA00010243](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010243.pdf) | Email | Prritthatates Piztrict Tourt | ...AUDREY STRAUSS United States Attorney for the New York Assistant United States Attorney One St. A... | None | N/A | [The Mar-a-Lago Club](/M/MARALAGO.md) |
+| [EFTA00010243](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010243.pdf) | Email | Prritthatates Piztrict Tourt | ...AUDREY STRAUSS United States Attorney for the New York Assistant United States Attorney One St. A... | None | N/A | The Mar-a-Lago Club |
 | [EFTA00010244](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010244.pdf) | Email | Juror questionnaires to review for tomorrow | ...m happy to accommodate however I can). Paralegal Specialist U.S. Attorney's Office SDNY 1 Saint A... | None | To: | Cc: |
-| [EFTA00010245](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010245.pdf) | Email | RE: documents for Relativity |  | None | Sent: Monday, April 22, 2019 15:55 | Cc |
-| [EFTA00010252](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010252.pdf) | Email | RE: documents for Relativity |  | None | Sent: Monday, April 22, 2019 15:55 | Cc: |
-| [EFTA00010256](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010256.pdf) | Email | RE: documents for Relativity |  | None | To: ' | ' |
-| [EFTA00010261](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010261.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...P.M. to discuss ? Thanks. Assistant United States Attorney Southern District of New York 1 St. An... | None | [Gloria Allred <I](/G/GLORIA-ALLRED.md) | ' |
+| [EFTA00010261](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010261.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...P.M. to discuss ? Thanks. Assistant United States Attorney Southern District of New York 1 St. An... | None | Gloria Allred <I | ' |
 | [EFTA00010285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010285.pdf) | Email | RE: Letter | ...dule a meeting at the MDC. Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | Cc: |
 | [EFTA00010287](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010287.pdf) | Legal Filing | U. | ...tice United States Attorney Southern District of New York The Silvio!. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00010302](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010302.pdf) | Email | draft MCC press release | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Subject: draft MCC press release |
 | [EFTA00010305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010305.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...aires on place 707. en.wikipedia.org What a coincidence: https://www.vanityfair.com/news/2018/03/... | None | Chris Dilorio | EFTA00010305 |
 | [EFTA00010321](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010321.pdf) | Email | RE: Reference materials further to our call | ...l not occur. Best regards, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: Gary Bloxsome | Gary Bloxsome |
 | [EFTA00010339](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010339.pdf) | Document | Southern District of New York | ...=================================== UMB June 10, 2020 Attn: Southern District of New York 1 ST An... | None | N/A | N/A |
-| [EFTA00010351](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010351.pdf) | Email | RE: documents for Relativity |  | None | To: ' | ' |
 | [EFTA00010379](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010379.pdf) | Email | envelope | ...ing his death. Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Cc: |
 | [EFTA00010380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010380.pdf) | Email | Re: Media Inquiry from | ...am looking to find out if you have any comment on the claim in newly unsealed court documents tha... | None | To:" | " |
 | [EFTA00010383](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010383.pdf) | Legal Filing | PnitetratatesPiEstria anurt | ...United States Attorney for the C.... a • • L1r V Z. Assistant United States Attorney One St. Andr... | None | N/A | GREETINGS: |
 | [EFTA00010384](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010384.pdf) | Email | Prince Andrew | ============================================================ From: To: Cc: Subject: Prince Andrew Da... | None | To: | Cc: |
-| [EFTA00010410](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010410.pdf) | Email | RE: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Order | ...ne (USANYS)" <Maurene.Comey®usdoj.gov>, "Moe, Alison (USANYS)" <Alison.Moe®usdoj.gov>, "Rohrbach,... | None | Christian Everdell <CEverdell®CohenGresser.com> | ["Pomerantz, Lara (USANYS)." <Lara.Pomerantz@usdoj.gov>, "Com](/D/DOJ.md) |
+| [EFTA00010410](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010410.pdf) | Email | RE: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Order | ...ne (USANYS)" <Maurene.Comey®usdoj.gov>, "Moe, Alison (USANYS)" <Alison.Moe®usdoj.gov>, "Rohrbach,... | None | Christian Everdell <CEverdell®CohenGresser.com> | "Pomerantz, Lara (USANYS)." <Lara.Pomerantz@usdoj.gov>, "Com |
 | [EFTA00010422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010422.pdf) | Legal Filing | Case 1:19-cr-00490-RMB Document 47 Filed 08/19/19 Page 1 of 1 | ...ice United States Attorney Southern District of New York The Silvioi.. Malin Building One Soini A... | None | N/A | N/A |
-| [EFTA00010454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010454.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sihlo J. Mono Building One Saint A... | None | N/A | [FirstBank Puerto Rico](/D/DEUTSCHE-BANK.md) |
-| [EFTA00010507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf) | Email | Case 9:08-cv-80736-KAM Document 435 Entered on FLSD Docket 02/21/2019 Page 1 of 33 |  | None | N/A | N/A |
+| [EFTA00010454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010454.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sihlo J. Mono Building One Saint A... | None | N/A | FirstBank Puerto Rico |
 | [EFTA00010619](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010619.pdf) | Email | Date: The, 24 Aug 2021 00:14:50 +0000 | ...SGME00444198 native.pdf Assistant United States Attorney Southern District of New York One Saint ... | None | II | ai |
-| [EFTA00010701](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010701.pdf) | Email | Citecheck |  | None | To: | (USANYS)" |
-| [EFTA00010710](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010710.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...naires on place 707. en.wikipedia.org What a coincidence: https://www.vanityfaiccominews/2018/03/... | None | Chris Dilorio | [Subject: Fw: Apollo/ Epstein/Kushner connection](/J/JARED-KUSHNER.md) |
-| [EFTA00010724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010724.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...August 23, 1972 (age 46) Pontiac, Michigan, U.S.: Education: University of Michigan (BA, JD): Cha... | None | Chris Dilorio | [Subject: Fw: Apollo/ Epstein/Kushner connection](/J/JARED-KUSHNER.md) |
+| [EFTA00010710](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010710.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...naires on place 707. en.wikipedia.org What a coincidence: https://www.vanityfaiccominews/2018/03/... | None | Chris Dilorio | Subject: Fw: Apollo/ Epstein/Kushner connection |
+| [EFTA00010724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010724.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...August 23, 1972 (age 46) Pontiac, Michigan, U.S.: Education: University of Michigan (BA, JD): Cha... | None | Chris Dilorio | Subject: Fw: Apollo/ Epstein/Kushner connection |
 | [EFTA00010750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010750.pdf) | Email | Date: Thu, 23 May 2019 11:59:31 +0000 | ...naires on place 707. en.wikipedia.org What a coincidence: https://www.vanityfaitcominews/2018/03/... | None | Chris Dilorio cz | Subject: |
 | [EFTA00010767](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010767.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...naires on place 707. en.wikipedia.org What a coincidence: https://www.vanityfaircominews/2018/03/... | None | Chris Dilorio | ft |
 | [EFTA00010786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010786.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...August 23, 1972 (age 46) Pontiac, Michigan, U.S.: Education: University of Michigan (BA, JD): Cha... | None | Chris Dilorio | Winsn.com> |
@@ -1528,31 +86,24 @@
 | [EFTA00010988](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010988.pdf) | Email | RE: Scanning project for SDNY | ...ordinate the scanning project? Thanks very much, s Attorney Southern District of New York I St. A... | None | y• „cl | ." |
 | [EFTA00011039](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011039.pdf) | Email | News Brief | ...igence Specialist U.S. Attorney's Office — SDNY Terrorism & International Narcotics Unit One St. ... | None | To: | Subject: News Brief |
 | [EFTA00011048](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011048.pdf) | Document | Thanks. | ...t United States Attorney United States Attorney's Office Southern District of New York One Saint ... | None | (USANYS) 1 | N/A |
-| [EFTA00011051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011051.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...naires on place 707. en.wikipedia.org What a coincidence: https://www.vanityfaitcominews/2018/03/... | None | Chris Dilorio | [Subject: Fw: Apollo/ Epstein/Kushner connection](/J/JARED-KUSHNER.md) |
+| [EFTA00011051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011051.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...naires on place 707. en.wikipedia.org What a coincidence: https://www.vanityfaitcominews/2018/03/... | None | Chris Dilorio | Subject: Fw: Apollo/ Epstein/Kushner connection |
 | [EFTA00011096](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011096.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...rious events, including but hardly limited to the recent investigation and resignation of Governo... | None | N/A | N/A |
 | [EFTA00011113](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011113.pdf) | Email | Re: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Nathan NYSD Chambers < | Cc: |
 | [EFTA00011115](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011115.pdf) | Legal Filing | Case 1:20-cr-00330-AJN Document 342 Filed 10/13/21 Page 1 of 17 | ...rious events, including but hardly limited to the recent investigation and resignation of Governo... | None | N/A | N/A |
-| [EFTA00011132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011132.pdf) | Email | Letter re 12.2 Notice |  | None | N/A | Christian Everdell <CEverdell@CohenGressencom>, 'BOBBI C STE |
 | [EFTA00011133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011133.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Silvio!. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00011135](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011135.pdf) | Email | RE: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Nathan NYSD Chambers | Cc: |
 | [EFTA00011140](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011140.pdf) | Document | Attachments: 2021-10-15_Govtletter_re_FRE_412_Final. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Subject: Rule 412 Letter | N/A |
 | [EFTA00011142](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011142.pdf) | Document | • Cohen: two things want to discuss; recent developments related to conditions in MDC; renewed bail... | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Subject: Notes from 2020.11.19 Call with Sternheim, Everdell | N/A |
-| [EFTA00011149](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011149.pdf) | Legal Filing | What's In This Statement |  | None | N/A | N/A |
 | [EFTA00011157](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011157.pdf) | Legal Filing | Case 1:20-cr-00330-AJN Document 351 Filed 10/15/21 Page 1 of 4 | ...ates Courthouse 40 Foley Square New York, New York 10007 The Silvio J. Moll° Building One Saint A... | None | N/A | N/A |
-| [EFTA00011164](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011164.pdf) | Email | FW: U.S. v. Maxwell, Case No. 20 Cr. 330 (AJN) [Ms. Maxwell's Motions in Limine] |  | None | To: ' | ' |
-| [EFTA00011172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011172.pdf) | Document | served for 25 years in the United Kingdom military. |  | None | N/A | N/A |
-| [EFTA00011187](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011187.pdf) | Document | Sparta Security Services |  | None | N/A | N/A |
 | [EFTA00011266](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011266.pdf) | Email | US v. Maxwell - discovery production | ...production to you? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Christian Everdell |
 | [EFTA00011267](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011267.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00011357](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011357.pdf) | Email | RE: ESI review -- Epstein investigation | ...few questions? Thanks) Assistant United States Attorney Southern District of New York One Saint A... | None | ' | ' |
 | [EFTA00011413](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011413.pdf) | Document | Supervisor_Financial_Interests_Check_COVID_version. | ...t and email it back to my secretary, Jeanette Grayeb, Intern U.S. Attorney's Office I SDNY 1 St. ... | None | N/A | N/A |
 | [EFTA00011418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011418.pdf) | Email | United States Attorney's Office | ...October 13, 2020 BY EMAIL United States Attorney's Office Southern District of New York 1 St. And... | None | N/A | N/A |
-| [EFTA00011430](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011430.pdf) | Email | RE: Names for tomorrow |  | None | " | '' |
 | [EFTA00011432](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011432.pdf) | Email | RE: Witness Immunity | ...e let me know. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Cc: |
 | [EFTA00011441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011441.pdf) | Email | RE: | ...ible Man Subject: Thought you would like to see what I sent - Have a great time Gx I just gave An... | None | "The Invisible Man" <aace@dial.pipex.com> | "'G. Max'" <gmaxl@mindspring.com> |
 | [EFTA00011452](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011452.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...er and to Dismiss Counts Five And Six upon the following: U.S. Attorney's Office, SDNY One Saint ... | None | N/A | N/A |
 | [EFTA00011520](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011520.pdf) | Legal Filing | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00011669](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011669.pdf) | Email | FAA Program letter for Beech let 400A, Serial number RK-244, Registration Number N493LX. |  | None | Date: November 13, 2013 | Federal Aviation Administration |
 | [EFTA00013181](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013181.pdf) | Email | Re: Epstein enquiry | ...with the UK's Daily Telegraph. Is it possible to say, on background, whether you want to question... | None | " | ' |
 | [EFTA00013216](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013216.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00013218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013218.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
@@ -1566,22 +117,17 @@
 | [EFTA00013333](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013333.pdf) | Email | RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | (USANYS) | ) < |
 | [EFTA00013337](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013337.pdf) | Email | Re: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | (USANYS)" | ' |
 | [EFTA00013342](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013342.pdf) | Email | RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | (USANYS)< | (USANYS) |
-| [EFTA00013372](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013372.pdf) | Email | U.S. v. Robert Adams, 20 Cr. 494 (PGG) -- Discovery Production 2 | ...ave any questions. Thank you. Regards, Paralegal Specialist U.S. Attorney's Office I SONY 1 St. A... | None | [To: "sam@samgregory.com" gam@samgregory.com>, Lloyd Epstein](/J/JEFFREY-EPSTEIN.md) | ["sam@samgregory.com" gam@samgregory.com>, Lloyd Epstein](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00013372](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013372.pdf) | Email | U.S. v. Robert Adams, 20 Cr. 494 (PGG) -- Discovery Production 2 | ...ave any questions. Thank you. Regards, Paralegal Specialist U.S. Attorney's Office I SONY 1 St. A... | None | To: "sam@samgregory.com" gam@samgregory.com>, Lloyd Epstein | "sam@samgregory.com" gam@samgregory.com>, Lloyd Epstein |
 | [EFTA00013422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013422.pdf) | Email | RE: 3500 | ...tamping please? Thanks! Assistant United States Attorney Southern District of New York One Saint ... | None | Subject: RE: 3500 | Subject: RE: 3500 |
 | [EFTA00013424](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013424.pdf) | Email | Attachments: 2020. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | " | a" |
-| [EFTA00013425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013425.pdf) | Document | Friday, October 9, 2020 3:05:06 PM |  | None | N/A | N/A |
 | [EFTA00013434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013434.pdf) | Email | FW: | .... Thanks, EFTA00013434 Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Subject: FW: |
-| [EFTA00013630](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013630.pdf) | Document | FRIDAY. |  | None | N/A | N/A |
 | [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf) | News Article | Jeffrey Epstein: International Moneyman of Mystery | ...l's house, her friends say, one is just as apt to see Russian ladies of the night as one is to se... | None | N/A | N/A |
-| [EFTA00013649](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013649.pdf) | Document | FRIDAY. |  | None | N/A | N/A |
 | [EFTA00013693](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013693.pdf) | Email | Press Coverage | ...out Epstein. It does not contain the recent story in the London newspapers about Epstein's link t... | None | To: | Subject: Press Coverage |
-| [EFTA00013947](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013947.pdf) | Legal Filing | U. |  | None | N/A | N/A |
 | [EFTA00014243](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014243.pdf) | News Article | SONY News Clips, Monday, March 9, 2020 | ...ronavirus 20 1 EFTA00014243 SDNY News Clips, Monday, March 9, 2020 Public Corruption Epstein Prin... | None | N/A | N/A |
 | [EFTA00014263](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014263.pdf) | News Article | SDNY News Clips, Monday, March 9, 2020 | ...oronavirus 20 1 EFTA00014263 SDNY News Clips, Monday, March 9, 2020 Public Corruption Epstein Pri... | None | N/A | N/A |
 | [EFTA00014286](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014286.pdf) | Email | Re: forfeiture question | .... Thanks! Assistant United States Attorney Southern District of New York EFTA00014286 One Saint A... | None | To: | Cc: |
 | [EFTA00014298](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014298.pdf) | Email | RE: forfeiture question | .... EFTA00014298 Thanksl Assistant United States Attorney Southern District of New York One Saint A... | None | ' | " |
 | [EFTA00014334](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014334.pdf) | Email | Plash atatez !Strict alourt | ...ce United States Attorney Southern District of New York The Silvio .1. Motto Building One Saint A... | None | N/A | GREETINGS: |
-| [EFTA00014380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014380.pdf) | Email | RE: US v. Epstein (SW database) |  | None | To: | [Subject: RE: US v. Epstein (SW database)](/J/JEFFREY-EPSTEIN.md) |
 | [EFTA00014384](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014384.pdf) | Email | transcript | ...9-06-19,_Transcript.pdf Assistant United States Attorney Southern District of New York One Saint ... | None | " alMIE> | "MEIMEM/ |
 | [EFTA00014466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014466.pdf) | Email | Epstein | ...blic Corruption Unit United Stotes Attorney's Office for the Southern District of New York 1 St. ... | None | To: | Cc: ' |
 | [EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf) | Document | Case 1:19-cr-00490-RMB Document 23 Filed 07/16/19 Page 1 of 3 | ...tes Courthouse 500 Pearl Street New York, New York 10007 The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
@@ -1592,21 +138,14 @@
 | [EFTA00014576](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014576.pdf) | Legal Filing | MARTIN G. | ...ant United States Attorneys U.S. Attorney's Office for the Southern District of New York One St. ... | None | N/A | N/A |
 | [EFTA00014589](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014589.pdf) | Email | scheduling order | ...rder.pdf Attached, thanks. Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | ' |
 | [EFTA00014598](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014598.pdf) | Email | Re: Epstein investigation | ...hursday afternoon? Thanks. Assistant United States Attorney Southern District of New York I St. A... | None | Michael Bachner | ' |
-| [EFTA00014608](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014608.pdf) | Email | RE: RE: financial documents (Epstein) |  | None | "Hamilton, | Hamilton, |
-| [EFTA00014611](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014611.pdf) | Email | RE: financial documents (Epstein) |  | None | ' | M" |
-| [EFTA00014613](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014613.pdf) | Email | RE: financial documents (Epstein) |  | None | ' | "- |
-| [EFTA00014625](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014625.pdf) | Email | RE: financial documents (Epstein) |  | None | " | ' |
 | [EFTA00014636](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014636.pdf) | Legal Filing | U. | ...tice United States Attorney Southern District of New York The Silvio!. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00014650](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014650.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00014663](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014663.pdf) | Email | Pnitebr atatto Piztrirt Court | ...d States Attorney for the Southern District of New York Assistant United States Attorney One St. ... | None | N/A | GREETINGS: |
-| [EFTA00014709](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014709.pdf) | Email | Maxwell response re 17(c) subpoena |  | None | ' | Cc: ' |
-| [EFTA00014718](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014718.pdf) | Document | SUMMARY OF MONTHLY CHARGES FOR ACCOUNT |  | None | ST. THOMAS, VI | N/A |
 | [EFTA00014878](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014878.pdf) | Document | FOIA CONFIDENTIAL TREATMENT REQUESTED | ...ND 5 U.S.C. § 552 +1 212 230 8888 By E-mail And By FTP Assistant United States Attorney One St. A... | None | N/A | N/A |
 | [EFTA00014889](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014889.pdf) | Legal Filing | U. | ...ustice United States Attorney Southern District of New York The SiAdol Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00014897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014897.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Cc: |
 | [EFTA00014901](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014901.pdf) | Email | RE: United States v. Ghislaine Maxwell ---opens | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | Sent: un ay, ovem er | Cc: |
-| [EFTA00014904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014904.pdf) | Email | RE: United States v. Ghislaine Maxwell | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: RE: United States v. Ghislaine Maxwell](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00014962](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014962.pdf) | Email | R. |  | None | N/A | Hey just tried calling you. Give me a call when you have a s |
+| [EFTA00014904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014904.pdf) | Email | RE: United States v. Ghislaine Maxwell | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: RE: United States v. Ghislaine Maxwell |
 | [EFTA00014982](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014982.pdf) | Document | United States Attorney's Office | ...November 8, 2021 VIA EMAIL United States Attorney's Office Southern District of New York 1 St. An... | None | N/A | N/A |
 | [EFTA00015028](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015028.pdf) | Email | Date: | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Cc: |
 | [EFTA00015084](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015084.pdf) | Email | RE: [EXTERNAL] Re: GM - Witnesses | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | "<MMr |
@@ -1617,11 +156,9 @@
 | [EFTA00015206](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015206.pdf) | Email | [EXTERNAL EMAIL] - Epstein image & video files | ...YCO24383 Thanks very much, Assistant United States Attorney Southern District of New York l St. A... | None | N/A | Cc: ' |
 | [EFTA00015217](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015217.pdf) | Email | Re: [EXTERNAL EMAIL] - RE: Maxwell discovery review | ...instead? Thanks very much, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | Cc: |
 | [EFTA00015335](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015335.pdf) | Email | Re: United States v. Ghislaine Maxwell - | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | (USANYS)" c | "Williams, Damian (USANYS) |
-| [EFTA00015337](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015337.pdf) | Email | FW: Epstein |  | None | ' | ' |
 | [EFTA00015532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015532.pdf) | Legal Filing | Case 1:19-cr-00490-RMB Document 11 Filed 07/12/19 Page 1 of 14 | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00015563](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015563.pdf) | Email | Date: Sun, 16 Jun 2019 22:22:27 +0000 |  | None | To: | Subject: |
 | [EFTA00015646](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015646.pdf) | Email | News Brief | ...all those Afghans on a kill list," said one defense official. By Lara Seligman, Alexander Ward, &... | None | To: | Subject: News Brief |
-| [EFTA00015659](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015659.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...ver early. EFTA00015659 Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: RE: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00015659](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015659.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...ver early. EFTA00015659 Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: RE: United States v. Ghislaine Maxwell -- |
 | [EFTA00015711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015711.pdf) | Email | RE: Epstein | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | '(USANYS)" | ' |
 | [EFTA00015738](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015738.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (MN) - Request to view evidence, highly confidential | ...nning on April 13th. Best, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: Laura Mennin er tennin e | Laura Mennin er tennin e |
 | [EFTA00015753](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015753.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (AJN) - Request to view evidence, highly confidential | ...this evening. Thank you, Assistant United States Attorney Southern District of New York I St. And... | None | Christian Everdell <CEverdell®ColtenGresser.com> | "1 |
@@ -1638,16 +175,15 @@
 | [EFTA00015899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015899.pdf) | Email | Re: Ghislaine Maxwell 02879-509 | ...r that conversation. Best, Assistant United States Attorney Southern District of New York I St. A... | None | BOBBI C STERNHEIM | ' |
 | [EFTA00015902](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015902.pdf) | Email | RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | ' | ' |
 | [EFTA00015915](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015915.pdf) | Email | RE: travel approval request | ...t JFK at 4:44 a.m. Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | ' |
-| [EFTA00015941](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015941.pdf) | Email | any of you have vouchers for Epstein victims. |  | None | To: | [Subject: any of you have vouchers for Epstein victims.](/J/JEFFREY-EPSTEIN.md) |
 | [EFTA00015951](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015951.pdf) | Email | RE: Ghislaine Maxwell (USMS No. 02879-509) | ...ou very much for your help. Assistant United States Attorney Southern District of New York 1 St. ... | None | To: | Cc: "I |
 | [EFTA00015954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015954.pdf) | Email | RE: Epstein NY property | ============================================================ From: To: 11 Cc: Andrew Tomback < Subje... | None | To: | 11 |
-| [EFTA00015956](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015956.pdf) | Email | RE: Epstein NY property | ...================================================ From: " r To: "Weinstein, Marc A." ,,, i, Cc: An... | None | " | ["Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00015956](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015956.pdf) | Email | RE: Epstein NY property | ...================================================ From: " r To: "Weinstein, Marc A." ,,, i, Cc: An... | None | " | "Weinstein, Marc A." |
 | [EFTA00015957](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015957.pdf) | Email | RE: Ghislaine Maxwell (USMS No. 02879-5O9) | ...lp. " 07/06/2020 19:48 > » Assistant United States Attorney Southern District of New York l St. A... | None | To: | Cc: |
 | [EFTA00015972](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015972.pdf) | Email | RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | To: | (US %NYS)" |
 | [EFTA00016000](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016000.pdf) | Email | RE: Prince Andrew as Epstein witness? - HuffPost | ...============================= From: "Blase, Nicholas (USANYS)" To: USANYS)" Cc: Subject: RE: Prin... | None | "Blase, Nicholas (USANYS)" | USANYS)" |
 | [EFTA00016023](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016023.pdf) | Email | Fwd: US v. Maxwell, 20 CR. 330 (AJN) - Government Submission | ...aw Respectfully submitted, Assistant United States Attorney Southern District of New York I St. A... | None | ' | "Biase, Nicholas USANYS |
 | [EFTA00016117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016117.pdf) | Email | Worlds colliding - Maxwell and Andrews (kind of) | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | (USANYS) 1" | ' |
-| [EFTA00016124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016124.pdf) | Email | My bad - no fewer than 4 articles today. Still relatively slow | ...ent. Epstein, 66 -- who at one time socialized with former President Bill Clinton, Great Britain'... | None | ["Berman, Geoffrey (USANYS)" <](/G/GEOFFREY-BERMAN.md) | (USANYS)" |
+| [EFTA00016124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016124.pdf) | Email | My bad - no fewer than 4 articles today. Still relatively slow | ...ent. Epstein, 66 -- who at one time socialized with former President Bill Clinton, Great Britain'... | None | "Berman, Geoffrey (USANYS)" < | (USANYS)" |
 | [EFTA00016171](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016171.pdf) | Email | Note to file - Call with Mike Monico | ...to provide more specifics. Assistant United States Attorney Southern District of New York 1 St. A... | None | "= | Cc: '1= |
 | [EFTA00016172](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016172.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00016177](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016177.pdf) | Email | Date: Fri, 03 Jul 2020 14:42:10 +0000 | ...ri, 03 Jul 2020 14:42:10 +0000 FYI From: Sent: Friday, July 3, 2020 5:24 AM To: Subject: Fwd: Pri... | None | To: | Subject: |
@@ -1655,26 +191,21 @@
 | [EFTA00016206](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016206.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...ch will send notification of such filing to the following: U.S. Attorney's Office, SDNY One Saint... | None | N/A | N/A |
 | [EFTA00016218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016218.pdf) | Email | US v. Maxwell, 20 CR. 330 (AIN) - Government Opposition to Defense Motions | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Cc: |
 | [EFTA00016228](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016228.pdf) | Email | Re: Call this week | ...ng safe and healthy. Best, Assistant United States Attorney Southern District of New York I St. A... | None | ' | " |
-| [EFTA00016237](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016237.pdf) | Email | RE: Call this week | ...ng safe and healthy. Best, Assistant United States Attorney Southern District of New York I St. A... | None | [Gloria Allred](/G/GLORIA-ALLRED.md) | " |
+| [EFTA00016237](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016237.pdf) | Email | RE: Call this week | ...ng safe and healthy. Best, Assistant United States Attorney Southern District of New York I St. A... | None | Gloria Allred | " |
 | [EFTA00016264](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016264.pdf) | Email | Rule 412 | ...mber 5, 2021. Thanks, Assistant United States Attorney Southern District of New York One Saint An... | None | To: Robert Glassman <la | Robert Glassman <la |
 | [EFTA00016285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016285.pdf) | Email | Stay motion | ...opposition to the stay. Assistant United States Attorney Southern District of New York One Saint ... | None | " | " |
 | [EFTA00016292](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016292.pdf) | Email | Re: delivery of hard drive to MDC for discovery production to inmate | ...address the issue. Thanks, ssistant United States Attorney Southern District of New York l St. An... | None | To: | Cc: |
-| [EFTA00016295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016295.pdf) | Email | RE: Epstein |  | None | To: ' | ' |
-| [EFTA00016298](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016298.pdf) | Email | cd from agents |  | None | To: ' | ' |
-| [EFTA00016299](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016299.pdf) | Email | Shared |  | None | "n" | ' |
-| [EFTA00016306](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016306.pdf) | Email | FW: 20-3061 United States of America v. Maxwell "Case FILED" |  | None | (USANYS)" | ' |
 | [EFTA00016308](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016308.pdf) | Email | RE: GM appeal | ...ad the chance. Assistant United States Attorney EFTA00016308 Southern District of New York 1 St. ... | None | To: ' | ' |
 | [EFTA00016310](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016310.pdf) | Email | RE: GM appeal | ...you haven't had the chance. Assistant United States Attorney Southern District of New York l St. ... | None | To: ' | ' |
 | [EFTA00016313](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016313.pdf) | Email | follow-up call | ...her accounts? Thanks, Assistant United States Attorney Southern District of New York One Saint An... | None | " | ' |
 | [EFTA00016316](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016316.pdf) | Email | Re: Epstein - Subpoena Tracker | ...so have them uploaded to USAfx? Thanks, Paralegal Specialist U.S. Attorney's Office I SDNY 1St. A... | None | To: | Cc: |
-| [EFTA00016324](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016324.pdf) | Email | Experian Consumer Affairs | ...Southern Dien-le/if New York • • ..•" .••••••:"Pc•-•• Assistant United States Attorney One St. An... | None | N/A | [Experian Infonnation Solutions, Inc.](/A/AIR-GHISLAINE-INC.md) |
+| [EFTA00016324](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016324.pdf) | Email | Experian Consumer Affairs | ...Southern Dien-le/if New York • • ..•" .••••••:"Pc•-•• Assistant United States Attorney One St. An... | None | N/A | Experian Infonnation Solutions, Inc. |
 | [EFTA00016345](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016345.pdf) | Email | RE: Application for Search Warrant | ...on the line. Respectfully, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Gorenstein NYSD Chambers <I |
 | [EFTA00016348](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016348.pdf) | Email | Application for Warrant for Cellphone Location Information | ...e. Respectfully submitted, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Parker NYSD Chambers <I |
 | [EFTA00016392](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016392.pdf) | Email | Corrected Maxwell Arrest Warrant | ...incorrect date. Thank you, Assistant United States Attorney Southern District of New York I St. A... | None | To: | Cc: |
-| [EFTA00016396](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016396.pdf) | Document | Inline-Images: image001. |  | None | N/A | N/A |
 | [EFTA00016422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016422.pdf) | Document | STRAUSS HAUER & FELD LLP | ...C DELIVERY Assistant U.S. Attorney U.S. Attorney's Office Southern District of New York 1 Saint A... | None | N/A | N/A |
-| [EFTA00016448](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016448.pdf) | Email | Call today | ...to talk any time. Thanks, Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | [Gloria Allred](/G/GLORIA-ALLRED.md) |
-| [EFTA00016449](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016449.pdf) | Email | Re: Call today | ...time. Thanks, EFTA00016449 Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | [Gloria Allred](/G/GLORIA-ALLRED.md) |
+| [EFTA00016448](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016448.pdf) | Email | Call today | ...to talk any time. Thanks, Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | Gloria Allred |
+| [EFTA00016449](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016449.pdf) | Email | Re: Call today | ...time. Thanks, EFTA00016449 Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Gloria Allred |
 | [EFTA00016461](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016461.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) - Letter from MDC Legal Counsel | ...r. Respectfully submitted, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Nathan NYSD Chambers <I |
 | [EFTA00016465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016465.pdf) | Email | RE: Maxwell Bail Application Exhibits | ...ns or encounter any issues. Take care, Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. A... | None | To: | Cc: |
 | [EFTA00016466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016466.pdf) | Email | RE: Maxwell Briefing re Sasso | ...t United States Attorney United States Attorney's Office Southern District of New York One Saint ... | None | " | (USANYS)" |
@@ -1682,21 +213,17 @@
 | [EFTA00016482](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016482.pdf) | Email | RE: Time sensitive review of pending productions | ...ny changes you want to make. Thanks, Paralegal Specialist U.S. Attorney's Office I SDNY 1 Saint A... | None | (USANYS) [Contractor]" | Subject: RE: Time sensitive review of pending productions |
 | [EFTA00016484](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016484.pdf) | Email | FW: 20cr330, US v. Maxwell | ...ive? Thanks very much, Assistant United States Attorney Southern District of New York One Saint A... | None | "==n | Brian Bums |
 | [EFTA00016492](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016492.pdf) | Email | RE: [EXTERNAL] 'Boles | ...advance of Monday. Best, Assistant United States Attorney Southern District of New York 1 St. And... | None | To: BOBBI C STERNHEIM | BOBBI C STERNHEIM |
-| [EFTA00016494](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016494.pdf) | Email | Preclude cross |  | None | a" | ' |
 | [EFTA00016495](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016495.pdf) | Email | RE: Q&A | ...much for all your help. Assistant United States Attorney Southern District of New York One Saint ... | None | )" < | )" < |
 | [EFTA00016496](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016496.pdf) | Email | Preliminary instructions | ...I missed it) but pulled from pacer. Paralegal Specialist U.S. Attorney's Office I SDNY 1 Saint An... | None | (USANYS) [Contractor]" | 'S" |
-| [EFTA00016510](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016510.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | Sent: Sunday, November 28, 2021 9:59 AM | [Subject: RE: United States v. Ghislaine Maxwell ---opens](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00016510](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016510.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | Sent: Sunday, November 28, 2021 9:59 AM | Subject: RE: United States v. Ghislaine Maxwell ---opens |
 | [EFTA00016590](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016590.pdf) | Document | • U recalls an address book at the PB residence that he observed during his employment | ...and Ms. Maxwell's friends and employees, Mr. Epstein's family members were there, name was there,... | None | N/A | N/A |
 | [EFTA00016594](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016594.pdf) | Email | Epstein search | ...rly as this weekend. United States Attorney's Office for the Southern District of New York 1 St. ... | None | To: | Cc: |
 | [EFTA00016596](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016596.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00016620](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016620.pdf) | Email | Dietz/Loftus redactions |  | None | ' | Christian Everdell |
-| [EFTA00016714](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016714.pdf) | Email | ropose | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Nathan NYSD Chambers | [Subject: Re: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Propose](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00016729](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016729.pdf) | Email | RE: Maxwell - Letter Due Today at 5 PM |  | None | " | ' |
-| [EFTA00016730](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016730.pdf) | Email | FW: Monday |  | None | ' | ' |
+| [EFTA00016714](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016714.pdf) | Email | ropose | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Nathan NYSD Chambers | Subject: Re: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Propose |
 | [EFTA00016748](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016748.pdf) | Document | U. | ...tes Courthouse 500 Pearl Street New York, New York 10007 The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00016758](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016758.pdf) | Document | Attachments: 2019-07-17 JE_detention_submission. | ...detention_submission.Final.pdf Here's the filed version. Southern District of New York One Saint ... | None | N/A | N/A |
 | [EFTA00016765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016765.pdf) | Email | RE: Items to Reproduce | ...Thanks so much for your understanding! Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. A... | None | Sent: Friday, December 18, 2020 12:57 PM | Cc: |
-| [EFTA00016766](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016766.pdf) | Email | RE: Estate call | ...================================================= From: " To: "Weinstein, Marc A." < , "Tomback, ... | None | " | ["Weinstein, Marc A." <](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00016766](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016766.pdf) | Email | RE: Estate call | ...================================================= From: " To: "Weinstein, Marc A." < , "Tomback, ... | None | " | "Weinstein, Marc A." < |
 | [EFTA00016792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016792.pdf) | Email | Maxwell discovery production | ...letters. Thanks very much, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | Cc: |
 | [EFTA00016793](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016793.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Sih io 1 Motto Building One Saint A... | None | N/A | N/A |
 | [EFTA00016794](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016794.pdf) | Document | U. | ...stice United States Attorney Southern District of New York The SiAio 1 Motto Building One Saint A... | None | N/A | N/A |
@@ -1709,7 +236,6 @@
 | [EFTA00016865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016865.pdf) | News Article | LAST WILL AND TESTAMENT | ...ll. If any one or more of my Executors fails to qualify or ceases to act, I appoint JES STALEY an... | None | N/A | N/A |
 | [EFTA00016895](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016895.pdf) | Email | Epstein report | ...Co-Chief, Narcotics Unit United States Attorney's Office Southern District of New York One Saint ... | None | ySANYS)" | ' |
 | [EFTA00016901](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016901.pdf) | Email | Re: Epstein report | ...Co-Chief, Narcotics Unit United States Attorney's Office Southern District of New York One Saint ... | None | (USANYS)" | ' |
-| [EFTA00016944](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016944.pdf) | Email | RE: U.S. v. Maxwell, Case No. 20 Cr. 330 (AN) [Ms. Maxwell's Motions in Limine] |  | None | TO: MI | MI |
 | [EFTA00016949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016949.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mello Building One Saint A... | None | N/A | N/A |
 | [EFTA00016959](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016959.pdf) | Email | RE: Maxwell victim website | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | ' |
 | [EFTA00017037](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017037.pdf) | Email | FW: use this version | ...ave everything. Thanks! Assistant United States Attorney Southern District of New York One Saint ... | None | To:' | ' |
@@ -1725,7 +251,6 @@
 | [EFTA00017125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017125.pdf) | Email | 11760 US HWY 1. | ...ed States Attorney for the Southern District o New York Assistant United States Attorney One St. ... | None | N/A | AT&T Wireless |
 | [EFTA00017702](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017702.pdf) | Email | FW: Victim - JEFFREY EPSTEIN - Case | ...please see the below email. Assistant United States Attorney Southern District of New York 1 St. ... | None | To: | Cc: |
 | [EFTA00017711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017711.pdf) | Email | FW: Application for Search Warrant | ...Respectfully, Assistant United States Attorney Southern District of New York EFTA00017711 l St. A... | None | Arraignment NYSD | ' |
-| [EFTA00017743](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017743.pdf) | Email | RE: U.S. Department of Justice investigation |  | None | "- | Gary Bloxsome |
 | [EFTA00017752](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017752.pdf) | Email | Epstein | ...know what you think? United States Attorney's Office for the Southern District of New York 1 St. ... | None | To: | (USANYS)" |
 | [EFTA00017768](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017768.pdf) | Email | Pretrial Interview - Ghislaine Maxwell | ...ct me. Thank you, Maurene Assistant United States Attorney Southern District of New York 1 St. An... | None | To: | Cc: Christian Everdell |
 | [EFTA00017781](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017781.pdf) | Document | OFFICE OF THE ATTORNEY GENERAL | ...ENERAL September 1 7, 2019 Assistant United States Attorney Southern District of New York I St. A... | None | N/A | N/A |
@@ -1737,63 +262,49 @@
 | [EFTA00017832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017832.pdf) | Legal Filing | Case 1:20-cr-00330-AJN Document 41 Filed 08/13/20 Page 1 of 5 | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00017837](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017837.pdf) | Email | RE: Epstein OIG Report | .... Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | (USANYS)" <1 | (USANYS)" <1 |
 | [EFTA00017867](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017867.pdf) | Email | RE: Notes from last week | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Cc: |
-| [EFTA00017881](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017881.pdf) | Email | RE: [EXTERNAL] Re: Call |  | None | To: | Cc: ' |
 | [EFTA00017884](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017884.pdf) | Legal Filing | Pnitthatates Piztrith Tourt | ...d States Attorney for the Southern District of New York Assistant United States Attorney One St. ... | None | N/A | Palm Beach School District |
-| [EFTA00017886](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017886.pdf) | Email | Date: |  | None | To: | Subject: |
-| [EFTA00017887](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017887.pdf) | Email | RE: Citecheck |  | None | (USANYS)" <O> | Subject: RE: Citecheck |
-| [EFTA00017892](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017892.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...er 28 20212:24 PM To: Subject: RE: United States v. Ghislaine Maxwell opens Good luck tomorrow, A... | None | To: | [Subject: RE: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00017892](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017892.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...er 28 20212:24 PM To: Subject: RE: United States v. Ghislaine Maxwell opens Good luck tomorrow, A... | None | To: | Subject: RE: United States v. Ghislaine Maxwell -- |
 | [EFTA00017911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017911.pdf) | Document | Attachments: MCC_Press_Release_v2. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Subject: MCC Press Release | N/A |
-| [EFTA00017940](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017940.pdf) | Email | NYTimes: Prince Andrew Says He `Let the Side Down' When He Stayed With Jeffrey Epstein | ============================================================ From: allin To: Subject: NYTimes: Princ... | None | allin | [Subject: NYTimes: Prince Andrew Says He `Let the Side Down' ](/P/PRINCE-ANDREW.md) |
-| [EFTA00017942](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017942.pdf) | Document | sent me a CD he received, which is called "Epstein Murder Evidence. |  | None | Cc: ' | N/A |
+| [EFTA00017940](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017940.pdf) | Email | NYTimes: Prince Andrew Says He `Let the Side Down' When He Stayed With Jeffrey Epstein | ============================================================ From: allin To: Subject: NYTimes: Princ... | None | allin | Subject: NYTimes: Prince Andrew Says He `Let the Side Down' |
 | [EFTA00018005](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018005.pdf) | Email | hot does | ...ating to those records. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: hot does |
-| [EFTA00018019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018019.pdf) | Email | Accepted: Call w/ Andy Tomback and Marc Weinstein (Epstein estate) |  | None | " | " |
-| [EFTA00018020](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018020.pdf) | Document | Event: Accepted: Call w/ Andy Tomback and Marc Weinstein (Epstein estate) |  | None | N/A | N/A |
 | [EFTA00018022](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018022.pdf) | Email | PathStain Piztrirt Tourt | ...d States Attorney for the Southern District of New York Assistant United States Attorney One St. ... | None | N/A | GREETINGS: |
 | [EFTA00018031](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018031.pdf) | Email | Local Criminal Rule 23.1 | ...lease let us know. Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | " aNIMIIW | Jack Scarola <=I= |
 | [EFTA00018032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018032.pdf) | Email | Local Criminal Rule 23.1 | ...e let us know. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | " | ffiliMeplIc.com>, |
 | [EFTA00018077](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018077.pdf) | Email | Epstein database | ...a look please? Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Cc: |
-| [EFTA00018089](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018089.pdf) | Email | Re: Epstein priv review — 1B72 released and update |  | None | [Subject: Re: Epstein priv review — 1B72 released and update](/J/JEFFREY-EPSTEIN.md) | :03 PM |
-| [EFTA00018098](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018098.pdf) | Email | RE: Discovery Letter in Maxwell | ...le to some other AUSAs. Tx United States Attorney's Office Southern District of New York One St. ... | None | Sent: Tuesday, November 3, 2020 2:15 PM | [Subject: RE: Discovery Letter in Maxwell](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00018098](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018098.pdf) | Email | RE: Discovery Letter in Maxwell | ...le to some other AUSAs. Tx United States Attorney's Office Southern District of New York One St. ... | None | Sent: Tuesday, November 3, 2020 2:15 PM | Subject: RE: Discovery Letter in Maxwell |
 | [EFTA00018130](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018130.pdf) | Email | RE: inmate interviews | ...e practice was. Thanks. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: RE: inmate interviews |
 | [EFTA00018155](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018155.pdf) | Email | NEW YORK TIMES; Epstein | ...is filled with other high-profile connections, including to former President Bill Clinton, Prince... | None | (USANYS)" | ." |
 | [EFTA00018168](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018168.pdf) | Email | RE: epstein | .... Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | "- | "- |
 | [EFTA00018178](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018178.pdf) | Email | Epstein Passport | ...g this issue. Thanks! Special Agent U.S. Attorney's Office Southern District of New York 1 St. An... | None | To: | Cc: |
-| [EFTA00018186](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018186.pdf) | Email | RE: Fedex |  | None | To: | Subject: RE: Fedex |
 | [EFTA00018192](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018192.pdf) | Email | Rule 17(c) subpoena | ...ave any questions. Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: Jack Scarola | Jack Scarola |
-| [EFTA00018228](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018228.pdf) | Email | To read on train 2 |  | None | ' | Subject: To read on train 2 |
 | [EFTA00018236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018236.pdf) | Document | Case 1:20-cr-00330-AJN Document 195 Filed 04/05/21 Page 1 of 11 | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00018260](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018260.pdf) | Document | U. | ...ustice United States Attorney Southern District of New York The Sihdol Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00018262](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018262.pdf) | Email | CD for Maxwell | ...an eye out for it? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | Cc: |
 | [EFTA00018267](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018267.pdf) | Email | FW: United States v. Maxwell, 20 Cr. 330, juror questionnaires | ...Respectfully submitted, Assistant United States Attorney Southern District of New York One Saint ... | None | " alMIE> | " |
 | [EFTA00018286](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018286.pdf) | Document | Attachments: 2020-10-27 Discovery_Letter Draft_v4. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | N/A | N/A |
-| [EFTA00018371](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018371.pdf) | Email | Cover letter |  | None | N/A | Subject: Cover letter |
 | [EFTA00018372](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018372.pdf) | Email | Date: Thu, 04 Nov 2021 16:35:41 +0000 | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | " | Subject: |
-| [EFTA00018380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018380.pdf) | Email | Date: Thu, 04 Nov 2021 03:50:42 +0000 |  | None | "a" | (USANYS)" |
 | [EFTA00018381](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018381.pdf) | Email | RE: exhibit 11 | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Subject: RE: exhibit 11 |
 | [EFTA00018391](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018391.pdf) | Email | RE: | ...sistant United States Attorney U.S. Attorney's Office for the Southern District of New York 1 St.... | None | To: | Cc: |
 | [EFTA00018402](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018402.pdf) | Email | RE: EMail 1 of 2: EPSTEIN - | ...t. EFTA00018402 Thank you, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: I | I |
 | [EFTA00018430](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018430.pdf) | Email | Re: Subpoena to Interlochen Center for the Arts | ...lease? Thanks Assistant United States Attorney Southern District of New York EFTA00018430 1 St. A... | None | Jefflocks <jjocks@sondeeracine.com> | " |
 | [EFTA00018434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018434.pdf) | Email | FW: Subpoena to Interlochen Center for the Arts | ...e? EFTA00018434 i in hanks Assistant United States Attorney Southern District of New York 1 St. A... | None | To: ' | ' |
-| [EFTA00018441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf) | Email | FW: SDNY News Clips Wednesday, July 31, 2019 | ...xually abusing underage girls. He also has purported connections to Donald Trump, Bill Clinton an... | None | To: | [Subject: FW: SDNY News Clips Wednesday, July 31, 2019](/S/SDNY.md) |
+| [EFTA00018441](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018441.pdf) | Email | FW: SDNY News Clips Wednesday, July 31, 2019 | ...xually abusing underage girls. He also has purported connections to Donald Trump, Bill Clinton an... | None | To: | Subject: FW: SDNY News Clips Wednesday, July 31, 2019 |
 | [EFTA00018466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf) | Legal Filing | SDNY News Clips, Wednesday, July 31, 2019 | ...xually abusing underage girls. He also has purported connections to Donald Trump, Bill Clinton an... | None | N/A | N/A |
-| [EFTA00018541](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018541.pdf) | Email | SDNY NEWS CLIPS, THURSDAY, JANUARY 4. 2021 | ...Cuomo dealt another blow on New York nursing-home death ... The ruling was the latest blow to Gov... | None | To: | [Subject: SDNY NEWS CLIPS, THURSDAY, JANUARY 4. 2021](/S/SDNY.md) |
-| [EFTA00018552](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018552.pdf) | Document | Event: Freddy Caraballo Proffer (re Epstein) |  | None | N/A | N/A |
+| [EFTA00018541](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018541.pdf) | Email | SDNY NEWS CLIPS, THURSDAY, JANUARY 4. 2021 | ...Cuomo dealt another blow on New York nursing-home death ... The ruling was the latest blow to Gov... | None | To: | Subject: SDNY NEWS CLIPS, THURSDAY, JANUARY 4. 2021 |
 | [EFTA00018556](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018556.pdf) | Email | BRITISH TV REQUEST Important | ...d to do an interview with you today via Skype for about 10 minutes about your request to intervie... | None | kathryn milofkky | ' |
 | [EFTA00018585](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018585.pdf) | Email | Confirming FBI numbers for Epstein devices | ...ld like to discuss. Thanks Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | Cc: |
 | [EFTA00018614](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018614.pdf) | Document | Attached for Judge Wang's consideration please find an application for the issuance of a search... | ...ne Respectfully submitted, Assistant United States Attorney Southern District of New York I St. A... | None | N/A | N/A |
 | [EFTA00018615](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018615.pdf) | Document | Apologies, attached please find the flattened pdfs. | ...to Judge Wang. Thank you, Assistant United States Attorney Southern District of New York 1 St. An... | None | N/A | N/A |
 | [EFTA00018624](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018624.pdf) | Email | RE: Expert Witness | ...uss? Thanks very much, Assistant United States Attorney Southern District of New York One Saint A... | None | To | Cc: |
-| [EFTA00018632](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018632.pdf) | Legal Filing | Curriculum Vitae- October 2020 |  | None | N/A | N/A |
 | [EFTA00018659](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018659.pdf) | Email | RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | ' | (USANYS)" |
 | [EFTA00018724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018724.pdf) | News Article | Direction des affaires criminelles et des grâces | ...His Honor the Keeper of Seals, Minister of Justice To the Department of Justice (D.O.J) Through A... | None | N/A | N/A |
-| [EFTA00018735](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018735.pdf) | Email | RE: The Prince and the Proffer I New York Law Journal |  | None | To: ' | ' |
 | [EFTA00018837](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018837.pdf) | Email | RE: US v. Maxwell, 20 Cr. 330 (AJN) - discovery production | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS) | (USANYS)" |
 | [EFTA00018838](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018838.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00018840](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018840.pdf) | Email | Maxwell - Proposed Voir Dire and Jury Questionnaire | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | " | < |
 | [EFTA00018841](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018841.pdf) | Email | [EXTERNAL] FW: Court Subpoena | ...e record to your office suffice? Your assistance in this matter is greatly appreciated. Thanks, A... | None | To: ' | ' |
 | [EFTA00018860](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018860.pdf) | Email | AGs, Carvers' Cooperation Won't Stem Robocall Litigation | ...hed I Read full article » NY Extends Clock For Bringing Martin Act Suits To 6 Years New York Gov.... | None | New York Law360 <news-alt@law360.com> | Subject: AGs, Carvers' Cooperation Won't Stem Robocall Litig |
 | [EFTA00018874](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018874.pdf) | Email | Pnitetratates Pistrirt Court | ...d States Attorney for the Southern District o New York Assistant United States Attorneys One St. ... | None | N/A | GREETINGS: |
-| [EFTA00018878](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018878.pdf) | Email | SOUTHERN DISTRICT OF NEW YORK | ...d States Attorney for the Southern District of New York Assistant United States Attorney One St. ... | None | N/A | [Amazon.com, Inc.](/A/AIR-GHISLAINE-INC.md) |
+| [EFTA00018878](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018878.pdf) | Email | SOUTHERN DISTRICT OF NEW YORK | ...d States Attorney for the Southern District of New York Assistant United States Attorney One St. ... | None | N/A | Amazon.com, Inc. |
 | [EFTA00018883](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018883.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mello Building One Saint A... | None | N/A | N/A |
 | [EFTA00018889](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018889.pdf) | Document | U. | ...ce United States Attorney Southern District of New York The Silvio .1. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00018891](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018891.pdf) | Legal Filing | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
@@ -1813,40 +324,32 @@
 | [EFTA00019045](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019045.pdf) | Email | FW: photo project | ...uch for helping with this. ssis anUnited States Attorney Southern District of New York One Saint ... | None | " | Subject: FW: photo project |
 | [EFTA00019046](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019046.pdf) | Email | FW: 404(b) notice | ...due on Monday. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | ' | rrSANYS" |
 | [EFTA00019047](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019047.pdf) | Email | FW: Fedex | ...s, Erin! Mivould you mind giving me a call when you have a chance? My number is liningla Thanks, ... | None | I | Subject: FW: Fedex |
-| [EFTA00019051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019051.pdf) | Email | RE: Fedex |  | None | To: | Cc: |
 | [EFTA00019055](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019055.pdf) | Email | RE: set book | ...opy you could email me? Assistant United States Attorney Southern District of New York One Saint ... | None | (USANYS)" <I | " |
-| [EFTA00019057](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019057.pdf) | Legal Filing | Attachments: Government 412 Opp [final]. |  | None | N/A | N/A |
 | [EFTA00019058](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019058.pdf) | Document | U. | ...ce United States Attorney Southern District of New York The Silvio .1. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00019059](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019059.pdf) | Document | U. | ...ce United States Attorney Southern District of New York The Silvio .1. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00019062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019062.pdf) | Email | travel | ...through 2002. Thanks, Assistant United States Attorney Southern District of New York One Saint An... | None | To: | Subject: travel |
-| [EFTA00019071](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019071.pdf) | Document | Document |  | None | N/A | N/A |
 | [EFTA00019082](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019082.pdf) | Legal Filing | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00019086](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019086.pdf) | Email | Fib': 21-770 United States of America v. Maxwell "Case FILED" |  | None | To: ' | ' |
-| [EFTA00019088](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019088.pdf) | Email | Toyota Probed Possible Bribes To Top Thai Judges |  | None | White Collar Law360 <news@law360.com> | • |
 | [EFTA00019112](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019112.pdf) | Email | FW: FOR THE ATTENTION OF GEOFFREY BERMAN | ...BERMAN Dear May I offer my congratulations on the way in which your office has been handling the ... | None | To: | Cc: |
-| [EFTA00019126](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019126.pdf) | Email | Epstein Estate update | ...================================================= From: "Weinstein, Marc A." < To: =Mrs' <I Cc: A... | None | ["Weinstein, Marc A." <](/H/HARVEY-WEINSTEIN.md) | =Mrs' |
+| [EFTA00019126](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019126.pdf) | Email | Epstein Estate update | ...================================================= From: "Weinstein, Marc A." < To: =Mrs' <I Cc: A... | None | "Weinstein, Marc A." < | =Mrs' |
 | [EFTA00019127](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019127.pdf) | Email | RE: Epstein Estate update | ...rded message: From: "Weinstein, Marc A." Date: November 9, 2020 at 9:49:47 AM EST To: " )11 Cc: A... | None | ' | ' |
 | [EFTA00019129](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019129.pdf) | Email | Re: Epstein Estate update | ...arded message: From: "Weinstein, Marc A." < Date: November 9 2020 at 9:49:47 AM EST To:" < Cc: An... | None | ' | " |
-| [EFTA00019130](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019130.pdf) | Email | Epstein Estate | ============================================================ From: "Weinstein, Marc A." To: ' Andrew... | None | ["Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) | ' |
+| [EFTA00019130](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019130.pdf) | Email | Epstein Estate | ============================================================ From: "Weinstein, Marc A." To: ' Andrew... | None | "Weinstein, Marc A." | ' |
 | [EFTA00019131](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019131.pdf) | Document | Event: Epstein Estate | ...Modified: 2020-11-09 15:53:08 +0000 Priority: 5 DTSTAMP: 2020-11-09 15:30:14 +0000 Attendee: ; An... | None | N/A | N/A |
 | [EFTA00019133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019133.pdf) | Email | Re: Subpoena to Interlochen Center for the Arts | ...discuss, please? S i hanks Assistant United States Attorney Southern District of New York I St. A... | None | ' | JeffJocks <jjocks@sondeeracine.com> |
 | [EFTA00019142](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019142.pdf) | Email | Re: Subpoena to Interlochen Center for the Arts | ...o discuss, please? Thanks, Assistant United States Attorney Southern District of New York I St. A... | None | ' | JeffJocks <jjocks®sondeeracine.com> |
 | [EFTA00019183](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019183.pdf) | Email | RE: Follow Up Call | ...ll that afternoon. Thanks, Assistant United States Attorney Southern District of New York I St. A... | None | To:" | " |
 | [EFTA00019197](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019197.pdf) | Email | RE: Question | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Subject: RE: Question |
-| [EFTA00019213](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019213.pdf) | Email | Re: Epstein |  | None | (USANYS)" | (USANYS)" |
-| [EFTA00019215](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019215.pdf) | Email | FW: United States v. Ghislaine Maxwell - | ...00:58 +0000 Good luck! Assistant United States Attorney Southern District of New York One Saint A... | None | To: | [Subject: FW: United States v. Ghislaine Maxwell -](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00019215](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019215.pdf) | Email | FW: United States v. Ghislaine Maxwell - | ...00:58 +0000 Good luck! Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Subject: FW: United States v. Ghislaine Maxwell - |
 | [EFTA00019216](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019216.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: ' | ' |
-| [EFTA00019217](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019217.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...stant United States Attorney U.S. Attorney's Office for the Southern District of New York One St.... | None | To: | [Subject: RE: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00019217](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019217.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...stant United States Attorney U.S. Attorney's Office for the Southern District of New York One St.... | None | To: | Subject: RE: United States v. Ghislaine Maxwell -- |
 | [EFTA00019218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019218.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | Cc |
-| [EFTA00019219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019219.pdf) | Email | RE: US v. Ghislaine Maxwell, 20 Cr. 330 (AJN) |  | None | ' | Druyan law < |
-| [EFTA00019220](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019220.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: RE: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00019222](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019222.pdf) | Email | Note to file |  | None | To: | Subject: Note to file |
+| [EFTA00019220](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019220.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: RE: United States v. Ghislaine Maxwell -- |
 | [EFTA00019244](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019244.pdf) | Email | RE: Maxwell investigation, prosecution memo | .... Thanks, Assistant United States Attorney Southern District of New York EFTA00019244 One Saint A... | None | (USANYS) | (USANYS)" .<1 |
-| [EFTA00019249](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019249.pdf) | Email | FW: WASHINGTON POST; Jeffrey Epstein's scandal of secrecy points to a creeping rot in the | ...rcle of friends that included Bill Clinton, Donald Trump, actor Kevin Spacey and Britain's Prince... | None | To: | [Subject: FW: WASHINGTON POST; Jeffrey Epstein's scandal of s](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00019249](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019249.pdf) | Email | FW: WASHINGTON POST; Jeffrey Epstein's scandal of secrecy points to a creeping rot in the | ...rcle of friends that included Bill Clinton, Donald Trump, actor Kevin Spacey and Britain's Prince... | None | To: | Subject: FW: WASHINGTON POST; Jeffrey Epstein's scandal of s |
 | [EFTA00019282](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019282.pdf) | Email | RE: CD for MDC | ...is 816289189888. Thanks so much, all! Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. An... | None | I | I |
 | [EFTA00019283](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019283.pdf) | Document | U. | ...ustice United States Attorney Southern District of New York The Silvio 1 Mob Building One Saint A... | None | N/A | N/A |
 | [EFTA00019284](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019284.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Silvio 1 Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00019285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019285.pdf) | Email | Discovery production for Maxwell | ...letters. Thanks very much, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | [Subject: Discovery production for Maxwell](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00019285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019285.pdf) | Email | Discovery production for Maxwell | ...letters. Thanks very much, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | Subject: Discovery production for Maxwell |
 | [EFTA00019286](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019286.pdf) | Email | RE: Doud trial | ...t United States Attorney United States Attorney's Office Southern District of New York One Saint ... | None | ' | ' |
 | [EFTA00019289](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019289.pdf) | Email | RE: Items to Reproduce | .... Thanks so much for your understanding! Paralegal Specialist U.S. Attorney's Office SDNY 1 St. A... | None | Sent: Friday, December 18, 202012:57 PM | Cc: |
 | [EFTA00019314](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019314.pdf) | Email | Re: following up | ...or a call tomorrow? Thanks, Assistant United States Attorney Southern District of New York 1St. A... | None | Sent: Wednesday, December 16, 2020 3:55 PM | Cc: |
@@ -1854,28 +357,19 @@
 | [EFTA00019341](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019341.pdf) | Email | Call notes w/ | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Subject: Call notes w/ |
 | [EFTA00019342](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019342.pdf) | Email | RE: Epstein forfeiture | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | ' | ' |
 | [EFTA00019407](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019407.pdf) | Document | STEPTOE • JOHNSON OAP | ..., Esq. , Esq. Esq. United States Attorney's Office, Southern District of New York One Saint Andre... | None | N/A | N/A |
-| [EFTA00019415](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019415.pdf) | Document | Here's an outline for our conversation with |  | None | N/A | N/A |
-| [EFTA00019418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019418.pdf) | Document | Attachments: 2021. |  | None | N/A | N/A |
-| [EFTA00019419](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019419.pdf) | Email | Re: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: Re: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00019419](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019419.pdf) | Email | Re: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: Re: United States v. Ghislaine Maxwell -- |
 | [EFTA00019420](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019420.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00019422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019422.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00019437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019437.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) |  | None | N/A | Cc: |
 | [EFTA00019440](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019440.pdf) | Email | RE: review project | ...e \6. Flight Manifests Assistant United States Attorney Southern District of New York One Saint A... | None | N/A | Cc |
 | [EFTA00019445](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019445.pdf) | Document | Attachments: Fact_ Witness_ Travel_RequestiMafor_trial. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | N/A | N/A |
-| [EFTA00019449](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019449.pdf) | Email | US v. Maxwell, 20 Cr. 330 (MN) |  | None | To: | Cc: |
-| [EFTA00019450](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019450.pdf) | Document | Attached are our proposed redactions to the voir dire transcripts. |  | None | N/A | N/A |
 | [EFTA00019451](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019451.pdf) | Email | witness travel | ...can? Thanks very much, Assistant United States Attorney Southern District of New York One Saint A... | None | "IMMI.' | = |
-| [EFTA00019458](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019458.pdf) | Email | Protective order for Rule 17(c) materials |  | None | "MEn | Cc: |
 | [EFTA00019459](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019459.pdf) | Document | U. | ...stice United States Attorney Southern District of New York The Silvio J. Mob Building One Saint A... | None | N/A | N/A |
-| [EFTA00019465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019465.pdf) | Email | RE: can you make sure the Maxwell case is a victim case 20 Cr 330 |  | None | To: | [Subject: RE: can you make sure the Maxwell case is a victim ](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00019471](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019471.pdf) | Email | RE: US v. Epstein |  | None | ' | ' |
 | [EFTA00019486](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019486.pdf) | Email | FW: GM discovery demand letter | ...lso attached). Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | (USANYS)" |
 | [EFTA00019492](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019492.pdf) | Email | Review | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Subject: |
 | [EFTA00019493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019493.pdf) | Email | RE: Subpoena to Interlochen Center for the Arts | ...o discuss, please? Thanks, Assistant United States Attorney Southern District of New York I St. A... | None | ' | Jeff Jocks <jjocks®sondeeracine.com> |
 | [EFTA00019503](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019503.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sihdo J. Mono Building One Saint A... | None | N/A | Interlochen Center for the Arts |
 | [EFTA00019513](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019513.pdf) | Email | Re: next steps | .... Thanks! Assistant United States Attorney EFTA00019513 Southern District of New York One Saint A... | None | To: | )" |
-| [EFTA00019530](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019530.pdf) | Email | Epstein | ...df Materials attached. Assistant United States Attorney Southern District of New York One Saint A... | None | N/A | [Subject: Epstein](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00019549](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019549.pdf) | Email | RE: RE: documents for Relativity |  | None | ' | ' |
+| [EFTA00019530](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019530.pdf) | Email | Epstein | ...df Materials attached. Assistant United States Attorney Southern District of New York One Saint A... | None | N/A | Subject: Epstein |
 | [EFTA00019554](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019554.pdf) | Document | Hey—can we update the Epstein Universe with victim attorney information? I can't tell if that's... | ...be really high. Thanks. Assistant United States Attorney Southern District of New York One Saint ... | None | Subject: | N/A |
 | [EFTA00019565](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019565.pdf) | Email | Fwd: Epstein Victims' Compensation Program | ...Brad Edwards <->; Lisa Bloom < >; Brittany Henderson <->; ECF <ecftWeplIc.com> Laura Starr < >• A... | None | Roberta Kaplan <EIMINa> | 'S" |
 | [EFTA00019582](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019582.pdf) | Email | RE: Subpoena to Interlochen Center for the Arts | ...o discuss, please? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | JeffJocks <jjocks®sondeeracine.com> |
@@ -1889,65 +383,52 @@
 | [EFTA00019652](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019652.pdf) | Email | FW: | ...or her travel? Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Cc: |
 | [EFTA00019656](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019656.pdf) | Email | Re: Ghislaine Maxwell update | ...Is the investigation into Maxwell and Epstein's network still ongoing? EFTA00019656 6) If so, doe... | None | "Biase, Nicholas (USANYS)" | ' |
 | [EFTA00019664](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019664.pdf) | Email | RE: Follow Up Call | ...s know what number to call. Assistant United States Attorney Southern District of New York 1 St. ... | None | To: " | " |
-| [EFTA00019684](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019684.pdf) | Email | Epstein estate subpoenas | ...================================================ From: "Weinstein, Marc A." -4 To: Cc: "Tomback, ... | None | ["Weinstein, Marc A." -4](/H/HARVEY-WEINSTEIN.md) | [Cc: "Tomback, Andrew" -4](/P/PRINCE-ANDREW.md) |
-| [EFTA00019685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019685.pdf) | Email | RE: Epstein estate subpoenas | ...========================================= From: '' .=MIE> To: "Weinstein, Marc A." < , "Tomback, ... | None | '' | ["Weinstein, Marc A." <](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00019684](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019684.pdf) | Email | Epstein estate subpoenas | ...================================================ From: "Weinstein, Marc A." -4 To: Cc: "Tomback, ... | None | "Weinstein, Marc A." -4 | Cc: "Tomback, Andrew" -4 |
+| [EFTA00019685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019685.pdf) | Email | RE: Epstein estate subpoenas | ...========================================= From: '' .=MIE> To: "Weinstein, Marc A." < , "Tomback, ... | None | '' | "Weinstein, Marc A." < |
 | [EFTA00019686](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019686.pdf) | Document | I wanted to let you know that I just received a call froni | ...ase let us know. Best, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Cc: |
 | [EFTA00019701](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019701.pdf) | Email | Re: Epstein calls | ...the FBI tip line? Thanks, Assistant United States Attorney Southern District of New York I St. An... | None | ' | Cc: ' |
-| [EFTA00019703](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019703.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...and phone number? Thanks, Assistant United States Attorney Southern District of New York I St. An... | None | ' | ['Gloria Allred'](/G/GLORIA-ALLRED.md) |
-| [EFTA00019708](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019708.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...ime to reschedule? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | [Gloria Allred](/G/GLORIA-ALLRED.md) |
-| [EFTA00019718](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019718.pdf) | Email | 13 Cr. 416 (PGG) - United States v. |  | None | 'en | ' |
-| [EFTA00019719](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019719.pdf) | Email | Re: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...M. to discuss ? < Thanks. Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | [Gloria Allred](/G/GLORIA-ALLRED.md) |
+| [EFTA00019703](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019703.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...and phone number? Thanks, Assistant United States Attorney Southern District of New York I St. An... | None | ' | 'Gloria Allred' |
+| [EFTA00019708](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019708.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...ime to reschedule? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Gloria Allred |
+| [EFTA00019719](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019719.pdf) | Email | Re: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...M. to discuss ? < Thanks. Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | Gloria Allred |
 | [EFTA00019744](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019744.pdf) | Email | RE: Subpoena Revised- | ...Subpoena attached, thanks. Assistant United States Attorney Southern District of New York 1 St. A... | None | " | "MMIMIMI=Er |
 | [EFTA00019747](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019747.pdf) | Email | RE: Epstein Client Meetings | ...drews Plaza, NY, NY. Best, Assistant United States Attorney Southern District of New York I St. A... | None | ' | ' |
-| [EFTA00019750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019750.pdf) | Email | U. | ...ice United States Attorney Southern District of New York The Silvio J. Motto Building One Saint A... | None | N/A | [Bank of America N.A.](/D/DEUTSCHE-BANK.md) |
-| [EFTA00019821](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019821.pdf) | Document | Safe Horizon has two people that WILL GIVE SUPPORT AND COUNSELING TO Epstein Victims. |  | None | ' | N/A |
-| [EFTA00019836](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019836.pdf) | Document | Event: Accepted: Jason Mojica Proffer (Ordered) (re Epstein) |  | None | N/A | N/A |
+| [EFTA00019750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019750.pdf) | Email | U. | ...ice United States Attorney Southern District of New York The Silvio J. Motto Building One Saint A... | None | N/A | Bank of America N.A. |
 | [EFTA00019851](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019851.pdf) | Email | RE: Epstein/Maxwell Upload | ...Images Seized During Search Thanks, • Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. An... | None | r | (USANYS) [Contractor]" |
-| [EFTA00019858](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019858.pdf) | Email | RE: quick disc burn for agents |  | None | To: | (USANYS) [Contractor]" |
 | [EFTA00019867](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019867.pdf) | Email | - trial subpoena | ...ach out to our team. Thanks, Assistant United States Attorney Southern District of New York St. A... | None | To: john diaz | john diaz |
 | [EFTA00019868](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019868.pdf) | Legal Filing | PlashStates Piztrid (grind | ...d States Attorney for the Southern District of New York Assistant United States Attorney One St. ... | None | N/A | GREETINGS: |
 | [EFTA00019869](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019869.pdf) | Email | meeting tomorrow | ...nd see you tomorrow. Best, Assistant United States Attorney Southern District of New York 1 St. A... | None | 1 | IIM Reynolds |
 | [EFTA00019870](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019870.pdf) | Legal Filing | PlashStates Piztrict (gond | ...d States Attorney for the Southern District of New York Assistant United States Attorney One St. ... | None | N/A | GREETINGS: |
 | [EFTA00019876](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019876.pdf) | Email | FW: French Judicial Police | ...ed correspondence. Thanks, Assistant United States Attorney Southern District of New York I St. A... | None | " | "ElarairBI)" |
-| [EFTA00019878](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019878.pdf) | Email | Re: JE estate meeting |  | None | To:' | ' |
 | [EFTA00019880](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019880.pdf) | Email | RE: | ...ve the chance? Assistant United States Attorney Southern District of New York EFTA00019880 1 St. ... | None | < | ) [Contractor]" |
-| [EFTA00019885](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019885.pdf) | Email | FW: DOJ ongoing Investigation. |  | None | "- | ["Berman Geoffre](/G/GEOFFREY-BERMAN.md) |
 | [EFTA00019889](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019889.pdf) | Email | Fwd: The Jeffrey Epstein & Jes Staley Blackmail Ring | ...are involved with the cover-up? Are they expecting a role in Barclays after the dust has settled?... | None | To: Undisclosed recipients:; | Undisclosed recipients:; |
 | [EFTA00019892](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019892.pdf) | Email | Mel Stride — Chairman of the UK Treasury Select Committee | ...are involved with the cover-up? Are they expecting a role in Barclays after the dust has settled?... | None | N/A | Mel Stride — Chairman of the UK Treasury Select Committee |
 | [EFTA00019898](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019898.pdf) | Email | Copy of production from PAE | ...o -gain? Thanks very much, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | ' |
-| [EFTA00019899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019899.pdf) | Email | mails |  | None | To: | Cc: |
-| [EFTA00019904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019904.pdf) | Email | RE: JE estate meeting |  | None | To: | Cc: |
-| [EFTA00019911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019911.pdf) | Email | FW: |  | None | To: | Cc: |
 | [EFTA00019912](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019912.pdf) | Email | FW: Letter re GM Flashlight Checks | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | (USANYS)" |
 | [EFTA00019926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019926.pdf) | Email | RE: GM - Letter re Warden | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | ' |
 | [EFTA00019928](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019928.pdf) | Email | Maxwell | ...to discuss? Thank you, Assistant United States Attorney Southern District of New York One Saint A... | None | )" | Cc: ' |
 | [EFTA00019958](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019958.pdf) | Email | Search Warrant Application | ...y additional materials. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Cc: |
 | [EFTA00019959](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019959.pdf) | Email | RE: Subpoenas Re | ...Subpoenas attached, thanks. Assistant United States Attorney Southern District of New York 1 St. ... | None | To: ' | ' |
-| [EFTA00019961](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019961.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sin*, J. Mono Building One Saint A... | None | N/A | [Western Union Financial Services, Inc.](/A/AIR-GHISLAINE-INC.md) |
-| [EFTA00019966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019966.pdf) | Email | U. | ...ustice United States Attorney Southern District of New York The Sikio 1 Mono Building One Saint A... | None | N/A | [Wells Fargo Bank N.A.](/D/DEUTSCHE-BANK.md) |
-| [EFTA00019971](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019971.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sikio 1 Mallo Building One saint A... | None | N/A | [Citibank N.A.](/D/DEUTSCHE-BANK.md) |
-| [EFTA00019976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019976.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sikio 1 Mollo Building One saint A... | None | N/A | [MoneyGram International, Inc.](/A/AIR-GHISLAINE-INC.md) |
-| [EFTA00019981](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019981.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sibio 1,Motto Building One Saint A... | None | N/A | [Experian Information Solutions, Inc.](/A/AIR-GHISLAINE-INC.md) |
+| [EFTA00019961](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019961.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sin*, J. Mono Building One Saint A... | None | N/A | Western Union Financial Services, Inc. |
+| [EFTA00019966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019966.pdf) | Email | U. | ...ustice United States Attorney Southern District of New York The Sikio 1 Mono Building One Saint A... | None | N/A | Wells Fargo Bank N.A. |
+| [EFTA00019971](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019971.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sikio 1 Mallo Building One saint A... | None | N/A | Citibank N.A. |
+| [EFTA00019976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019976.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sikio 1 Mollo Building One saint A... | None | N/A | MoneyGram International, Inc. |
+| [EFTA00019981](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019981.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sibio 1,Motto Building One Saint A... | None | N/A | Experian Information Solutions, Inc. |
 | [EFTA00019986](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019986.pdf) | Email | Re: Letter from Tartaglione counsel | ...afternoon, please? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | Cc: r> |
 | [EFTA00020085](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020085.pdf) | News Article | U. | ...tice United States Attorney Southern District of New York The Si/viol. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00020098](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020098.pdf) | Email | [EXTERNAL] RE: Subpoena to |  | None | Bruce Marshall | Callie Meier |
 | [EFTA00020102](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020102.pdf) | Email | letters to MDC | ...ve to gollIll Saved here: \\I Maxwell Paralegal Specialist U.S. Attorney's Office I SONY 1 St. An... | None | (USANYS) [Contractor]" <1 | InANYS)" |
 | [EFTA00020103](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020103.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!io J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00020104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020104.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!io J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00020105](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020105.pdf) | Document | U. | ...stice United States Attorney Southern District of New York The Si viol Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00020107](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020107.pdf) | Email | RE: Maxwell - RTC |  | None | " | ' |
-| [EFTA00020213](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020213.pdf) | Email | RE: Epstein search warrant documents |  | None | ' | "I |
 | [EFTA00020232](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020232.pdf) | Email | Epstein Devices SW | ...n help me answer. Thanks, Assistant United States Attorney Southern District of New York 1 St. An... | None | " | Cc: an |
-| [EFTA00020237](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020237.pdf) | Document | U. |  | None | N/A | N/A |
 | [EFTA00020248](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020248.pdf) | Legal Filing | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00020320](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020320.pdf) | Email | RE: SDNY investigation | ============================================================ From: To: "Weinstein, Marc A." , Andrew... | None | [To: "Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) | ["Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00020320](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020320.pdf) | Email | RE: SDNY investigation | ============================================================ From: To: "Weinstein, Marc A." , Andrew... | None | To: "Weinstein, Marc A." | "Weinstein, Marc A." |
 | [EFTA00020322](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020322.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (MN) - Request to view evidence, highly confidential | ...roceed. Best, EFTA00020324 Assistant United States Attorney Southern District of New York I St. A... | None | Laura Menninger <Imenninger@hmflaw.com> | /, |
 | [EFTA00020352](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020352.pdf) | Legal Filing | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00020355](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020355.pdf) | Legal Filing | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00020358](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020358.pdf) | Email | SDNY indictment | ...nient for you. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | [Subject: SDNY indictment](/S/SDNY.md) |
+| [EFTA00020358](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020358.pdf) | Email | SDNY indictment | ...nient for you. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Subject: SDNY indictment |
 | [EFTA00020359](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020359.pdf) | Legal Filing | U. | ...tice United States Attorney Southern District of New York The Silvio J. Mono Building One Saint A... | None | N/A | N/A |
 | [EFTA00020364](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020364.pdf) | Email | RE: GM bank accounts | ...ould be ideal. Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Cc: |
-| [EFTA00020365](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020365.pdf) | Email | Epstein estate | ...========================================================== From: "Weinstein, Marc A." <1 To: Cc: ... | None | ["Weinstein, Marc A." <1](/H/HARVEY-WEINSTEIN.md) | [Cc: Andrew Tomback](/P/PRINCE-ANDREW.md) |
+| [EFTA00020365](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020365.pdf) | Email | Epstein estate | ...========================================================== From: "Weinstein, Marc A." <1 To: Cc: ... | None | "Weinstein, Marc A." <1 | Cc: Andrew Tomback |
 | [EFTA00020395](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020395.pdf) | Email | FW: Signed warrant | ...mber. Thank you very much, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | UlMir |
 | [EFTA00020397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020397.pdf) | Email | RE: piling on | ...big help. Thanks team. Assistant United States Attorney Southern District of New York One Saint A... | None | " | :MEW)" |
 | [EFTA00020437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020437.pdf) | Email | Re: U.S. v. Ghislaine Maxwell | ...n all counsel. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | David Oscar Markus ‹ | (USANYS)" |
@@ -1956,72 +437,52 @@
 | [EFTA00020457](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020457.pdf) | Document | Case ID #: 50D-NY-3027571 | ...ar my home, so it could still be recoverable as evidence. After I was hit by the car, I woke up t... | None | N/A | N/A |
 | [EFTA00020462](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020462.pdf) | Legal Filing | FEDERAL BUREAU OF INVESTIGATION | ...a" but I don't kniw which princess this was. She also in recent years has been publicly linked to... | None | N/A | N/A |
 | [EFTA00020470](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020470.pdf) | Legal Filing | FEDERAL BUREAU OF INVESTIGATION | ...5E11-46DF-A431-D7A85D311629 Threat To Life: False Submitted Text: Pedophilia organized by JE for ... | None | N/A | N/A |
-| [EFTA00020477](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020477.pdf) | Legal Filing | FEDERAL BUREAU OF INVESTIGATION |  | None | N/A | N/A |
 | [EFTA00020479](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020479.pdf) | Legal Filing | FEDERAL BUREAU OF INVESTIGATION | ...dditional information in person. Anonymous noted she was the one to take the photograph of Prince... | None | N/A | N/A |
-| [EFTA00020481](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020481.pdf) | Legal Filing | FEDERAL BUREAU OF INVESTIGATION |  | None | N/A | N/A |
 | [EFTA00020526](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020526.pdf) | Email | RE: Maxwell drive delivery Monday 1/11 | ...much for your help. Best, Assistant United States Attorney Southern District of New York 1 St. An... | None | " | EMS |
 | [EFTA00020527](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020527.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00020541](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020541.pdf) | Email | v. | ...witz: EMERY CELLI BRINCKERHOFF & ABADY, LLP, 600 Fifth Avenue, 10th Floor, New York, NY 10020, By... | None | N/A | N/A |
 | [EFTA00020576](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020576.pdf) | Email | RE: financial exhibits | ...todian testify. Thanksl Assistant United States Attorney Southern District of New York One Saint ... | None | (USANYS) [Contractor]" •I | =Err |
 | [EFTA00020621](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020621.pdf) | Email | Subpoena | ...o give me a call if you have any questions, and thanks a lot for your assistance with this matter... | None | To: ' | ' |
 | [EFTA00020664](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020664.pdf) | Email | Re: Epstein NY property | ...05 AM, works for me From: Weinstein, Marc A. Sent: Thursday, July 16, 2020 10:04 To: cM > Cc: And... | None | ' | ' |
-| [EFTA00020668](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020668.pdf) | Email | RE: SDNY investigation | ============================================================ From: ' To: "Weinstein Marc A." , Andre... | None | ' | ["Weinstein Marc A."](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00020668](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020668.pdf) | Email | RE: SDNY investigation | ============================================================ From: ' To: "Weinstein Marc A." , Andre... | None | ' | "Weinstein Marc A." |
 | [EFTA00020685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020685.pdf) | Email | RE: | ============================================================ From: To: "Moyne, Parvin" Cc: Andrew St... | None | To: "Moyne, Parvin" | "Moyne, Parvin" |
-| [EFTA00020689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020689.pdf) | Email | Epstein Travel | ...T is the Virgin Islands Assistant United States Attorney Southern District of New York One Saint ... | None | )" < | [Subject: Epstein Travel](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00020692](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020692.pdf) | Email | RE: documents for Relativity |  | None | ' | ' |
+| [EFTA00020689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020689.pdf) | Email | Epstein Travel | ...T is the Virgin Islands Assistant United States Attorney Southern District of New York One Saint ... | None | )" < | Subject: Epstein Travel |
 | [EFTA00020696](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020696.pdf) | Email | status memo | ...is isn't the final cut. Assistant United States Attorney Southern District of New York One Saint ... | None | )" aMIM> | " |
-| [EFTA00020703](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020703.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 290-3 Entered on FLSD Docket 01/20/2015 Page 1 of 8 |  | None | N/A | N/A |
 | [EFTA00020711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020711.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 329-1 Entered on FLSD Docket 06/23/2015 Page 1 of 18 | ...ed P-013985 thru P-013989 6/14/2007-6/21/2007 emails between Marie Villafafia, Karen Atkinson, An... | None | N/A | N/A |
-| [EFTA00020729](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020729.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 341-3 Entered on FLSD Docket 11/23/2015 Page 1 of 28 |  | None | N/A | N/A |
-| [EFTA00020769](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020769.pdf) | Email | RE: documents for Relativity |  | None | ' | ' |
-| [EFTA00020773](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020773.pdf) | Email | RE: SDNY investigation, re: estate | ...================================================= From: IS" 'c IMIE> To: "Weinstein, Marc A." , A... | None | IS" | ["Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) |
-| [EFTA00020780](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020780.pdf) | Legal Filing | Could we please load the documents in the following folder into Relativity for US v. |  | None | ' | Cc:" |
-| [EFTA00020781](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020781.pdf) | Email | RE: documents for Relativity |  | None | ' | ' |
+| [EFTA00020773](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020773.pdf) | Email | RE: SDNY investigation, re: estate | ...================================================= From: IS" 'c IMIE> To: "Weinstein, Marc A." , A... | None | IS" | "Weinstein, Marc A." |
 | [EFTA00020786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020786.pdf) | Legal Filing | Prtitekratates Alistrirt (gnarl | ...d States Attorney for the Southern District of New York Assistant United States Attorney One St. ... | None | N/A | GREETINGS: |
 | [EFTA00020792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020792.pdf) | Email | RE: Chief of Staff | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | ' | (USANYS)" |
-| [EFTA00020810](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020810.pdf) | Email | RE: Pseudonyms |  | None | (USANYS)" | ar)" |
 | [EFTA00020815](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020815.pdf) | Document | U. | ...ice United States Attorney Southern District IV-New York The Siltio.1. Moll° Building One Saint A... | None | N/A | N/A |
-| [EFTA00020817](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020817.pdf) | Email | RE: Spreadsheets front Denver exports without thumbnails |  | None | To: | Subject: RE: Spreadsheets front Denver exports without thumb |
 | [EFTA00020820](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020820.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00020821](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020821.pdf) | Email | RE: US v. Maxwell - Request for Extension of Discovery Deadline | ...rocessing the production by November 19, 2020, at which point it will send the production to 1 St... | None | Christian Everdell | ' |
-| [EFTA00020831](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020831.pdf) | Email | Re: JE iPhone review |  | None | ' | ' |
 | [EFTA00020832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020832.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) - discovery production | ...ing a new discovery production in the above referenced case is now available for pickup at One St... | None | N/A | Christian Everdell <CEverdell®CohenGressencom>, "Mark S. Coh |
-| [EFTA00020833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020833.pdf) | Email | Epstein - false warranty deed | ...========================================================== From: "Weinstein, Marc A." cj To: Cc: ... | None | ["Weinstein, Marc A." cj](/H/HARVEY-WEINSTEIN.md) | [Cc: Andrew Tomback <=l](/P/PRINCE-ANDREW.md) |
-| [EFTA00020837](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020837.pdf) | Email | Re: Epstein investigation ( |  | None | To: | Cc: |
+| [EFTA00020833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020833.pdf) | Email | Epstein - false warranty deed | ...========================================================== From: "Weinstein, Marc A." cj To: Cc: ... | None | "Weinstein, Marc A." cj | Cc: Andrew Tomback <=l |
 | [EFTA00020844](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020844.pdf) | Email | RE: Subpoena to Interlochen Center for the Arts | ...as needed. Best, Maurene Assistant United States Attorney Southern District of New York 1 St. And... | None | ' | Jeff Jocks <jjocks®sondeeracine.com>, "Donnini, George B." < |
 | [EFTA00020846](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020846.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sikio J. Mono Building One saint A... | None | N/A | Interlochen Center for the Arts |
-| [EFTA00020864](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020864.pdf) | Email | RE: SDNY investigation | ...======================================================= From: "Weinstein, Marc A." < M > To:' Cc:... | None | ["Weinstein, Marc A." <](/H/HARVEY-WEINSTEIN.md) | ' |
-| [EFTA00020865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020865.pdf) | Email | RE: SDNY investigation | ============================================================ From: "Weinstein, Marc A." To:' Cc: And... | None | ["Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) | ' |
-| [EFTA00020870](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020870.pdf) | Email | FW: SDNY investigation | ...o Monday. Thanks, From: Weinstein, Marc A. Sent: Wednesday, September 30, 2020 1:52 PM To: Cc: An... | None | To: | [Subject: FW: SDNY investigation](/S/SDNY.md) |
-| [EFTA00020881](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020881.pdf) | Email | RE: SDNY investigation | ============================================================ From: "Weinstein, Marc A. To: Cc: Andre... | None | ["Weinstein, Marc A.](/H/HARVEY-WEINSTEIN.md) | [Cc: Andrew Tomback ■](/P/PRINCE-ANDREW.md) |
+| [EFTA00020864](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020864.pdf) | Email | RE: SDNY investigation | ...======================================================= From: "Weinstein, Marc A." < M > To:' Cc:... | None | "Weinstein, Marc A." < | ' |
+| [EFTA00020865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020865.pdf) | Email | RE: SDNY investigation | ============================================================ From: "Weinstein, Marc A." To:' Cc: And... | None | "Weinstein, Marc A." | ' |
+| [EFTA00020870](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020870.pdf) | Email | FW: SDNY investigation | ...o Monday. Thanks, From: Weinstein, Marc A. Sent: Wednesday, September 30, 2020 1:52 PM To: Cc: An... | None | To: | Subject: FW: SDNY investigation |
+| [EFTA00020881](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020881.pdf) | Email | RE: SDNY investigation | ============================================================ From: "Weinstein, Marc A. To: Cc: Andre... | None | "Weinstein, Marc A. | Cc: Andrew Tomback ■ |
 | [EFTA00020889](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020889.pdf) | Email | Re: Subpoena to Interlochen Center for the Arts | ...to discuss, please? Thanks Assistant United States Attorney Southern District of New York 1 St. A... | None | Jefflocks <jjocks@sondeeracine.com> | ' |
-| [EFTA00020906](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020906.pdf) | Email | Re: any of you have vouchers for Epstein victims. |  | None | To: | Cc: |
 | [EFTA00020909](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020909.pdf) | Email | RE: Voice Message Attached from | ...le as it sees fit. Thanks, Assistant United States Attorney Southern District of New York I St. A... | None | To: r, | r, |
 | [EFTA00020920](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020920.pdf) | Email | FW: overdue subpoena compliance: Amazon Ref. No. CRIM1031692 2019 DS | ...al process. Sincerely, Assistant United States Attorney Southern District of New York One Saint A... | None | To: ' | ' |
 | [EFTA00020932](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020932.pdf) | Email | Re: post-arrest statements | ...est statements? Thanks. Assistant United States Attorney Southern District of New York One Saint ... | None | To: ' | ' |
 | [EFTA00020940](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020940.pdf) | Document | MARTIN G. | ...ant United States Attorneys U.S. Attorney's Office for the Southern District of New York One St. ... | None | N/A | N/A |
-| [EFTA00020965](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020965.pdf) | Document | On Nov 14, 2019, at 9:50 AM, |  | None | N/A | N/A |
 | [EFTA00020966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020966.pdf) | Email | RE: legal / coordination question | ...you are reaching out. There has been quite a bit of news in the UK about FBUDOJ interest in Princ... | None | IM | Cc: |
 | [EFTA00020978](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020978.pdf) | Email | RE: Discovery Requests | ...roduce those ranges. Best, Assistant United States Attorney Southern District of New York 1 St. A... | None | Christian Evcrdell <CEverdell®CohenGressencom> | (USANYS)" |
 | [EFTA00021001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021001.pdf) | Email | RE: The Estate of Jeffrey Epstein | ...York, New York 10118 From: Moskowitz, Bennet J. 4 Sent: Tuesday, December 3, 2019 9:36:45 PM To: ... | None | ' | Roberta Kaplan |
-| [EFTA00021012](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021012.pdf) | Document | U. |  | None | N/A | N/A |
 | [EFTA00021028](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021028.pdf) | Email | RE: Maxwell Bail Application Exhibits | ...ns or encounter any issues. Take care, Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. A... | None | To: | Cc: |
-| [EFTA00021029](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021029.pdf) | Email | Today's redaction projects |  | None | ' | W' |
-| [EFTA00021033](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021033.pdf) | Email | Response re Rule 17(c) subpoena |  | None | "a" | [Brad Edwards <=lia>,](/B/BRAD-EDWARDS.md) |
 | [EFTA00021034](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021034.pdf) | Document | U. | ...ice United States Attorney Southern District IV-New York The Siltio.1. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00021036](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021036.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Siltio.1. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00021055](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021055.pdf) | Email | RE: Grand jury subpoena response | ...================================= From: "Weinstein, Marc A." < To: ' (USANYS)" <1 Cc: "Tomback, A... | None | ["Weinstein, Marc A." <](/H/HARVEY-WEINSTEIN.md) | ' |
+| [EFTA00021055](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021055.pdf) | Email | RE: Grand jury subpoena response | ...================================= From: "Weinstein, Marc A." < To: ' (USANYS)" <1 Cc: "Tomback, A... | None | "Weinstein, Marc A." < | ' |
 | [EFTA00021073](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021073.pdf) | Email | email | ...ased on this other article, sounds like it might be httpsfinypost.com/2019/12/02/email-from-princ... | None | )" | )" |
-| [EFTA00021076](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021076.pdf) | Document | Document |  | None | N/A | N/A |
 | [EFTA00021113](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021113.pdf) | Document | https://torontosun. | ============================================================ From To Subject: Witness torpedoes Prin... | None | N/A | N/A |
-| [EFTA00021151](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021151.pdf) | Email | RE: US v. Epstein - Status Hearing Notification |  | None | (USANYS)" .<1 | )II |
-| [EFTA00021154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021154.pdf) | Email | FW: Epstein memo | ...PLIDIIC co upon Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | To: | [Subject: FW: Epstein memo](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00021154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021154.pdf) | Email | FW: Epstein memo | ...PLIDIIC co upon Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | To: | Subject: FW: Epstein memo |
 | [EFTA00021202](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021202.pdf) | Email | The Daily 202: Five things to watch when Bob Mueller testifies | ...estimony moves the needle in the polls. As Pelosi loves to say, "Public sentiment is everything."... | None | The Washington Post <email@washingtonpost.com> | < |
 | [EFTA00021251](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021251.pdf) | Email | SDNY NEWS CLIPS, NOVEMBER 5, 2020 | .../trump-policing-ponel-broke-the-low NEWSWEEK: https://www.newsweek.comMokuk-police-evidence-princ... | None | To: | Cc: |
-| [EFTA00021294](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021294.pdf) | Document | Event: Mark Epstein Meeting |  | None | N/A | N/A |
 | [EFTA00021295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021295.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00021297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021297.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00021307](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021307.pdf) | Email | RE: Interviews - 10/22 and 10/23 | ...10/23 after 5pm? Thanks, Assistant United States Attorney Southern District of New York 1 St. And... | None | ' | [Sigrid McCawley ctj](/S/SIGRID-MCCAWLEY.md) |
+| [EFTA00021307](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021307.pdf) | Email | RE: Interviews - 10/22 and 10/23 | ...10/23 after 5pm? Thanks, Assistant United States Attorney Southern District of New York 1 St. And... | None | ' | Sigrid McCawley ctj |
 | [EFTA00021317](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021317.pdf) | Email | Re: Human trafficking victims | ...t year. Thanks very much. Assistant United States Attorney Southern District of New York One St. ... | None | To: | Subject: Re: Human trafficking victims |
 | [EFTA00021332](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021332.pdf) | Email | RE: Epstein | ...represent Ms. Thanks, Assistant United States Attorney Southern District of New York One Saint An... | None | ' | Jack Scarola <I |
 | [EFTA00021344](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021344.pdf) | Document | Assistant United States Attorney | ...=== BSF BOIES SCHILLER FLEXNER BY ELECTRONIC MAIL Assistant United States Attorney One Saint Andr... | None | N/A | N/A |
@@ -2030,21 +491,16 @@
 | [EFTA00021355](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021355.pdf) | Email | Ghislaine Maxwell renewed bail application | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USAWS)" c | "McNeil, |
 | [EFTA00021358](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021358.pdf) | Email | RE: travel approval request | ...t JFK at 4:44 a.m. Thanks, Assistant United States Attorney Southern District of New York I St. A... | None | ' | ' |
 | [EFTA00021364](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021364.pdf) | Email | RE: Maxwell Suppression Opp | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To:' | ' |
-| [EFTA00021367](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021367.pdf) | Email | RE: financial documents (Epstein) |  | None | ' | ' |
 | [EFTA00021373](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021373.pdf) | Email | RE: Question re Epstein Relativity Database | ...hat again, please? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | ' |
-| [EFTA00021428](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021428.pdf) | Email | RE: Epstein investigation | ...at 1 St. Andrews? Thanks. Assistant United States Attorney Southern District of New York 1 St. An... | None | To: | [(NY) (FBI)"](/F/FBI.md) |
-| [EFTA00021434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021434.pdf) | Email | RE: Epstein investigation | ...ur office at 1 St. Andrews? Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | [NY FBI)"](/F/FBI.md) |
-| [EFTA00021442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021442.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 466 Entered on FLSD Docket 07/23/2019 Page 1 of 70 |  | None | N/A | N/A |
+| [EFTA00021428](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021428.pdf) | Email | RE: Epstein investigation | ...at 1 St. Andrews? Thanks. Assistant United States Attorney Southern District of New York 1 St. An... | None | To: | (NY) (FBI)" |
+| [EFTA00021434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021434.pdf) | Email | RE: Epstein investigation | ...ur office at 1 St. Andrews? Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | NY FBI)" |
 | [EFTA00021545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021545.pdf) | Email | RE: US v Epstein | ...elated to this case. Best, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | "Martin G. Weinberg" <I |
 | [EFTA00021547](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021547.pdf) | Email | Ex Parte Submission: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) | ...witnesses. Sincerely, Assistant United States Attorney Southern District of New York One Saint An... | None | " | " |
 | [EFTA00021552](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021552.pdf) | Email | Re: bail | ...s scheduled. Best, Assistant tnUUnited States Attorney Southern District of New York One Saint An... | None | N/A | C |
 | [EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 280 Entered on FLSD Docket 01/02/2015 Page 1 of 14 | ...Epstein forced Jane Doe 03 to have sexual relations with was a member of the British Royal Family... | None | N/A | N/A |
-| [EFTA00021568](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021568.pdf) | Email | FW: Working doe |  | None | To: | Subject: FW: Working doe |
-| [EFTA00021573](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021573.pdf) | Email | Re: financial documents (Epstein) |  | None | "Hamilton, | N/A |
 | [EFTA00021626](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021626.pdf) | Email | U.S. v. Epstein, 19 Cr. 490 (RMB) | ...t photographed. Best, Assistant United States Attorney Southern District of New York One Saint An... | None | ' | ' |
-| [EFTA00021636](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021636.pdf) | Document | Thanks for reaching out. | ============================================================ From: Andrew Stemmer Subject: Re: Deuts... | None | [Andrew Stemmer](/P/PRINCE-ANDREW.md) | N/A |
-| [EFTA00021638](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021638.pdf) | Email | Re: Deutsche Bank Production (SDNY) | ============================================================ From: "Moyer, Thomas" <I To: Andrew Ste... | None | "Moyer, Thomas" <I | [Andrew Stemmer](/P/PRINCE-ANDREW.md) |
-| [EFTA00021644](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021644.pdf) | Email | RE: financial documents (Epstein) |  | None | ' | "I |
+| [EFTA00021636](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021636.pdf) | Document | Thanks for reaching out. | ============================================================ From: Andrew Stemmer Subject: Re: Deuts... | None | Andrew Stemmer | N/A |
+| [EFTA00021638](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021638.pdf) | Email | Re: Deutsche Bank Production (SDNY) | ============================================================ From: "Moyer, Thomas" <I To: Andrew Ste... | None | "Moyer, Thomas" <I | Andrew Stemmer |
 | [EFTA00021648](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021648.pdf) | Email | Date: Wed, 24 Jul 2019 20:36:34 +0000 | ...his to go out. Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Subject: |
 | [EFTA00021650](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021650.pdf) | Email | Protective Order | ...e let us know. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: "Martin G. Weinberg" C | "Martin G. Weinberg" C |
 | [EFTA00021661](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021661.pdf) | Document | Thanks very much for speaking just now. | ...ain for your help. Maurene Assistant United States Attorney Southern District of New York I St. A... | None | To | N/A |
@@ -2057,30 +513,24 @@
 | [EFTA00021711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021711.pdf) | Email | RE: Request re Ghisliane Maxwell | ...to the MDC today, please? Assistant United States Attorney Southern District of New York I St. An... | None | To: | Cc: |
 | [EFTA00021717](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021717.pdf) | Email | Re: Maxwell drive delivery Monday 1/11 | ...r your help. » Best, »Assistant United States Attorney » Southern District of New York » I St. An... | None | "a | ' |
 | [EFTA00021720](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021720.pdf) | Email | RE: Brunel | ...e a good next step as well. Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | " |
-| [EFTA00021741](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021741.pdf) | Email | RE: Subpoena Contact |  | None | To: | Cc: |
 | [EFTA00021743](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021743.pdf) | Email | Re: disclosure update | ..., and we wanted to briefly make you aware of it. Thanks, Southern District of New York One Saint ... | None | i | ' |
 | [EFTA00021745](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021745.pdf) | Email | RE: U.S. v. Epstein | ...+0000 Received, thank you. Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | "Miller. Michael" |
 | [EFTA00021763](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021763.pdf) | Email | RE: New documents: | ...1.jpg Received, thank you. Assistant United States Attorney Southern District of New York I St. A... | None | To: | " |
 | [EFTA00021765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021765.pdf) | Email | Letter re | ...Co-Chief, Narcotics Unit United States Attorney's Office Southern District of New York One Saint ... | None | " | Cc: |
 | [EFTA00021768](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021768.pdf) | Email | Tartaglione MCC Video | ...Co-Chief, Narcotics Unit United States Attorney's Office Southern District of New York One Saint ... | None | N/A | bop.gov>IIIIIIIMMIll |
-| [EFTA00021812](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021812.pdf) | Email | RE: U.S. Department of Justice - VNS - Investigative Case 31E-NY-3027571 - Court Case |  | None | < | cza |
 | [EFTA00021819](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021819.pdf) | Document | I will handle this matter. | ...to contact me. Thank you, Assistant United States Attorney Southern District of New York I St. An... | None | N/A | N/A |
 | [EFTA00021832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021832.pdf) | Email | FW: Ghislaine Maxwell (USMS No. 02879-509) | ...atter, please? Thank you, Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | ' |
 | [EFTA00021898](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021898.pdf) | Email | RE: Letter regarding discovery attached. | ...gust 9, 2020 letter. Best, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Jeff Pagliuca ipagliuca®hmflaw.com> |
 | [EFTA00021902](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021902.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00021940](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021940.pdf) | Email | Updated CC letter |  | None | To: | Cc: |
 | [EFTA00021941](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021941.pdf) | Document | U. | ...stice United States Attorney Southern District of New York The Si viol Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00021944](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021944.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...h will send notification of such filing to the following: U.S. Attorney's Office, SDNY One Saint ... | None | N/A | N/A |
 | [EFTA00021978](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021978.pdf) | Email | joint letter | ...his afternoon. Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | " | ' |
 | [EFTA00021979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021979.pdf) | Document | Attachments: 2021-11-08 joint_letter_regardingjuror_questionnairesiwith_juror s). | ...his afternoon. Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | Subject: RE: joint letter | N/A |
 | [EFTA00021980](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021980.pdf) | Email | rate | ...Respectfully submitted, Assistant United States Attorney Southern District of New York One Saint ... | None | " alMIE> | Nathan NYSD Chambers •t: |
-| [EFTA00021983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021983.pdf) | Email | RE: Discovery Tasks for Maxwell on Epstein Relativity Databases |  | None | To: | Cc: |
 | [EFTA00021992](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021992.pdf) | Email | Date: | ...very,_19_Misc._149_(CM).pdf Assistant United States Attorney Southern District of New York I St. ... | None | To: | Subject: |
-| [EFTA00021997](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021997.pdf) | Document | seamonvalumeraiftniumu• |  | None | N/A | N/A |
 | [EFTA00022021](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022021.pdf) | Email | MCC guards | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | ' |
 | [EFTA00022026](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022026.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00022027](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022027.pdf) | Document | U. | ...stice United States Attorney Southern District of New York The SilWoJ. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00022047](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022047.pdf) | Email | RE: Discovery Tasks for Maxwell on Epstein Relativity Databases |  | None | To: | Cc: |
 | [EFTA00022050](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022050.pdf) | Document | Attachments: 2020-06-26,_search_warrant_application,_20_mag_6719. | ...teams. Thanks very much, Assistant United States Attorney Southern District of New York 1 St. And... | None | N/A | N/A |
 | [EFTA00022051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022051.pdf) | Email | 5th Production cover letters | ...drives sent out. Thank you very much! Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. An... | None | To: | Cc |
 | [EFTA00022052](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022052.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
@@ -2093,10 +543,8 @@
 | [EFTA00022084](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022084.pdf) | Email | Re: Maxwell investigation, prosecution memo | ...was completed. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | ' | ' |
 | [EFTA00022130](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022130.pdf) | Legal Filing | On Nov 28, 2021, at 9:59 AM | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
 | [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) | Email | Epstein Accusations (from Press Reporting) | ...other girls • "In 2001, alleges that Epstein brought her to London, where she was introduced to P... | None | N/A | N/A |
-| [EFTA00022151](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022151.pdf) | Email | NYC DEPARTMENT OF FINANCE |  | None | N/A | N/A |
-| [EFTA00022177](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022177.pdf) | Email | RE: Decision on motion to strike |  | None | ' | ' |
 | [EFTA00022179](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022179.pdf) | Email | RE: joint letter | .... Thanks! EFTA00022179 Assistant United States Attorney Southern District of New York One Saint A... | None | To: ' | ' |
-| [EFTA00022181](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022181.pdf) | Email | FW: United States v. Ghislaine Maxwell --)pens | ...that you go over early. Assistant United tates Attorney Southern District of New York One Saint A... | None | Sent: Mon a Novem • er 29 2021 12:59 PM | [Cc: USANYS-CRIMINAL AUSAS <USANYS-CRIMINALAUSAS@usa.doj.gov>](/D/DOJ.md) |
+| [EFTA00022181](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022181.pdf) | Email | FW: United States v. Ghislaine Maxwell --)pens | ...that you go over early. Assistant United tates Attorney Southern District of New York One Saint A... | None | Sent: Mon a Novem • er 29 2021 12:59 PM | Cc: USANYS-CRIMINAL AUSAS <USANYS-CRIMINALAUSAS@usa.doj.gov> |
 | [EFTA00022197](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022197.pdf) | Email | Discovery questions | ...a call. Thanks very much, Assistant United States Attorney Southern District of New York 1 St. An... | None | To: | Cc: |
 | [EFTA00022328](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022328.pdf) | Email | AT&T court subpoena question | ...let me know when you can, thank youl Paralegal Specialist U.S. Attorney's Office I SDNY 1 Saint A... | None | USANYS) [Contractor]" | ' |
 | [EFTA00022343](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022343.pdf) | Email | RE: Prince Andrew 'maybe has something to hide': Epstein butler | ============================================================ From: To:' • Subject: RE: Prince Andrew... | None | To:' | ' |
@@ -2104,81 +552,62 @@
 | [EFTA00022351](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022351.pdf) | Email | Fw: The SW11, Tuesday, June 9, 2020 | ...London Public Affairs The SW11 June 9, 2020 What the Papers Say Most headlines are leading with P... | None | " | ' |
 | [EFTA00022360](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022360.pdf) | Email | Re: Epstein - Subpoena Tracker | ...o have them uploaded to USAfx? Thanks, Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. A... | None | To: | Cc: |
 | [EFTA00022361](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022361.pdf) | Email | Subpoena and Request for Emails | ...and Reid Weingarten Best, Assistant United States Attorney Southern District of New York 1 St. An... | None | Adam Johnson < | Ste hanie Scannell < |
-| [EFTA00022383](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022383.pdf) | Email | UBS Financial Services Inc. |  | None | N/A | N/A |
 | [EFTA00022483](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022483.pdf) | Email | FW: photo project | ...for helping with this. Assistant United States Attorney Southern District of New York One Saint A... | None | ' | " |
 | [EFTA00022484](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022484.pdf) | Email | RE: Travel Records | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | a" |
 | [EFTA00022503](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022503.pdf) | Email | RE: | ...e entertained. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | " <MIMIIM> | " |
 | [EFTA00022511](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022511.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00022527](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022527.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sihlo J. Mono Building One Saint A... | None | N/A | [Deutsche Bank AG, New York Branch /](/D/DEUTSCHE-BANK.md) |
+| [EFTA00022527](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022527.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Sihlo J. Mono Building One Saint A... | None | N/A | Deutsche Bank AG, New York Branch / |
 | [EFTA00022545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022545.pdf) | Email | RE: Updates | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | ' | ' |
 | [EFTA00022625](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022625.pdf) | Email | statute of limitations | ...incorporated. Thanks, Assistant United States Attorney Southern District of New York One Saint An... | None | To: | Cc: |
 | [EFTA00022628](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022628.pdf) | Email | MCC Employee Summary Table | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | ' |
 | [EFTA00022645](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022645.pdf) | Email | GM - | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | :=IIISYS)" |
-| [EFTA00022666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022666.pdf) | Email | [EXTERNAL] RE: Subpoena to AIC Title Part 1 |  | None | Bruce Marshall | Callie Meier |
 | [EFTA00022960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022960.pdf) | Legal Filing | CageagAg0atifiSEAPIerbdthhiEgti id5i352PiletiViMdbagriad4 | ...aw.com Paul G. Cassell 383 S. University Street Salt Lake City, UT 84112 cassellp@law.utah.edu An... | None | N/A | N/A |
 | [EFTA00022980](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022980.pdf) | Email | Re: U.S. Department of Justice investigation | ...) and "Geoffrey Berman, a US attorney, said federal prosecutors and the FBI had asked to intervie... | None | Subject: Re: U.S. Department of Justice investigation | " |
 | [EFTA00022989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022989.pdf) | Document | o prosecutors and also two primary FBI agents | ...============================================== From• To• Subject: notes from tic with counsel to ... | None | N/A | N/A |
 | [EFTA00022991](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022991.pdf) | Email | Re: Attorney who slammed Prince Andrew will 'ruthlessly pursue all leads' in Epstein probe | ...=============================================== From: To: Cc: Subject: Re: Attorney who slammed P... | None | To: | Cc: |
 | [EFTA00022997](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022997.pdf) | Email | FW: Subpoena to Interlochen Center for the Arts | ...? Thanks OEM Assistant United States Attorney EFTA00023004 Southern District of New York 1 St. An... | None | ' | ' |
-| [EFTA00023032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023032.pdf) | Email | Re: US v. Ghislaine Maxwell, 20 Cr. 330 (AJN) |  | None | Druyan law | ' |
-| [EFTA00023033](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023033.pdf) | Email | Thank you |  | None | I | ' |
-| [EFTA00023034](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023034.pdf) | Email | FW: US v. Maxwell, 20 Cr. 330 (AJN) - Letter Motion to file Reply Brief |  | None | "a" | '' |
-| [EFTA00023035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023035.pdf) | Email | RE: Thank you |  | None | To: | Subject: RE: Thank you |
 | [EFTA00023043](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023043.pdf) | Email | RE: GM FedEx Project | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: ' | ' |
 | [EFTA00023045](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023045.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00023073](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023073.pdf) | Document | Attachments: 1. | ....25.2021 Filing 2.zip _ _ Assistant United States Attorney Southern District of New York I St. An... | None | N/A | N/A |
 | [EFTA00023074](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023074.pdf) | Email | RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | To: ' | ' |
 | [EFTA00023080](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023080.pdf) | Email | RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | (USANYS) | (USANYS) •< |
-| [EFTA00023110](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023110.pdf) | Document | U. |  | None | N/A | N/A |
 | [EFTA00023113](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023113.pdf) | Email | RE: FW: Ghislaine Maxwell 02879-509 | ...you are available. Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | " | Cc: a:M.1=11W |
-| [EFTA00023132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023132.pdf) | Email | RE: Call this week | ...ng safe and healthy. Best, Assistant United States Attorney Southern District of New York I St. A... | None | [Gloria Allred <1](/G/GLORIA-ALLRED.md) | ' |
-| [EFTA00023136](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023136.pdf) | Email | FW: Call re |  | None | "C" | C |
-| [EFTA00023148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023148.pdf) | Email | RE: | ...thanks. follow-up request Assistant United States Attorney Southern District of New York I St. An... | None | [Sigrid McCawley <I](/S/SIGRID-MCCAWLEY.md) | ' |
+| [EFTA00023132](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023132.pdf) | Email | RE: Call this week | ...ng safe and healthy. Best, Assistant United States Attorney Southern District of New York I St. A... | None | Gloria Allred <1 | ' |
+| [EFTA00023148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023148.pdf) | Email | RE: | ...thanks. follow-up request Assistant United States Attorney Southern District of New York I St. An... | None | Sigrid McCawley <I | ' |
 | [EFTA00023169](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023169.pdf) | Email | RE: | ...FTA00023171 Got it, thanks. Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | Sigrid MeCawley |
 | [EFTA00023182](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023182.pdf) | Email | RE: Subpoena to Interlochen Center for the Arts | ...discuss, please? S a hanks Assistant United States Attorney Southern District of New York l St. A... | None | ' | JeffJocks <jjocks®sondeeracine.com> |
-| [EFTA00023202](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023202.pdf) | Email | RE: [EXTERNAL] Re: following up |  | None | ' | ["Weinstein, Marc A." <](/H/HARVEY-WEINSTEIN.md) |
 | [EFTA00023217](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023217.pdf) | Document | U. | ...ce United States Attorney Southern District of New York The Silvio .1. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00023226](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023226.pdf) | Email | RE: Tartaglione / Epstein | ...Co-Chief, Narcotics Unit United States Attorney's Office Southern District of New York One Saint ... | None | To: | Cc: ' |
 | [EFTA00023230](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023230.pdf) | Legal Filing | New York. | ...ers Sincerely, /s/ Bennet J. Moskowitz Bennet J. Moskowitz cc: David Brodie, Esq. (via Email) And... | None | N/A | N/A |
 | [EFTA00023252](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023252.pdf) | Email | Part I Matter - Friday, October 16, 2020 | ...Thank you, Criminal Clerk United States Attorney's Office Southern District of New York 1 St. And... | None | To: | (USANYS)" |
-| [EFTA00023318](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023318.pdf) | Email | Fwd: Follow-up |  | None | To: | Cc: |
-| [EFTA00023326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023326.pdf) | Document | Bradley J. |  | None | N/A | N/A |
 | [EFTA00023335](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023335.pdf) | Email | Re: Image/Video file review for Maxwell case | ...call? EFTA00023335 Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | ' |
 | [EFTA00023378](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023378.pdf) | Email | Case 1:20-cr-00330-AJN Document 430 Filed 11/10/21 Page 1 of S | ...tates Courthouse 40 Foley Square New York, New York 10007 Re: The &Mal Mono Building One Saint An... | None | N/A | N/A |
 | [EFTA00023405](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023405.pdf) | Email | Re: gloria allred purchases prince andrew 'wanted' poster | ...====================================== From: ' To: ' Cc: ' Subject: Re: gloria allred purchases p... | None | ' | ' |
-| [EFTA00023409](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023409.pdf) | Email | Prince Andrew | ...=============================== From: " (USANYS)" To: "Berman, Geoffrey (USANYS)" < => Subject: P... | None | " | ["Berman, Geoffrey (USANYS)" <](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00023409](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023409.pdf) | Email | Prince Andrew | ...=============================== From: " (USANYS)" To: "Berman, Geoffrey (USANYS)" < => Subject: P... | None | " | "Berman, Geoffrey (USANYS)" < |
 | [EFTA00023411](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023411.pdf) | Email | United States v. Ghislaine Maxwell, 20 Cr. 330 | ...redactions. Thank you. Assistant United States Attorney Southern District of New York One Saint A... | None | " aMIE> | Nathan NYSD Chambers •t: |
-| [EFTA00023413](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023413.pdf) | Email | Paul Kane Q&A |  | None | "a" | " |
 | [EFTA00023455](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023455.pdf) | Email | Date: Sun, 03 Oct 2021 21:39:21 +0000 | ...FW: .msg Hi Thanks) Assistant United States Attorney Southern District of New York One Saint Andr... | None | To:' | ' |
 | [EFTA00023462](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023462.pdf) | Email | Date: | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | Christian Everdell <CEverdell CohenGressencom>, " |
-| [EFTA00023466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023466.pdf) | Email | Maxwell - RTC |  | None | To: | Cc: |
 | [EFTA00023467](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023467.pdf) | Email | ESI exhibits | ...time to talk. Thanks, Assistant United States Attorney Southern District of New York One Saint An... | None | "a' | Cc: |
 | [EFTA00023478](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023478.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) - discovery production | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | , Bobbi Sternheim |
 | [EFTA00023480](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023480.pdf) | Email | RE: Testifying Witness Questions | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Cc: |
 | [EFTA00023485](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023485.pdf) | Email | RE: United States v. Ghislaine Maxwell, 20 Cri. 330 (AJN) | ...eek. Thanks very much, Assistant United States Attorney Southern District of New York One Saint A... | None | To: ' | ' |
 | [EFTA00023532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023532.pdf) | Legal Filing | Case 1:20-cr-00330-AJN Document 309 Filed 07/01/21 Page 1 of 3 | ...ice United States Attorney Southern District of New York The Silvio J. Motto Building One Saint A... | None | N/A | N/A |
-| [EFTA00023551](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023551.pdf) | Email | RE: Call re |  | None | "Kathleen F. Cassidy" all | " |
 | [EFTA00023662](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023662.pdf) | Legal Filing | Haddon, Morgan and Foreman. | ...igate." http://transcripts.cnn.com/TRANSCRIPTS/I907/08/ath.0l.html). Sarah Nathan and Kate Sheey,... | None | N/A | N/A |
 | [EFTA00023673](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023673.pdf) | Email | RE: Discovery questions | ...a call. Thanks very much, Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | ' |
 | [EFTA00023683](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023683.pdf) | Email | RE: Epstein/Maxwell Upload | ...4 Images Seized During Search Thanks, Para legal Specialist U.S. Attorney's Office I SDNY 1 St. A... | None | ' | From: ' |
 | [EFTA00023688](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023688.pdf) | Email | RE: Epstein/Maxwell Upload | ...Images Seized During Search Thanks, • Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. An... | None | ' | ' |
-| [EFTA00023693](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023693.pdf) | Email | RE: Ghislaine Maxwell - new discovery production | ...ways, for all of your help. Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | [Subject: RE: Ghislaine Maxwell - new discovery production](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00023698](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023698.pdf) | Email | RE: SDNY investigation | ============================================================ From: To: "'Weinstein, Marc A. Cc: Andr... | None | [To: "'Weinstein, Marc A.](/H/HARVEY-WEINSTEIN.md) | ["'Weinstein, Marc A.](/H/HARVEY-WEINSTEIN.md) |
-| [EFTA00023699](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023699.pdf) | Email | RE: SDNY investigation | ...======================================================= From: ' To: "'Weinstein, Marc A."' < Cc: ... | None | ' | ["'Weinstein, Marc A."' <](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00023693](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023693.pdf) | Email | RE: Ghislaine Maxwell - new discovery production | ...ways, for all of your help. Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | Subject: RE: Ghislaine Maxwell - new discovery production |
+| [EFTA00023698](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023698.pdf) | Email | RE: SDNY investigation | ============================================================ From: To: "'Weinstein, Marc A. Cc: Andr... | None | To: "'Weinstein, Marc A. | "'Weinstein, Marc A. |
+| [EFTA00023699](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023699.pdf) | Email | RE: SDNY investigation | ...======================================================= From: ' To: "'Weinstein, Marc A."' < Cc: ... | None | ' | "'Weinstein, Marc A."' < |
 | [EFTA00023709](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023709.pdf) | Email | RE: Epstein | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | ' | :ati,NYS)" |
 | [EFTA00023750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023750.pdf) | Email | RE: 12/04/09 | ...Jack, Thanks for speaking with me earlier today. The attorneys I mentioned are Marc Weinstein and... | None | ' | Jack Scarola <I |
 | [EFTA00023765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023765.pdf) | Email | RE: Ghislaine Maxwell Pics | ...s Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | To:' | ' |
 | [EFTA00023768](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023768.pdf) | Legal Filing | gin FOY& SEPLOW I TZE | ...T HACKENSACK. NJ 07601 WWW.FOYSEPLOWITZ.COM June 5, 2020 US Attorney's Office - SDNY One Saint An... | None | N/A | N/A |
 | [EFTA00023771](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023771.pdf) | Email | RE: BRITISH TV REQUEST Important | ...d to do an interview with you today via Skype for about 10 minutes about your request to intervie... | None | To: | Subject: RE: BRITISH TV REQUEST Important |
-| [EFTA00023773](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023773.pdf) | Email | Barr confirms DOJ wants Prince Andrew to 'provide some evidence' in Epstein investigation | ...= From: '• (USANYS)" czi To: "Berman, Geoffrey (USANYS)" fr" Subject: Barr confirms DOJ wants Pri... | None | '• | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00023778](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023778.pdf) | Email | Epstein FOlAs | ...) Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | N/A | [Subject: Epstein FOlAs](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00023773](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023773.pdf) | Email | Barr confirms DOJ wants Prince Andrew to 'provide some evidence' in Epstein investigation | ...= From: '• (USANYS)" czi To: "Berman, Geoffrey (USANYS)" fr" Subject: Barr confirms DOJ wants Pri... | None | '• | "Berman, Geoffrey (USANYS)" |
+| [EFTA00023778](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023778.pdf) | Email | Epstein FOlAs | ...) Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | N/A | Subject: Epstein FOlAs |
 | [EFTA00023780](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023780.pdf) | Email | RE: Media Inquiry from | ...am looking to find out if you have any comment on the claim in newly unsealed court documents tha... | None | r | " |
-| [EFTA00023783](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023783.pdf) | Email | Re: Sensitive correspondence |  | None | Gary Bloxsome | "- |
-| [EFTA00023791](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023791.pdf) | Email | Re: Sensitive correspondence |  | None | Gary Bloxsome | "- |
-| [EFTA00023798](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023798.pdf) | Email | Re: Sensitive correspondence. |  | None | Gary Bloxsome | " |
-| [EFTA00023802](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023802.pdf) | Document | Inline-Images: image543915. |  | None | N/A | N/A |
 | [EFTA00023804](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023804.pdf) | Email | Re: U.S. Department of Justice investigation | ...y that practice in this case. Beyond that, we can make no commitments. Please advise as to whethe... | None | Gary Bloxsome < | Cc: |
-| [EFTA00023813](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023813.pdf) | Email | RE: U.S. Department of Justice investigation |  | None | Jennifer Richardson <1 | '1 |
 | [EFTA00023864](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023864.pdf) | Email | RE: | ...ts. From: Sent: Thursday, August 6, 2020 9:35 AM To: Subject: https://www.newsweek.corn/prince-an... | None | ' | ' |
 | [EFTA00023865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023865.pdf) | Email | RE: Witness torpedoes Prince Andrew's denials about alleged Epstein sex slave I Toronto Sun | ...================================== From: " )" < To: ' I" < >1 " Subject: RE: Witness torpedoes Pr... | None | " | ' |
 | [EFTA00023869](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023869.pdf) | Email | RE: | ...:59 +0000 Hi Joe, Thanks very much. Let's plan to meet at 9 a.m. on Friday at our office (1 Saint... | None | ' | Joe Nascimento |
@@ -2189,29 +618,24 @@
 | [EFTA00023962](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023962.pdf) | Document | Subject RE: delivery of hard drive to MDC for discovery production to inmate | ...we will work to provide a fix. Thanks, Paralegal Specialist U.S. Attorney's Office SDNY 1 St. And... | None | Sent: Wednesday, August 26, 2020 3:23 PM | N/A |
 | [EFTA00023993](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023993.pdf) | Email | RE: Epstein OIG/FBI—Document Preservation | .... Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | To: | Cc: |
 | [EFTA00024027](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024027.pdf) | Email | FW: GM Suppression Replies | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | " | ' |
-| [EFTA00024032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024032.pdf) | Email | cFOIA Request Received Sent: 2017-04-20118:49:46.543923+00:00 Status: | ...een connected to Mr. Epstein's child-trafficking ring, including former President Bill Clinton an... | None | [James Robertson](/G/GREAT-ST-JAMES.md) | Federal Bureau of Investigation |
-| [EFTA00024174](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024174.pdf) | Email | US v. Maxwell, 20 CR 330 (AJN) - Government Opposition to Defense Motions in Limine |  | None | To: Nathan NYSD Chambers < | Nathan NYSD Chambers < |
+| [EFTA00024032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024032.pdf) | Email | cFOIA Request Received Sent: 2017-04-20118:49:46.543923+00:00 Status: | ...een connected to Mr. Epstein's child-trafficking ring, including former President Bill Clinton an... | None | James Robertson | Federal Bureau of Investigation |
 | [EFTA00024225](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024225.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00024236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024236.pdf) | Document | U. | ...ce United States Attorney Southern District of New York The Silvio .1. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00024248](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024248.pdf) | Email | Rule 412 Motion | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | [Brad Edwards <brad@eplIc.com>, Brittany Henderson <brittany®](/B/BRAD-EDWARDS.md) |
-| [EFTA00024259](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024259.pdf) | Email | RE: Call this week | ...ng safe and healthy. Best, Assistant United States Attorney Southern District of New York I St. A... | None | ' | [Gloria Allred <1](/G/GLORIA-ALLRED.md) |
-| [EFTA00024275](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024275.pdf) | Document | Records Listed For: JEFFREY EPSTEIN from 04/11/2005 to 04/11/2005 |  | None | N/A | N/A |
+| [EFTA00024248](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024248.pdf) | Email | Rule 412 Motion | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | Brad Edwards <brad@eplIc.com>, Brittany Henderson <brittany® |
+| [EFTA00024259](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024259.pdf) | Email | RE: Call this week | ...ng safe and healthy. Best, Assistant United States Attorney Southern District of New York I St. A... | None | ' | Gloria Allred <1 |
 | [EFTA00024279](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024279.pdf) | Email | RE: Call this week | ...ng safe and healthy. Best, Assistant United States Attorney Southern District of New York I St. A... | None | ' | "I |
-| [EFTA00024287](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024287.pdf) | Email | RE: Interviews - 10/22 and 10/23 | ...her to do the conference? Assistant United States Attorney Southern District of New York I St. An... | None | [To: Sigrid McCawley](/S/SIGRID-MCCAWLEY.md) | [Sigrid McCawley](/S/SIGRID-MCCAWLEY.md) |
-| [EFTA00024292](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024292.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...and phone number? Thanks, Assistant United States Attorney Southern District of New York l St. An... | None | [Gloria Allred](/G/GLORIA-ALLRED.md) | ' |
-| [EFTA00024296](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024296.pdf) | Email | Epstein estate | ...====================================================== From: "Weinstein. Marc A." To: , "Tomback,... | None | ["Weinstein. Marc A."](/H/HARVEY-WEINSTEIN.md) | [, "Tomback, Andrew"](/P/PRINCE-ANDREW.md) |
+| [EFTA00024287](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024287.pdf) | Email | RE: Interviews - 10/22 and 10/23 | ...her to do the conference? Assistant United States Attorney Southern District of New York I St. An... | None | To: Sigrid McCawley | Sigrid McCawley |
+| [EFTA00024292](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024292.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...and phone number? Thanks, Assistant United States Attorney Southern District of New York l St. An... | None | Gloria Allred | ' |
+| [EFTA00024296](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024296.pdf) | Email | Epstein estate | ...====================================================== From: "Weinstein. Marc A." To: , "Tomback,... | None | "Weinstein. Marc A." | , "Tomback, Andrew" |
 | [EFTA00024297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024297.pdf) | Document | Event: Epstein estate | ...2019-10-23 13:15:32 +0000 Priority: 5 DTSTAMP: 2019-10-23 13:06:08 +0000 Attendee: >; Tomback, An... | None | N/A | N/A |
-| [EFTA00024302](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024302.pdf) | Document | Event: Accepted: Mark Epstein Meeting |  | None | N/A | N/A |
-| [EFTA00024303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024303.pdf) | Email | RE: Epstein estate subpoenas | ...================================================== From: ' To: "Weinstein, Marc A." Cc: "Tomback,... | None | ' | ["Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00024303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024303.pdf) | Email | RE: Epstein estate subpoenas | ...================================================== From: ' To: "Weinstein, Marc A." Cc: "Tomback,... | None | ' | "Weinstein, Marc A." |
 | [EFTA00024404](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024404.pdf) | Email | Re: New Case Opening | ...l Assistant — Criminal Clerk United States Attorney's Office Southern District of New York 1 St. ... | None | USANYS)" cfl | ' |
 | [EFTA00024437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024437.pdf) | Email | RE: Ghislaine Maxwell (USMS No. 02879-509) | ...ou very much for your help. Assistant United States Attorney Southern District of New York l St. ... | None | To:I | I |
 | [EFTA00024442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024442.pdf) | Email | SDNY investigation | ...reached at Thank you, Assistant United States Attorney Southern District of New York One Saint An... | None | To: | Cc: |
 | [EFTA00024471](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024471.pdf) | Email | RE: Doud trial | ...t United States Attorney United States Attorney's Office Southern District of New York One Saint ... | None | (USANYS)" czi | Subject: RE: Doud trial |
 | [EFTA00024474](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024474.pdf) | Legal Filing | Prince Andrew Sought Washington Lobbyist to Help With Epstein Case | ============================================================ From To Subject: NYTimes: Prince Andrew... | None | N/A | N/A |
-| [EFTA00024501](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024501.pdf) | Email | Epstein NY property | ============================================================ From: "Weinstein. t\1arc A." To: , Andr... | None | ["Weinstein. t\1arc A."](/H/HARVEY-WEINSTEIN.md) | [, Andrew Tomback](/P/PRINCE-ANDREW.md) |
+| [EFTA00024501](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024501.pdf) | Email | Epstein NY property | ============================================================ From: "Weinstein. t\1arc A." To: , Andr... | None | "Weinstein. t\1arc A." | , Andrew Tomback |
 | [EFTA00024502](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024502.pdf) | Document | Event: Epstein NY property | ...Modified: 2020-07-16 14:42:22 +0000 Priority: 5 DTSTAMP: 2020-07-16 14:27:16 +0000 Attendee: >; A... | None | N/A | N/A |
-| [EFTA00024507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024507.pdf) | Email | Re: JE estate meeting |  | None | To | Cc: |
-| [EFTA00024510](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024510.pdf) | Email | Re: JE estate meeting |  | None | To: | Subject: Re: JE estate meeting |
 | [EFTA00024562](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024562.pdf) | Email | RE: Pretrial Interview - Ghislaine Maxwell | ...to contact me. Thank you, Assistant United States Attorney Southern District of New York 1 St. An... | None | N/A | Cc: |
 | [EFTA00024584](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024584.pdf) | Legal Filing | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00024662](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024662.pdf) | Email | FW: GM supplemental pretrial motions | ...st Thanks, EFTA00024662 Assistant United States Attorney Southern District of New York One Saint ... | None | ' | "r" |
@@ -2228,29 +652,22 @@
 | [EFTA00024822](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024822.pdf) | Email | RE: calls re: Epstein | ...212-637-1030. Thanks! Assistant United States Attorney Southern District of New York One Saint An... | None | To: | Cc: |
 | [EFTA00024830](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024830.pdf) | Email | Re: Epstein | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | (USANYS)" | ' |
 | [EFTA00024868](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024868.pdf) | Document | U. | ...tiee United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00024872](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024872.pdf) | Email | Re: United States v. Ghislaine Maxwell --Sens | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: Re: United States v. Ghislaine Maxwell --Sens](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00024872](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024872.pdf) | Email | Re: United States v. Ghislaine Maxwell --Sens | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: Re: United States v. Ghislaine Maxwell --Sens |
 | [EFTA00024879](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024879.pdf) | Email | Re: Subpoena to Interlochen Center for the Arts | ...o discuss, please? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | JeffJocks <jjocks®sondeeracine.com> | " |
 | [EFTA00024891](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024891.pdf) | Email | Opening | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | ' |
-| [EFTA00024896](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024896.pdf) | Email | Re: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: Re: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00024897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024897.pdf) | Email | Fwd: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | [USANYS-CRIMINAL AUSAS <USANYS-CRIMINALAUSAS®usa.doj.gov>, US](/D/DOJ.md) |
+| [EFTA00024896](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024896.pdf) | Email | Re: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: Re: United States v. Ghislaine Maxwell -- |
+| [EFTA00024897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024897.pdf) | Email | Fwd: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | USANYS-CRIMINAL AUSAS <USANYS-CRIMINALAUSAS®usa.doj.gov>, US |
 | [EFTA00024898](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024898.pdf) | Email | FW: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | Cc |
-| [EFTA00024899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024899.pdf) | Email | 3500 |  | None | 'IS" | (USANYS) [Contractor]" |
-| [EFTA00024904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024904.pdf) | Email | Limiting instructions letter |  | None | "S" | 'a<Sin |
-| [EFTA00024905](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024905.pdf) | Email | RE: Limiting instructions letter |  | None | To: | Subject: RE: Limiting instructions letter |
 | [EFTA00024919](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024919.pdf) | Document | U. | ...ce United States Attorney Southern District of New York life Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00024923](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024923.pdf) | Email | RE: 17(c) letter |  | None | Sent: Wednesday, November 17, 2021 11:57 PM | (USANYS) < |
 | [EFTA00024924](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024924.pdf) | Email | Opening | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" < | 1=): |
 | [EFTA00024925](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024925.pdf) | Email | FW: US v. Maxwell, 20 Cr. 330 (AJN) - discovery production | ...MDC by FedEx today. Best, Assistant United States Attorney Southern District of New York l St. An... | None | To: | )11 cl |
 | [EFTA00024926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024926.pdf) | Email | RE: Shared Access | ...access to the shared. Thanks! Paralegal Specialist United States Attorney's Office I SONY 1 St. A... | None | ' | ' |
-| [EFTA00024952](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024952.pdf) | Email | RE: Binder |  | None | To:' | ' |
 | [EFTA00024954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024954.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...NIFER NASO DAMIAN WILLIAMS United States Attorney for the Southern District of New York One St. A... | None | N/A | N/A |
-| [EFTA00024983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024983.pdf) | Email | Opposition to motions to quash |  | None | "S" | Brian Bums |
 | [EFTA00024984](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024984.pdf) | Email | Date: | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Subject: |
 | [EFTA00024986](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024986.pdf) | Email | Time sensitive review of pending productions | ...ny changes you want to make. Thanks, Paralegal Specialist U.S. Attorney's Office I SDNY 1 Saint A... | None | To: | (USANYS) (Contractor]" |
 | [EFTA00024987](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024987.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00025000](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025000.pdf) | Email | Re: Maxwell drive delivery Monday 1/11 | ...much for your help. Best, Assistant United States Attorney Southern District of New York 1 St. An... | None | To: | Cc: |
 | [EFTA00025018](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025018.pdf) | Email | [EXTERNAL] Re: Subpoena to Interlochen Center for the Arts | ...o discuss, please? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | JeffJocks <jjocks(0sondeeracine.com> | ' |
-| [EFTA00025032](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025032.pdf) | Email | Last MILs |  | None | To: | Subject: Last MILs |
 | [EFTA00025035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025035.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00025041](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025041.pdf) | Email | RE: Subpoena to Interlochen Center for the Arts | ...to discuss, please? Thanks Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Jeff Jocks ijocks@sondeeracine.com> |
 | [EFTA00025057](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025057.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | " | Cc |
@@ -2259,8 +676,6 @@
 | [EFTA00025069](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025069.pdf) | Legal Filing | Attachments: 2021. | ...ike to discuss. Thank you, Assistant United States Attorney Southern District of New York 1 St. A... | None | Cc: | N/A |
 | [EFTA00025080](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025080.pdf) | Email | GM - MLAT Request to the UK | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" c | ' |
 | [EFTA00025103](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025103.pdf) | Email | RE: Following up | ...n to meet than. Thanks. Assistant United States Attorney Southern District of New York One Saint ... | None | " aMIE> | "Hud ens, Johanna Rae" <=IMI |
-| [EFTA00025125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025125.pdf) | Email | RE: Epstein investigation (MEM) |  | None | ' | [Sigrid McCawley](/S/SIGRID-MCCAWLEY.md) |
-| [EFTA00025146](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025146.pdf) | Email | FW: reply brief |  | None | " | "S" |
 | [EFTA00025159](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025159.pdf) | Email | RE: discovery | ...ext production? Thanks! Assistant United States Attorney Southern District of New York One Saint ... | None | ' | MIEllry, |
 | [EFTA00025160](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025160.pdf) | Email | RE: United States v. Ghislaine Maxwell, 20 Cri. 330 (AJN) | ...eek. Thanks very much, Assistant United States Attorney Southern District of New York One Saint A... | None | Sent: Thursday, October 28, 2021 12:25 PM | Cc: |
 | [EFTA00025165](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025165.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
@@ -2274,17 +689,16 @@
 | [EFTA00025231](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025231.pdf) | Email | NY Bar Says Attys Can Rent Out Offices In Co-Working Biz | ...Opinion attached I Read full article » Cuomo Nominates Singas, Cannataro For NY High Court Gov. A... | None | New York Law360 <newsglaw360.corn> | Subject: NY Bar Says Attys Can Rent Out Offices In Co-Workin |
 | [EFTA00025238](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025238.pdf) | Email | U.S. v. Thomas, No. 19 Cr. 830 - Discovery Production | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | '- | MonteII Figgins |
 | [EFTA00025239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025239.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Silvio!. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00025273](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025273.pdf) | Document | SOFTWARE. |  | None | N/A | N/A |
 | [EFTA00025274](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025274.pdf) | Email | RE: | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | (USANYS)e, |
 | [EFTA00025286](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025286.pdf) | Document | Attachments: 2021. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | N/A | N/A |
 | [EFTA00025287](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025287.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Motto Building One Saint A... | None | N/A | N/A |
 | [EFTA00025295](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025295.pdf) | Email | FW: | ...hanks. C follow-up request Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | ' • |
-| [EFTA00025300](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025300.pdf) | Email | RE: | ...thanks. follow-up request Assistant United States Attorney Southern District of New York I St. An... | None | ' | [Sigrid McCawley](/S/SIGRID-MCCAWLEY.md) |
-| [EFTA00025305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025305.pdf) | Email | RE: | ...thanks. follow-up request Assistant United States Attorney Southern District of New York 1 St. An... | None | [Sigrid McCawley <1](/S/SIGRID-MCCAWLEY.md) | ' |
-| [EFTA00025312](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025312.pdf) | Email | RE: | ...up request Got it, thanks. Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | [Sigrid McCawley <I](/S/SIGRID-MCCAWLEY.md) |
+| [EFTA00025300](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025300.pdf) | Email | RE: | ...thanks. follow-up request Assistant United States Attorney Southern District of New York I St. An... | None | ' | Sigrid McCawley |
+| [EFTA00025305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025305.pdf) | Email | RE: | ...thanks. follow-up request Assistant United States Attorney Southern District of New York 1 St. An... | None | Sigrid McCawley <1 | ' |
+| [EFTA00025312](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025312.pdf) | Email | RE: | ...up request Got it, thanks. Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Sigrid McCawley <I |
 | [EFTA00025319](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025319.pdf) | Email | RE: | ...thanks. follow-up request Assistant United States Attorney Southern District of New York 1 St. An... | None | To:" | " |
-| [EFTA00025324](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025324.pdf) | Email | RE: | ...thanks. follow-up request Assistant United States Attorney Southern District of New York l St. An... | None | ' | [Sigrid McCawley -1](/S/SIGRID-MCCAWLEY.md) |
-| [EFTA00025329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025329.pdf) | Email | RE: | ...uest Got it, thanks. st > Assistant United States Attorney Southern District of New York 1 St. An... | None | [Sigrid McCawley <I](/S/SIGRID-MCCAWLEY.md) | ' |
+| [EFTA00025324](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025324.pdf) | Email | RE: | ...thanks. follow-up request Assistant United States Attorney Southern District of New York l St. An... | None | ' | Sigrid McCawley -1 |
+| [EFTA00025329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025329.pdf) | Email | RE: | ...uest Got it, thanks. st > Assistant United States Attorney Southern District of New York 1 St. An... | None | Sigrid McCawley <I | ' |
 | [EFTA00025381](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025381.pdf) | Email | Fwd: | ...cords around that time. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: Fwd: |
 | [EFTA00025392](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025392.pdf) | Email | Sheldon Silver Winds Up With 61/4-Year Prison Term | ...fficer After in-house stints at EMC and a cloud software company spun out by Dell EMC and VMware,... | None | New York Law360 <news@law360.com> | Subject: Sheldon Silver Winds Up With 61/4-Year Prison Term |
 | [EFTA00025442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025442.pdf) | Email | [EXTERNAL EMAIL] - RE: Sign in SHU | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | M" |
@@ -2292,14 +706,10 @@
 | [EFTA00025469](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025469.pdf) | Legal Filing | United States District Court | ...that you travelled on Jeffrey Epstein's private plane with during the year 2001. 18. Admit that P... | None | N/A | N/A |
 | [EFTA00025481](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025481.pdf) | Email | RE: Sentencing with Berman | ...t United States Attorney United States Attorney's Office Southern District of New York One Saint ... | None | (USANYS) 1" | ' |
 | [EFTA00025499](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025499.pdf) | Email | RE: Sentencing with Berman | ...t United States Attorney United States Attorney's Office Southern District of New York One Saint ... | None | ' | ' |
-| [EFTA00025501](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025501.pdf) | Email | RE: | ...up request Got it, thanks. Assistant United States Attorney Southern District of New York 1 St. A... | None | " | [Sigrid McCawley](/S/SIGRID-MCCAWLEY.md) |
+| [EFTA00025501](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025501.pdf) | Email | RE: | ...up request Got it, thanks. Assistant United States Attorney Southern District of New York 1 St. A... | None | " | Sigrid McCawley |
 | [EFTA00025508](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025508.pdf) | Email | RE: US v. Maxwell - discovery production | ...accompanying letter. Best, Assistant United States Attorney Southern District of New York I St. A... | None | ' | Christian Everdell <CEverdell@CohenGresser.com> |
-| [EFTA00025519](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025519.pdf) | Email | FW: financial documents (Epstein) |  | None | ' | ' |
-| [EFTA00025521](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025521.pdf) | Email | RE: financial documents (Epstein) |  | None | " | ' |
-| [EFTA00025526](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025526.pdf) | Email | Davis Polk To Abandon Strict Lockstep For Revised Pay Model |  | None | New York Law360 <newsglaw360.corn> | Subject: Davis Polk To Abandon Strict Lockstep For Revised P |
 | [EFTA00025536](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025536.pdf) | Email | RE: Request for Jeffrey Epstein Suicide Reconstruction Report | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" <1 | a" |
-| [EFTA00025540](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025540.pdf) | Document | Advanced Person Search |  | None | N/A | N/A |
-| [EFTA00025545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025545.pdf) | Email | Prince Andrew hires leading extradition lawyer to fend off FBI probe into his links with paedo | ============================================================ From• To: "Berman, Geoffre Subject: Pri... | None | N/A | ["Berman, Geoffre](/G/GEOFFREY-BERMAN.md) |
+| [EFTA00025545](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025545.pdf) | Email | Prince Andrew hires leading extradition lawyer to fend off FBI probe into his links with paedo | ============================================================ From• To: "Berman, Geoffre Subject: Pri... | None | N/A | "Berman, Geoffre |
 | [EFTA00025547](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025547.pdf) | Email | Re: Prince Andrew reportedly now cooperating with Jeffrey Epstein investigators | ...============================== From: "a . alMIE> To: "a" alMIE> Cc: 'a l c=MIMIE> Subject: Re: Pr... | None | "a | "a" |
 | [EFTA00025548](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025548.pdf) | Email | Prince Andrew reportedly now cooperating with Jeffrey Epstein investigators | ...============================================= From: alMIE> To:' " , ' [Contractor]" Subject: Prin... | None | alMIE> | ' |
 | [EFTA00025549](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025549.pdf) | Email | Fwd: FOX Business inquiry | ...orneys about the potential next steps in the Epstein investigation, particularly as it pertains t... | None | ' | "r>, |
@@ -2310,15 +720,13 @@
 | [EFTA00026521](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026521.pdf) | Email | RE: Warrant | ...pologies for the error, Assistant United States Attorney Southern District of New York One Saint ... | None | To: | • |
 | [EFTA00026524](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026524.pdf) | Email | Amended Application for Second Warrant | ...e. Respectfully submitted, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Cc: |
 | [EFTA00026528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026528.pdf) | Email | To-do list | ...1994-98 Thanks very much, Assistant United States Attorney Southern District of New York 1 St. An... | None | To: ' | ' |
-| [EFTA00026530](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026530.pdf) | Email | RE: | ============================================================ From: " To: "Tomback, Andrew" "Weinstei... | None | " | ["Tomback, Andrew"](/P/PRINCE-ANDREW.md) |
-| [EFTA00026532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026532.pdf) | Email | RE: Call today | ...to talk any time. Thanks, Assistant United States Attorney Southern District of New York 1 St. An... | None | [Gloria Allred](/G/GLORIA-ALLRED.md) | ' |
-| [EFTA00026534](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026534.pdf) | Email | RE: subpoena follow-up question | ============================================================ From: "Tomback, Andrew" To: " "Weinstei... | None | ["Tomback, Andrew"](/P/PRINCE-ANDREW.md) | " |
-| [EFTA00026542](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026542.pdf) | Email | Re: U.S. Department of Justice investigation |  | None | [Gary Bloxsome <gary.bloxsome®blackfords.com>](/L/LEON-BLACK.md) | ' |
+| [EFTA00026530](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026530.pdf) | Email | RE: | ============================================================ From: " To: "Tomback, Andrew" "Weinstei... | None | " | "Tomback, Andrew" |
+| [EFTA00026532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026532.pdf) | Email | RE: Call today | ...to talk any time. Thanks, Assistant United States Attorney Southern District of New York 1 St. An... | None | Gloria Allred | ' |
+| [EFTA00026534](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026534.pdf) | Email | RE: subpoena follow-up question | ============================================================ From: "Tomback, Andrew" To: " "Weinstei... | None | "Tomback, Andrew" | " |
 | [EFTA00026544](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026544.pdf) | Email | Date: Wed, 08 Jan 2020 17:44:35 +0000 | ...Co-Chief, Narcotics Unit United States Attorney's Office Southern District of New York One Saint ... | None | "=1., | " |
 | [EFTA00026568](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026568.pdf) | Email | RE: bank records | ...Rico Much appreciated— Assistant United States Attorney Southern District of New York One Saint A... | None | ]" <I | 1' <1 |
 | [EFTA00026571](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026571.pdf) | Email | The Sun article | ...e Sun article Date: Sun, 07 Jun 2020 22:47:56 +0000 https://www.thesun.co.ukinews/11805488/prince... | None | To:' | ' |
 | [EFTA00026574](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026574.pdf) | Email | [EXTERNAL EMAIL] - FW: Follow up | ...California, and Washington, DC. In —2010, final interaction with Epstein included interaction wit... | None | ' | 1=ellMil> |
-| [EFTA00026594](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026594.pdf) | Document | Attachments: Severance_draft_v7. |  | None | Cc: I | N/A |
 | [EFTA00026609](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026609.pdf) | Email | FW: Follow-up | ...5, 2020 14:18 To: Subject: Re: Follow-up Attn: Around last Dec 19, 2019, we corresponded re HRH A... | None | To: | Subject: FW: Follow-up |
 | [EFTA00026618](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026618.pdf) | Document | Indicted Federal Grand Jury;20+yrs arrest of Jeffrey Epstein NYPD DA enablers vs my case Dr | ...other enablers in common? https://cyvanceonetermda.blogspot.com/2020/09/cy-vance-enabled-aimes-dr... | None | Critical Mention <alert®criticalmention.com> | N/A |
 | [EFTA00026637](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026637.pdf) | Email | RE: Maxwell | ...ssing further tomorrow. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Cc: |
@@ -2326,7 +734,7 @@
 | [EFTA00026656](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026656.pdf) | Email | RE: USAO SDNY Prisoner for Court Production Request | ...AUSA NAME AUSA PHONE Assistant United States Attorney Southern District of New York One Saint And... | None | To: " | " |
 | [EFTA00026672](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026672.pdf) | Email | SORNA registration | ...ion documents. Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | " | ' |
 | [EFTA00026685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026685.pdf) | Email | RE: SDNY investigation | ...et with you and your client at our office this Friday, July 12, at 2:00 p.m. We're located at 1St... | None | To: | Cc: |
-| [EFTA00026703](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026703.pdf) | Email | Law360; Dershowitz Can Pursue Bid To DQ Boles Schiller In Sex Case | ...20:29:48 +0000 Importance: Normal Dershowitz Can Pursue Bid To DQ Boies Schiller In Sex Case By A... | None | To: | [Subject: Law360; Dershowitz Can Pursue Bid To DQ Boles Schil](/A/ALAN-DERSHOWITZ.md) |
+| [EFTA00026703](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026703.pdf) | Email | Law360; Dershowitz Can Pursue Bid To DQ Boles Schiller In Sex Case | ...20:29:48 +0000 Importance: Normal Dershowitz Can Pursue Bid To DQ Boies Schiller In Sex Case By A... | None | To: | Subject: Law360; Dershowitz Can Pursue Bid To DQ Boles Schil |
 | [EFTA00026715](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026715.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00026741](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026741.pdf) | Email | Fwd: Discovery questions | ...nks very much, EFTA00026746 Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | ' |
 | [EFTA00026750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026750.pdf) | Legal Filing | Case 1:20-cr-00330-AJN Document 33 Filed 07/28/20 Page 1 of 7 | ...stice United States Attorney Southern District of New York The Silvio J. Mao Building One Saint A... | None | N/A | N/A |
@@ -2342,16 +750,16 @@
 | [EFTA00026869](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026869.pdf) | Email | Fwd: gloria allred purchases prince andrew 'wanted' poster | ...============================================= From: To: • Subject: Fwd: gloria allred purchases p... | None | To: | • |
 | [EFTA00026872](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026872.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (AJN) - Request to view evidence, highly confidential | ...iew? Thank you, EFTA00026872 Assistant United States Attorney Southern District of New York St. A... | None | Christian Everdell <CEverdell®CohenGresser.com> | "1 |
 | [EFTA00026890](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026890.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (MN) - Request to view evidence, highly confidential | ...Received, thanks very much. Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | Christian Everdell <CEverdell CohenGresser.com>, Laura Menni |
-| [EFTA00026910](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026910.pdf) | Email | RE: following up | ...5? Thank you, EFTA00026910 Assistant United States Attorney Southern District of New York 1 St. A... | None | ["Weinstein, Marc A." <marc.weinstein@hugheshubbard.com>](/H/HARVEY-WEINSTEIN.md) | , "ATomback@mclaughlinstern.com" |
+| [EFTA00026910](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026910.pdf) | Email | RE: following up | ...5? Thank you, EFTA00026910 Assistant United States Attorney Southern District of New York 1 St. A... | None | "Weinstein, Marc A." <marc.weinstein@hugheshubbard.com> | , "ATomback@mclaughlinstern.com" |
 | [EFTA00026929](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026929.pdf) | News Article | April 9, 2021 Call with Dr. | ...seen photographs of Epstein and Maxwell on the news with celebrity figures (e.g., Trump, Clinton,... | None | N/A | N/A |
 | [EFTA00026939](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026939.pdf) | Document | 15JA5421P00000117 Page 1 of 19 | ...DE I IS ADMINISTERED BY CODE l 151A54 U.S. Auonwys Office Southern Dishier of New York One Si.And... | None | N/A | N/A |
 | [EFTA00026964](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026964.pdf) | Email | SDNY Non-Public Investigations and Matters for Transition | ...ything else. I Chief Counsel U.S. Attorneys Office for the Southern District of New York One St. ... | None | ' | ' |
 | [EFTA00026965](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026965.pdf) | Email | RE: | ...elpful. Best, EFTA00026965 Assistant United States Attorney Southern District of New York I St. A... | None | To:' | ' |
 | [EFTA00026968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026968.pdf) | Email | FW: | ...hether that is true, and if so please send us the 302? https://foxwilmington.corn/headlines/princ... | None | To: ' | ' |
 | [EFTA00026978](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026978.pdf) | Email | Subpoena to Interlochen Center for the Arts | ...ss further. Best, Maurene Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | 15jocics®sondeeracine.com" Cjjocks@sondeeracine.com> |
-| [EFTA00027018](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027018.pdf) | Email | Exhibit - Timeline of Payments to Potential Co-Conspirators (002).pdf | ============================================================ From: "Moyne, Parvin" < To: Cc: Andrew ... | None | "Moyne, Parvin" < | [Cc: Andrew Stemmer](/P/PRINCE-ANDREW.md) |
+| [EFTA00027018](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027018.pdf) | Email | Exhibit - Timeline of Payments to Potential Co-Conspirators (002).pdf | ============================================================ From: "Moyne, Parvin" < To: Cc: Andrew ... | None | "Moyne, Parvin" < | Cc: Andrew Stemmer |
 | [EFTA00027030](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027030.pdf) | Email | Epstein 6(e) Order | .... Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | (USANYS)" | USANYS |
-| [EFTA00027031](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027031.pdf) | Email | RE: | ============================================================ From: To: Andrew Patel -"Ma Cc: Jill Sh... | None | [To: Andrew Patel -"Ma](/P/PRINCE-ANDREW.md) | [Andrew Patel -"Ma](/P/PRINCE-ANDREW.md) |
+| [EFTA00027031](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027031.pdf) | Email | RE: | ============================================================ From: To: Andrew Patel -"Ma Cc: Jill Sh... | None | To: Andrew Patel -"Ma | Andrew Patel -"Ma |
 | [EFTA00027045](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027045.pdf) | Email | Update division | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | ' | ' |
 | [EFTA00027057](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027057.pdf) | Document | Document | ...*passenger* *manifest* *flight* *massages *masseuse* *vibrator* Maxwell Ghislaine nvisi e Andrew ... | None | N/A | N/A |
 | [EFTA00027064](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027064.pdf) | Email | Re: AUSA | ...trip. Much appreciated— Assistant United States Attorney Southern District of New York One Saint ... | None | ' | ' |
@@ -2363,17 +771,17 @@
 | [EFTA00027116](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027116.pdf) | Email | RE: MCC Employee Summary Table | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | ' |
 | [EFTA00027153](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027153.pdf) | Email | Re: MCC/Epstein - Prior 1001 Prosecution | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | (USANYS)" |
 | [EFTA00027154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027154.pdf) | Document | U. | ...ce United States Attorney Southern District of New York Si! the lo J. Mollo Building One Saint An... | None | N/A | N/A |
-| [EFTA00027158](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027158.pdf) | Legal Filing | The Government writes in response to the Court's April 19, 2021 scheduling Order, which directed... | ...person. Respectfully, Assistant United States Attorney Southern District of New York One Saint An... | None | [Subject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN](/G/GHISLAINE-MAXWELL.md) | N/A |
-| [EFTA00027184](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027184.pdf) | Email | PnitetroStates Pistrirt Court | ...r before the return date to Assistant U.S. Attorney of the United States Attorn 's Office, 1 St. ... | None | N/A | [Wells Fargo Bank, N.A.](/D/DEUTSCHE-BANK.md) |
-| [EFTA00027189](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027189.pdf) | Email | Pnitetratates Pistria Court | ...before the return date to Assistant U.S. Attorney of the United States Attorney's Office, 1 St. A... | None | N/A | [USAA Federal Savings Bank](/D/DEUTSCHE-BANK.md) |
-| [EFTA00027194](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027194.pdf) | Email | PnitebStates Pistrirt Cunt | ...r before the return date to Assistant U.S. Attorney of the United States Attorn 's Office, 1 St. ... | None | N/A | [TD Bank N.A.](/D/DEUTSCHE-BANK.md) |
+| [EFTA00027158](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027158.pdf) | Legal Filing | The Government writes in response to the Court's April 19, 2021 scheduling Order, which directed... | ...person. Respectfully, Assistant United States Attorney Southern District of New York One Saint An... | None | Subject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN | N/A |
+| [EFTA00027184](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027184.pdf) | Email | PnitetroStates Pistrirt Court | ...r before the return date to Assistant U.S. Attorney of the United States Attorn 's Office, 1 St. ... | None | N/A | Wells Fargo Bank, N.A. |
+| [EFTA00027189](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027189.pdf) | Email | Pnitetratates Pistria Court | ...before the return date to Assistant U.S. Attorney of the United States Attorney's Office, 1 St. A... | None | N/A | USAA Federal Savings Bank |
+| [EFTA00027194](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027194.pdf) | Email | PnitebStates Pistrirt Cunt | ...r before the return date to Assistant U.S. Attorney of the United States Attorn 's Office, 1 St. ... | None | N/A | TD Bank N.A. |
 | [EFTA00027199](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027199.pdf) | Email | Rthteb$tutes Pistrirt Court | ...r before the return date to Assistant U.S. Attorney of the United States Attorn 's Office, 1 St. ... | None | N/A | Navy Federal Credit Union |
 | [EFTA00027204](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027204.pdf) | Email | Pnitetratates glistrict Court | ...before the return date to Assistant U.S. Attorney of the United States Attorney's Office, 1 St. A... | None | N/A | Municipal Credit Union |
-| [EFTA00027209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027209.pdf) | Email | Rniteb$tutes Pistrirt Court | ...before the return date to Assistant U.S. Attorney of the United States Attorney's Office, I St. A... | None | N/A | [JPMorgan Chase Bank, N.A.](/D/DEUTSCHE-BANK.md) |
-| [EFTA00027214](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027214.pdf) | Email | Pnitetratates glistria Court | ...before the return date to Assistant U.S. Attorney of the United States Attorney's Office, 1 St. A... | None | N/A | [Citibank](/D/DEUTSCHE-BANK.md) |
-| [EFTA00027219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027219.pdf) | Email | Rthteb$tutes glistrict Court | ...before the return date to Assistant U.S. Attorney of the United States Attorney's Office, 1 St. A... | None | N/A | [Bank of America, N.A.](/D/DEUTSCHE-BANK.md) |
+| [EFTA00027209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027209.pdf) | Email | Rniteb$tutes Pistrirt Court | ...before the return date to Assistant U.S. Attorney of the United States Attorney's Office, I St. A... | None | N/A | JPMorgan Chase Bank, N.A. |
+| [EFTA00027214](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027214.pdf) | Email | Pnitetratates glistria Court | ...before the return date to Assistant U.S. Attorney of the United States Attorney's Office, 1 St. A... | None | N/A | Citibank |
+| [EFTA00027219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027219.pdf) | Email | Rthteb$tutes glistrict Court | ...before the return date to Assistant U.S. Attorney of the United States Attorney's Office, 1 St. A... | None | N/A | Bank of America, N.A. |
 | [EFTA00027225](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027225.pdf) | Email | RE: Subpoenas to Serve | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | ' |
-| [EFTA00027257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027257.pdf) | Email | RE: Epstein | ...come forward. Thank you. Assistant United States Attorney Southern District of New York One St. A... | None | ["Berman, Geoffrey (USANYS)"](/G/GEOFFREY-BERMAN.md) | "= |
+| [EFTA00027257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027257.pdf) | Email | RE: Epstein | ...come forward. Thank you. Assistant United States Attorney Southern District of New York One St. A... | None | "Berman, Geoffrey (USANYS)" | "= |
 | [EFTA00027268](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027268.pdf) | Legal Filing | Case 1:20-cr-00330-AJN Document 74 Filed 11/23/20 Page 1 of 2 | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00027294](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027294.pdf) | Email | RE: Upcoming Nineteenth Production | ...nything's unclear. Thanks very much, all! Paralegal Specialist U.S. Attorney's Office SDNY 1 St. ... | None | Sent: Wednesday, August 4, 2021 3:26 PM | Cc |
 | [EFTA00027296](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027296.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
@@ -2387,52 +795,45 @@
 | [EFTA00027424](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027424.pdf) | Legal Filing | Public Corruption Unit | ...possibility of a felony disposition. We are also continuing to pursue a potential interview with ... | None | N/A | N/A |
 | [EFTA00027433](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027433.pdf) | Email | RE: Agenda | ...ine leads that flagged Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Subject: RE: Agenda |
 | [EFTA00027442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027442.pdf) | Email | NYLJ article | ...ments: NYLJMay6.pd.pdf = In case you missed it, attached is an article written by Evan Barr about... | None | "..= | ' |
-| [EFTA00027528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027528.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...August 23, 1972 (age 46) Pontiac Michigan, U.S.: Education: University of Michigan (BA, JD): Chad... | None | Chris Dilorio | [Subject: Fw: Apollo/ Epstein/Kushner connection](/J/JARED-KUSHNER.md) |
+| [EFTA00027528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027528.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...August 23, 1972 (age 46) Pontiac Michigan, U.S.: Education: University of Michigan (BA, JD): Chad... | None | Chris Dilorio | Subject: Fw: Apollo/ Epstein/Kushner connection |
 | [EFTA00027556](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027556.pdf) | Email | Re: | ...Re: Date: Mon, 10 Feb 2020 21:07:57 +0000 ■(USANYS)" (USANYS) [Contractor]" < (USANYS)" [=. Princ... | None | To: | Cc: |
 | [EFTA00027589](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027589.pdf) | Email | Court Subpoena | ...for a call? Thank you, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | I, |
 | [EFTA00027655](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027655.pdf) | Legal Filing | Attachments: 2021. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | N/A | N/A |
-| [EFTA00027657](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027657.pdf) | Email | FW: Amazon return |  | None | To: | Subject: FW: Amazon return |
 | [EFTA00027659](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027659.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00027704](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027704.pdf) | Legal Filing | U. | ...ustice United States Attorney Southern District of New York The SiAdol Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00027711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027711.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio .1 Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00027717](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027717.pdf) | Email | Re: Subpoena to Interlochen Center for the Arts | ...lease? Thanks Assistant United States Attorney EFTA00027723 Southern District of New York 1 St. A... | None | Jeff Jocks <jjocks@sondeeracine.com> | r |
 | [EFTA00027732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027732.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Silvio!. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00027753](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027753.pdf) | Legal Filing | Case 1:20-cr-00330-AJN Document 350 Filed 10/15/21 Page 1 of 3 | ...tates Courthouse 40 Foley Square New York, New York 10007 the Silvio J. Mono Building One Saint A... | None | N/A | N/A |
-| [EFTA00027776](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027776.pdf) | Legal Filing | Case 9:08-cv-80736-KAM Document 452 Entered on FLSD Docket 05/10/2019 Page 1 of 22 |  | None | N/A | N/A |
-| [EFTA00027871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027871.pdf) | Document | Attachments: MDC Conditions_Letter_2-16_FINAL. | ...here for reference. Thanks Assistant United States Attorney Southern District of New York 1 St. A... | None | [Subject: Maxwell update to court - due 4/6](/G/GHISLAINE-MAXWELL.md) | N/A |
+| [EFTA00027871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027871.pdf) | Document | Attachments: MDC Conditions_Letter_2-16_FINAL. | ...here for reference. Thanks Assistant United States Attorney Southern District of New York 1 St. A... | None | Subject: Maxwell update to court - due 4/6 | N/A |
 | [EFTA00027881](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027881.pdf) | Email | Fwd: The Estate of Jeffrey Epstein | ...New York New York 10118 From: Moskowitz, Bennet J. Sent: Tuesday, December 3, 2019 9:36:45 PM To:... | None | Roberta Kaplan | " |
 | [EFTA00027912](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027912.pdf) | Email | Fwd: Epstein Victims' Compensation Program | ...Henderson < >; ECF <ecf@epllc.com>; Laura Starr Villacastin ; Josh Schiller Benjamin Margulis < A... | None | Roberta Kaplan | " |
-| [EFTA00027926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027926.pdf) | Email | RE: Briefings | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | ' | ["Berman, Geoffrey (USANYS)" .<1](/G/GEOFFREY-BERMAN.md) |
-| [EFTA00027933](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027933.pdf) | Document | Excellent, thank you. | ...for the Epstein team United States Attorney's Office for the Southern District of New York 1 St. ... | None | [Subject: RE: 3 pm is good for the Epstein team](/J/JEFFREY-EPSTEIN.md) | N/A |
-| [EFTA00027942](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027942.pdf) | Email | Epstein Travel. |  | None | (USANYS)" | (USANYS)" |
+| [EFTA00027926](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027926.pdf) | Email | RE: Briefings | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | ' | "Berman, Geoffrey (USANYS)" .<1 |
+| [EFTA00027933](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027933.pdf) | Document | Excellent, thank you. | ...for the Epstein team United States Attorney's Office for the Southern District of New York 1 St. ... | None | Subject: RE: 3 pm is good for the Epstein team | N/A |
 | [EFTA00027947](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027947.pdf) | Email | Re: updates | ...and described above. Assistant United States Attorney Southern District of New York One Saint And... | None | ' | ' |
 | [EFTA00027949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027949.pdf) | Email | RE: Epstein | ...represent Ms. Thanks, Assistant United States Attorney Southern District of New York One Saint An... | None | ' | Jack Scarola |
-| [EFTA00027954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027954.pdf) | Email | Re: ==disclosure | ...:48 AM, Counsel, < Best, Assistant United States Attorney Southern District of New York 1 St. And... | None | [Bruce Barket <bbarket®barketepstein.com>](/J/JEFFREY-EPSTEIN.md) | „ |
+| [EFTA00027954](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027954.pdf) | Email | Re: ==disclosure | ...:48 AM, Counsel, < Best, Assistant United States Attorney Southern District of New York 1 St. And... | None | Bruce Barket <bbarket®barketepstein.com> | „ |
 | [EFTA00028001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028001.pdf) | Email | Fwd: Prince Andrew | ============================================================ From: " MIE> To: ' Subject: Fwd: Prince... | None | " | ' |
 | [EFTA00028002](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028002.pdf) | Email | RE: DC USAO Directory | ...gue up here was asking for it. U.S. Attorney's Office for the Southern District of New York 1 St.... | None | ' | (CRM)" |
 | [EFTA00028028](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028028.pdf) | Email | RE: Brief | ...checking in to see who I should send the brief to tonight when it's ready to be finalized. Thanks... | None | To: | Cc: |
-| [EFTA00028035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028035.pdf) | Email | reply brief |  | None | 'IS" | "S" |
-| [EFTA00028039](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028039.pdf) | Document | \\ Usa. | ...Investigation folder United States Attorney's Office for the Southern District of New York 1 St. ... | None | [Subject: Epstein](/J/JEFFREY-EPSTEIN.md) | N/A |
+| [EFTA00028039](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028039.pdf) | Document | \\ Usa. | ...Investigation folder United States Attorney's Office for the Southern District of New York 1 St. ... | None | Subject: Epstein | N/A |
 | [EFTA00028044](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028044.pdf) | Email | 10/1/2020 Call with Special Agent | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | ' |
 | [EFTA00028045](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028045.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00028049](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028049.pdf) | Email | Ghislaine Maxwell - new discovery production | ...ways, for all of your help. Assistant United States Attorney Southern District of New York 1 St. ... | None | To: | • |
 | [EFTA00028052](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028052.pdf) | Email | RE: Epstein/Maxwell Upload | ...Images Seized During Search Thanks, M Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. An... | None | ' | '• |
 | [EFTA00028102](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028102.pdf) | Email | Redactions: Government motion in limine | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: Christian Everdell | Christian Everdell |
 | [EFTA00028125](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028125.pdf) | Email | Date: Fri, 20 Jul 2018 00:27:39 +0000 | ...ive_Order v4.docx aNIMINI> Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | ' |
-| [EFTA00028148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028148.pdf) | Email | RE: FBI Case File - Epstein | ...back? Best, Paralegal United States Attorney's Office Southern District of New York One Saint And... | None | Sent: Tuesday, January 22, 2019 10:35 AM | [Subject: RE: FBI Case File - Epstein](/F/FBI.md) |
+| [EFTA00028148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028148.pdf) | Email | RE: FBI Case File - Epstein | ...back? Best, Paralegal United States Attorney's Office Southern District of New York One Saint And... | None | Sent: Tuesday, January 22, 2019 10:35 AM | Subject: RE: FBI Case File - Epstein |
 | [EFTA00028161](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028161.pdf) | Email | RE: Maxwell update to the Court | ...ue this Friday. Thank you, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | Cc: |
 | [EFTA00028168](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028168.pdf) | Email | Re: [EXTERNAL] Re: Subpoena to Interlochen Center for the Arts | ...o discuss, please? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | Jeff Jocks <jjocks@sondeeracine.com> | ' |
 | [EFTA00028183](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028183.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (MN) - Request to view evidence, highly confidential | ...your questions. Thank you, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: Laura Mennin er <Imennin e | Laura Mennin er <Imennin e |
 | [EFTA00028201](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028201.pdf) | Email | Re: Question re Epstein Relativity Database | ...ease? Thanks, EFTA00028201 Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | ' |
-| [EFTA00028203](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028203.pdf) | Email | US v. Maxwell - 20 Cr. 330 - Letter re Minor Victim-3 |  | None | To: Nathan NYSD Chambers aillIMMI | Nathan NYSD Chambers aillIMMI |
 | [EFTA00028205](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028205.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio .1 Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00028206](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028206.pdf) | Document | U. | ...ce United States Attorney Southern District of New York The Silvio .1. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00028207](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028207.pdf) | Email | RE: Bail Oppo Draft |  | None | (USANYS)" | ' |
 | [EFTA00028209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028209.pdf) | Email | RE: joint letter | ...his afternoon. Thanksl Assistant United States Attorney Southern District of New York One Saint A... | None | ' | ' |
 | [EFTA00028257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028257.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00028260](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028260.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Si viol Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00028265](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028265.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The Si viol Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00028272](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028272.pdf) | Email | RE: Defense Rule 16 Disclosure |  | None | USANYS)" | USANYS) [Contractor] |
 | [EFTA00028274](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028274.pdf) | Legal Filing | United States Attorney's Office | ...November 8, 2021 BY EMAIL. United States Attorney's Office Southern District of New York 1 St. An... | None | N/A | N/A |
 | [EFTA00028279](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028279.pdf) | Email | SDNY NEWS CLIPS, TUESDAY, DECEMBER IS, 2020 | ...: https://www.teuters.com/vIdeo/watch/IdPmGrtnow.true NY POST: hups://nyaost.com/2020/12/14/prInc... | None | ~ffl~MIE~MW | i~~III~Na |
 | [EFTA00028284](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028284.pdf) | Email | RE: Epstein | ...come forward. Thank you. Assistant United States Attorney Southern District of New York One St. A... | None | "M, | < |
@@ -2447,7 +848,7 @@
 | [EFTA00028423](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028423.pdf) | Email | RE: Protective Order | ...e let us know. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: "Martin G. Weinberg" C | "Martin G. Weinberg" C |
 | [EFTA00028437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028437.pdf) | Email | disclosure update | ...and we wanted to briefly make you aware of it. Thanks, Southern District of New York One Saint An... | None | To: | Cc: |
 | [EFTA00028446](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028446.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00028461](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028461.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...P.M. to discuss ? Thanks. Assistant United States Attorney Southern District of New York 1 St. An... | None | [Gloria Allred](/G/GLORIA-ALLRED.md) | " |
+| [EFTA00028461](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028461.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...P.M. to discuss ? Thanks. Assistant United States Attorney Southern District of New York 1 St. An... | None | Gloria Allred | " |
 | [EFTA00028526](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028526.pdf) | Email | RE: disclosure update | ..., and we wanted to briefly make you aware of it. Thanks, Southern District of New York One Saint ... | None | To: | Cc: |
 | [EFTA00028528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028528.pdf) | Email | RE: Head over? | ...M To: 1 < Subject: Head over? Assistant U.S. Attorney Southern District of New York One Saint And... | None | To:' | ' |
 | [EFTA00028560](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028560.pdf) | Email | Re: Prince Andrew | ...=============================================== From: (USANYS)" •< To: ' (USANYS) Subject: Re: Pr... | None | (USANYS)" •< | ' |
@@ -2463,21 +864,19 @@
 | [EFTA00028705](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028705.pdf) | Email | RE: order of proof meeting | ...otion as well. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Cc: |
 | [EFTA00028733](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028733.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00028759](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028759.pdf) | Email | FW: Maxwell Suppression Opp | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | ' |
-| [EFTA00028760](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028760.pdf) | Email | RE: Prince Andrew | ============================================================ From: )" To: Subject: RE: Prince Andrew... | None | )" | [Subject: RE: Prince Andrew](/P/PRINCE-ANDREW.md) |
+| [EFTA00028760](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028760.pdf) | Email | RE: Prince Andrew | ============================================================ From: )" To: Subject: RE: Prince Andrew... | None | )" | Subject: RE: Prince Andrew |
 | [EFTA00028771](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028771.pdf) | Email | United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) | ...y questions. Respectfully, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Nathan NYSD Chambers <I |
 | [EFTA00028779](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028779.pdf) | Email | FW: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...and phone number? Thanks, Assistant United States Attorney Southern District of New York 1 St. An... | None | r | ' |
 | [EFTA00028785](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028785.pdf) | Legal Filing | Case 1:19-cr-00490-RMB Document 11 Filed 07/12/19 Page 1 of 14 | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00028820](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028820.pdf) | Email | RE: Epstein/Maxwell Upload | ...3 Images Seized During Search Thanks, Para legal Specialist U.S. Attorney's Office I SDNY 1 St. A... | None | "-(USANYS) | in |
 | [EFTA00028823](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028823.pdf) | Email | RE: Epstein/Maxwell Upload | ...le 4 Images Seized During Search Thanks, Paralegal Specialist U.S. Attorney's Office SDNY 1 St. A... | None | " | (USANYS) [Contractor]" < |
-| [EFTA00028880](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028880.pdf) | Legal Filing | UNITED STATES DISTRICT COURT |  | None | N/A | N/A |
-| [EFTA00028989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028989.pdf) | Email | RE: epstein | .... Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | ' | [Subject: RE: epstein](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00028989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028989.pdf) | Email | RE: epstein | .... Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | ' | Subject: RE: epstein |
 | [EFTA00029004](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029004.pdf) | Legal Filing | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00029024](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029024.pdf) | Email | Palm Beach Police Reports | ...cted version, from FBI. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: Palm Beach Police Reports |
 | [EFTA00029025](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029025.pdf) | Email | RE: Epstein/Maxwell Upload | ...4 Images Seized During Search Thanks, Para legal Specialist U.S. Attorney's Office I SDNY 1 St. A... | None | • | (USANYS) [Contractor]" |
 | [EFTA00029036](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029036.pdf) | Email | RE: US v. Maxwell - discovery production | ...e is ready for pickup. Best, Assistant United States Attorney Southern District of New York St. A... | None | ' | ' |
-| [EFTA00029043](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029043.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...naires on place 707. en.wikipedia.org What a coincidence: https://www.vanityfaitcominews/2018/03/... | None | Chris DiIorio | [Subject: Fw: Apollo/ Epstein/Kushner connection](/J/JARED-KUSHNER.md) |
-| [EFTA00029066](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029066.pdf) | Email | RE: |  | None | " | Cc: |
-| [EFTA00029068](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029068.pdf) | Email | RE: Epstein - false warranty deed | ...======================================================= From: "Weinstein, Marc A." To: ' Cc: , An... | None | ["Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) | ' |
+| [EFTA00029043](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029043.pdf) | Email | Fw: Apollo/ Epstein/Kushner connection | ...naires on place 707. en.wikipedia.org What a coincidence: https://www.vanityfaitcominews/2018/03/... | None | Chris DiIorio | Subject: Fw: Apollo/ Epstein/Kushner connection |
+| [EFTA00029068](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029068.pdf) | Email | RE: Epstein - false warranty deed | ...======================================================= From: "Weinstein, Marc A." To: ' Cc: , An... | None | "Weinstein, Marc A." | ' |
 | [EFTA00029074](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029074.pdf) | Email | RE: Epstein | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | ' | '• |
 | [EFTA00029147](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029147.pdf) | Email | FW: United States v. Maxwell | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | 1MSYS)" |
 | [EFTA00029167](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029167.pdf) | Email | RE: | .... Have a great weekend! Assistant United States Attorney Southern District of New York One Saint ... | None | ' | ' |
@@ -2485,70 +884,59 @@
 | [EFTA00029171](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029171.pdf) | Email | 3500 | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | "E | Subject: |
 | [EFTA00029223](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029223.pdf) | Email | GM - | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Cc: |
 | [EFTA00029224](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029224.pdf) | Email | Hard drive for GM | ...ched letters are good to go? Thanks, Paralegal Specialist U.S. Attorney's Office I SONY 1 Saint A... | None | To: | Cc: |
-| [EFTA00029230](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029230.pdf) | Email | CD with Maxwell files |  | None | ' | " |
 | [EFTA00029240](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029240.pdf) | Email | Date: Thu, 08 Apr 2021 14:35:26 +0000 | ...se you hadn't seen it. Assistant United States Attorney Southern District of New York One Saint A... | None | " alMliff' | ' |
 | [EFTA00029260](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029260.pdf) | Email | Re: Johnny Contreras - Investigation of Jeffrey Epstein Death | ============================================================ From: Jill Shellow To: "- Cc: Andrew Pa... | None | Jill Shellow | "- |
-| [EFTA00029264](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029264.pdf) | Email | Re: Johnny Contreras - Investigation of Jeffrey Epstein Death | ============================================================ From: Andrew Patel <I To: ' (USANYS)" C... | None | [Andrew Patel <I](/P/PRINCE-ANDREW.md) | ' |
+| [EFTA00029264](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029264.pdf) | Email | Re: Johnny Contreras - Investigation of Jeffrey Epstein Death | ============================================================ From: Andrew Patel <I To: ' (USANYS)" C... | None | Andrew Patel <I | ' |
 | [EFTA00029275](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029275.pdf) | Email | RE: RE: attorneys asking about confidentiality | ...cific concerns they raised, feel free to add/edit as appropriate. Thanks Following comments about... | None | ' | "I |
 | [EFTA00029293](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029293.pdf) | Document | Attachments: 2021. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Subject: spreadsheets production | N/A |
 | [EFTA00029302](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029302.pdf) | Email | prevailing party | ..., really appreciate it. Assistant United States Attorney Southern District of New York One Saint ... | None | To: ' | ' |
-| [EFTA00029303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029303.pdf) | Email | Second Epstein victim says she had sex with Prince Andrew | ...==== From: "Berman, Geoffrey (11SANYS)" To:' Subject: Second Epstein victim says she had sex with... | None | ["Berman, Geoffrey (11SANYS)"](/G/GEOFFREY-BERMAN.md) | ' |
+| [EFTA00029303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029303.pdf) | Email | Second Epstein victim says she had sex with Prince Andrew | ...==== From: "Berman, Geoffrey (11SANYS)" To:' Subject: Second Epstein victim says she had sex with... | None | "Berman, Geoffrey (11SANYS)" | ' |
 | [EFTA00029309](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029309.pdf) | Email | sars | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | ' |
 | [EFTA00029315](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029315.pdf) | Email | FW: Subpoena to Interlochen Center for the Arts | ...o discuss, please? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | laYS)" |
 | [EFTA00029327](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029327.pdf) | Email | FW: Subpoena to Interlochen Center for the Arts | ...o discuss, please? Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | )" | (USANYS Contractor" |
 | [EFTA00029339](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029339.pdf) | Document | RONALD W. | ...sa N E V 5 May 13, 2021 Assistant United States Attorney Southern District of New York One St. An... | None | N/A | N/A |
 | [EFTA00029342](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029342.pdf) | Email | RE: Subpoena to Interlochen Center for the Arts | ...ease? Thanks, Assistant United States Attorney EFTA00029350 Southern District of New York 1 St. A... | None | (USANYS) [Contractor]" ‹ | =Mgr |
-| [EFTA00029389](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029389.pdf) | Document | Farmer, Jaffe, Weissing, Edwards Fistos & Lehrman, P. |  | None | N/A | N/A |
-| [EFTA00029418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029418.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...e Maxwell - Good luck! Assistant United States Attorney Southern District of New York One Saint A... | None | To: | [Subject: RE: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00029420](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029420.pdf) | Email | FW: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: FW: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00029421](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029421.pdf) | Email | RE: United States v. Ghislaine Maxwell - | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: RE: United States v. Ghislaine Maxwell -](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00029418](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029418.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...e Maxwell - Good luck! Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Subject: RE: United States v. Ghislaine Maxwell -- |
+| [EFTA00029420](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029420.pdf) | Email | FW: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: FW: United States v. Ghislaine Maxwell -- |
+| [EFTA00029421](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029421.pdf) | Email | RE: United States v. Ghislaine Maxwell - | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: RE: United States v. Ghislaine Maxwell - |
 | [EFTA00029422](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029422.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | ' | ' |
-| [EFTA00029424](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029424.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...ant United States Attorney United States Attorney's Office Southern District of New York 1 Saint ... | None | N/A | [USANYS-CRIMINAL AUSAS <USANYS-CRIMINALAUSAS@usa.doj.gov>, US](/D/DOJ.md) |
+| [EFTA00029424](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029424.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...ant United States Attorney United States Attorney's Office Southern District of New York 1 Saint ... | None | N/A | USANYS-CRIMINAL AUSAS <USANYS-CRIMINALAUSAS@usa.doj.gov>, US |
 | [EFTA00029425](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029425.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: ' | ' |
-| [EFTA00029426](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029426.pdf) | Email | RE: United States v. Ghislaine Maxwell - | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: RE: United States v. Ghislaine Maxwell -](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00029428](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029428.pdf) | Email | RE: -'Epstein | ============================================================ From: it )" cz IMIE> To: Andrew Patel c... | None | it | [Andrew Patel cca](/P/PRINCE-ANDREW.md) |
-| [EFTA00029434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029434.pdf) | Email | prince Andrew would like much more to represent casanov in china than tim collins | ...============== From: Jeffrey Epstein < To: Jes Staley < Sent: 9/28/2010 9:22:17 PM Subject: princ... | None | [Jeffrey Epstein <](/J/JEFFREY-EPSTEIN.md) | [Jes Staley <](/J/JES-STALEY.md) |
+| [EFTA00029426](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029426.pdf) | Email | RE: United States v. Ghislaine Maxwell - | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: RE: United States v. Ghislaine Maxwell - |
+| [EFTA00029428](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029428.pdf) | Email | RE: -'Epstein | ============================================================ From: it )" cz IMIE> To: Andrew Patel c... | None | it | Andrew Patel cca |
+| [EFTA00029434](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029434.pdf) | Email | prince Andrew would like much more to represent casanov in china than tim collins | ...============== From: Jeffrey Epstein < To: Jes Staley < Sent: 9/28/2010 9:22:17 PM Subject: princ... | None | Jeffrey Epstein < | Jes Staley < |
 | [EFTA00029470](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029470.pdf) | Email | FBI Case File - Epstein | ...c back? Best, Para ega United States Attorney's Office Southern District of New York One Saint An... | None | To: ' | ' |
-| [EFTA00029515](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029515.pdf) | Email | RE: US v. Epstein - Status Hearing Notification |  | None | Sent: Thursday, August 01, 2019 5:01 PM | [Subject: RE: US v. Epstein - Status Hearing Notification](/J/JEFFREY-EPSTEIN.md) |
 | [EFTA00029524](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029524.pdf) | Email | ROLLING STONE; Who Is British Socialite Ghislaine Maxwell, Jeffrey Epstein's Longtime | ...also continued to cultivate friendships with extremely high-powered individuals such as Trump and... | None | " | " |
-| [EFTA00029535](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029535.pdf) | Email | RE: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Order | ...ey, Maurene (USANYS)" <MComey®usa.doj.gov>, "Moe, Alison (USANYS)" <AMoe®usa.doj.gov>, "Rohrbach,... | None | ["Pomerantz, Lara (USANYS)" <LPomerantz®usa.doj.gov>](/D/DOJ.md) | [Christian Everdell <CEverdell®CohenGressencom>, "Comey, Maur](/M/MAURENE-COMEY.md) |
-| [EFTA00029576](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029576.pdf) | Email | RE: 3500 production |  | None | ' | ' |
-| [EFTA00029579](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029579.pdf) | Email | Amazon return |  | None | To: | Cc: |
+| [EFTA00029535](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029535.pdf) | Email | RE: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Order | ...ey, Maurene (USANYS)" <MComey®usa.doj.gov>, "Moe, Alison (USANYS)" <AMoe®usa.doj.gov>, "Rohrbach,... | None | "Pomerantz, Lara (USANYS)" <LPomerantz®usa.doj.gov> | Christian Everdell <CEverdell®CohenGressencom>, "Comey, Maur |
 | [EFTA00029588](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029588.pdf) | Legal Filing | Prtitetratates!District (gnarl | ...d States Attorney for the Southern Dirtrirt of New York Assistant United States Attorney One St. ... | None | N/A | GREETINGS: |
 | [EFTA00029600](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029600.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" cz | Christian Everdell |
 | [EFTA00029632](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029632.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00029636](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029636.pdf) | Email | Epstein estate call | ...================= Frain: "Weinstein. Marc A." <marc.weinstein®hugheshubbard.com> to: , "Tomback, ... | None | N/A | [, "Tomback, Andrew" andrew.tomback®whitecase.com>](/P/PRINCE-ANDREW.md) |
+| [EFTA00029636](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029636.pdf) | Email | Epstein estate call | ...================= Frain: "Weinstein. Marc A." <marc.weinstein®hugheshubbard.com> to: , "Tomback, ... | None | N/A | , "Tomback, Andrew" andrew.tomback®whitecase.com> |
 | [EFTA00029637](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029637.pdf) | Document | Event: Epstein estate call | ...20 +0000 Priority: 5 DTSTAMP: 2019-11-25 14:30:58 +0000 Attendee: < >; ) < ) < >; Tomback, Andrew... | None | N/A | N/A |
-| [EFTA00029644](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029644.pdf) | Email | NY Times: Jeffrey Epstein's Charity: An Image Boost Built on Deception | ...Stories&pgtype=Homepage Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: NY Times: Jeffrey Epstein's Charity: An Image Boost](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00029644](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029644.pdf) | Email | NY Times: Jeffrey Epstein's Charity: An Image Boost Built on Deception | ...Stories&pgtype=Homepage Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: NY Times: Jeffrey Epstein's Charity: An Image Boost |
 | [EFTA00029649](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029649.pdf) | Email | Fwd: legal / coordination question | ...ou are reaching out. There has been quite a bit of news in the UK about FBI/DOJ interest in Princ... | None | ' | c1MirI |
 | [EFTA00029659](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029659.pdf) | Email | Maxwell superseder | ...JN_re_S2_Indictment.pdf Assistant United States Attorney Southern District of New York One Saint ... | None | " alMIE> | (USANYS)" <a> |
 | [EFTA00029680](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029680.pdf) | Document | Attachments: civil_complaint. | ...egations are from 1999. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
-| [EFTA00029699](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029699.pdf) | Email | Date: Tue, 22 Jun 2021 14:11:46 +0000 |  | None | To: | Cc: |
 | [EFTA00029700](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029700.pdf) | Email | U. | ...stice United States Attorney Southern District of New York The SilWoJ. Mollo Building One Saint A... | None | N/A | Lockheed Martin |
 | [EFTA00029711](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029711.pdf) | Email | Re: Florida | ...the calendar. Thanks, Assistant United States Attorney Southern District of New York One Saint An... | None | To: | Cc: |
 | [EFTA00029712](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029712.pdf) | Email | Memo | ...he next chunk of time. ssistantUnited S nited SlatesAttotney Southern District of New York I St. ... | None | To: | Subject: Memo |
-| [EFTA00029713](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029713.pdf) | Document | She wants to talk to an agent about a coconspirator. |  | None | N/A | N/A |
-| [EFTA00029732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029732.pdf) | Email | RE: printing project |  | None | To: ' | ' |
 | [EFTA00029760](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029760.pdf) | Email | Date: Wed, 19 Feb 2020 00:11:24 +0000 | ...re, but wanted to flag. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Cc: |
-| [EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf) | Document | eALM BEACH POLICE DEPARTMENT |  | None | N/A | N/A |
 | [EFTA00029774](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029774.pdf) | Email | RE: Google | ...e are any issues there. Assistant United States Attorney Southern District of New York One Saint ... | None | To: ' | ' |
-| [EFTA00029796](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029796.pdf) | Email | RE: Following up |  | None | To: | • |
 | [EFTA00029800](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029800.pdf) | Email | Florida document release | ...wsRoom/indexPR.htmR.htm Assistant United States Attorney Southern District of New York One Saint ... | None | ' | 'r" |
-| [EFTA00029804](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029804.pdf) | Email | RE: any of you have vouchers for Epstein victims. |  | None | Sent: Friday, November 15, 2019 4:37 PM | Cc: |
 | [EFTA00029842](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029842.pdf) | Email | ira • • position to v axwe | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Cc: |
 | [EFTA00029860](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029860.pdf) | Email | GM | ...ng they were hearing there was "movement" on the Epstein investigation (the reporter mentioned GM... | None | To: | SANYS " |
 | [EFTA00029893](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029893.pdf) | Email | prosecution teams | ...Hope this helps. Best, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | " alMIE> |
 | [EFTA00029894](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029894.pdf) | Email | Date: | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Cc |
 | [EFTA00029932](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029932.pdf) | Email | FW: Maxwell Follow Up | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | ' |
-| [EFTA00029939](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029939.pdf) | Email | RE: following up | ...Florida in 2005? Thank you, Assistant United States Attorney Southern District of New York St. An... | None | To: | [, "Weinstein. Marc A."](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00029939](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029939.pdf) | Email | RE: following up | ...Florida in 2005? Thank you, Assistant United States Attorney Southern District of New York St. An... | None | To: | , "Weinstein. Marc A." |
 | [EFTA00029966](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029966.pdf) | Legal Filing | Case 1:20-cr-00330-AJN Document 41 Filed 08/13/20 Page 1 of 5 | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00029975](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029975.pdf) | Email | RE: PAL• drive copy | ...rnal use. Thanks so much! EFTA00029976 Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. A... | None | ' | ' |
 | [EFTA00029979](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029979.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00029980](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029980.pdf) | Legal Filing | U. | ...tiee United States Attorney Southern District of New York The Silvio!. Motto Building One Saint A... | None | N/A | N/A |
 | [EFTA00029981](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029981.pdf) | Legal Filing | U. | ...stice United States Attorney Southern District of New York The Stitt!. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00029982](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029982.pdf) | Email | RE: Epstein Estate update | ...=============================================== From: "Weinstein. Marc A." To: ' )" < rr C Cc: An... | None | ["Weinstein. Marc A."](/H/HARVEY-WEINSTEIN.md) | ' |
-| [EFTA00029984](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029984.pdf) | Email | RE: Epstein Estate update | ...======================================================== From: To: "Weinstein, Marc A." , ' Cc: A... | None | [To: "Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) | ["Weinstein, Marc A."](/H/HARVEY-WEINSTEIN.md) |
-| [EFTA00029985](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029985.pdf) | Email | RE: Epstein Estate update | ...=================================================== From:" y'< To: "Weinstein, Mare A." < Cc: And... | None | " | ["Weinstein, Mare A." <](/H/HARVEY-WEINSTEIN.md) |
+| [EFTA00029982](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029982.pdf) | Email | RE: Epstein Estate update | ...=============================================== From: "Weinstein. Marc A." To: ' )" < rr C Cc: An... | None | "Weinstein. Marc A." | ' |
+| [EFTA00029984](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029984.pdf) | Email | RE: Epstein Estate update | ...======================================================== From: To: "Weinstein, Marc A." , ' Cc: A... | None | To: "Weinstein, Marc A." | "Weinstein, Marc A." |
+| [EFTA00029985](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029985.pdf) | Email | RE: Epstein Estate update | ...=================================================== From:" y'< To: "Weinstein, Mare A." < Cc: And... | None | " | "Weinstein, Mare A." < |
 | [EFTA00029989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029989.pdf) | Email | Re: 050D-NY-3027571_0000239.pdf | ...C guards case. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Cc: |
 | [EFTA00029990](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029990.pdf) | Email | PCU Case Tracker Update | ...ed the details of their cases. Thanks, Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. A... | None | (USANYS) [Contractor]" | " |
 | [EFTA00029991](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029991.pdf) | Email | RE: My Contact Information | ...ounsel to the U.S. Attorney U. . Attorney's Office for the Southern District of New York One St. ... | None | To: | Subject: RE: My Contact Information |
@@ -2557,34 +945,26 @@
 | [EFTA00030035](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030035.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (AJN) - Request to view evidence, highly confidential | ...this evening. Thank you, Assistant United States Attorney Southern District of New York 1 St. And... | None | ' | Christian Everdell <CEverdell CohenGressencom>, 'Laura Menni |
 | [EFTA00030058](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030058.pdf) | Email | Re: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | "MIS | Cc: |
 | [EFTA00030063](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030063.pdf) | Email | Re: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | MR | Cc: |
-| [EFTA00030073](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030073.pdf) | Document | We are confirmed for a meeting at 3:00 p. |  | None | " c | N/A |
 | [EFTA00030084](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030084.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (AJN) - Request to view evidence, highly confidential | ...to you by next week. Best, Assistant United States Attorney Southern District of New York l St. A... | None | " | Laura Mennin°er <Imenninoer(Ouinflaw.com>, " |
 | [EFTA00030094](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030094.pdf) | Document | U. | ...ce United States Attorney Southern District of New York life Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00030101](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030101.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (AJN) - Request to view evidence, highly confidential | ...w you wish to proceed. Best, Assistant United States Attorney Southern District of New York St. A... | None | " | Laura Menninger <ImenningerWunflaw.com>, " |
 | [EFTA00030108](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030108.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00030115](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030115.pdf) | Document | --START MESSAGE-- Subject: eFOIA Request Received Sent 201 ft-I2-06T l2:211:29. | ...t i• hue close ties with torpor presideet Sill Cl eaten, current press teat 000014 fl an,. Print.... | None | N/A | N/A |
 | [EFTA00030118](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030118.pdf) | Document | -START MESSAGE-- Subject: eFOIA Request Received Sent 20ISI2-06TI2:211:29. | ...Sat 00000 in hal close ties with torpor presicirma pal Clinton. current press deem Moneta 'flow. ... | None | N/A | N/A |
-| [EFTA00030122](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030122.pdf) | Email | RE: documents for Relativity |  | None | " | ' |
-| [EFTA00030124](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030124.pdf) | Email | RE: RE: documents for Relativity |  | None | To: | Cc: |
-| [EFTA00030148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030148.pdf) | Email | Re: | ============================================================ From: in" To: Andrew Patel -"Ma Cc: Jil... | None | in" | [Andrew Patel -"Ma](/P/PRINCE-ANDREW.md) |
+| [EFTA00030148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030148.pdf) | Email | Re: | ============================================================ From: in" To: Andrew Patel -"Ma Cc: Jil... | None | in" | Andrew Patel -"Ma |
 | [EFTA00030154](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030154.pdf) | Document | Can you make out, from the handwriting, the''" | ...sue a subpoena. Thanksl Assistant United States Attorney Southern District of New York One Saint ... | None | Subject: | N/A |
-| [EFTA00030155](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030155.pdf) | Email | RE: Law360, Dershowitz Can Pursue Bid To DQ Boies Schiller In Sex Case | ...d To DQ Boies Schiller In Sex Case Dershowitz Can Pursue Bid To DQ Boies Schiller In Sex Case By ... | None | To: | [Subject: RE: Law360, Dershowitz Can Pursue Bid To DQ Boies S](/A/ALAN-DERSHOWITZ.md) |
+| [EFTA00030155](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030155.pdf) | Email | RE: Law360, Dershowitz Can Pursue Bid To DQ Boies Schiller In Sex Case | ...d To DQ Boies Schiller In Sex Case Dershowitz Can Pursue Bid To DQ Boies Schiller In Sex Case By ... | None | To: | Subject: RE: Law360, Dershowitz Can Pursue Bid To DQ Boies S |
 | [EFTA00030175](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030175.pdf) | Document | Attachments: 2019. | ...w_York_Residence_SW.pdf Assistant United States Attorney Southern District of New York One Saint ... | None | Subject: SW | N/A |
 | [EFTA00030190](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030190.pdf) | Email | RE: U.S. Department of Justice investigation | ...y that practice in this case. Beyond that, we can make no commitments. Please advise as to whethe... | None | ' | (CRM)" < |
-| [EFTA00030222](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030222.pdf) | Email | RE: 9 E 71st Street New York NY DEED |  | None | To: | tEl |
 | [EFTA00030223](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030223.pdf) | Email | Search Warrant Application | ...estions. Respectfully, Assistant United States Attorney Southern District of New York One Saint A... | None | " | "moses_nysdchambers@nysd.uscourts.gov" <moses_nysdchambers@n |
-| [EFTA00030245](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030245.pdf) | Email | FW: US v. Jeffrey Epstein / 2O18R01618 / Docket: 19-CR-00490 |  | None | To:' | ' |
-| [EFTA00030281](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030281.pdf) | Email | Possible Child Porn May Undo Epstein Bid For Home Jail |  | None | New York Law360 <news-alt@law360.com> | [Subject: Possible Child Porn May Undo Epstein Bid For Home J](/J/JEFFREY-EPSTEIN.md) |
 | [EFTA00030303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030303.pdf) | Email | RE: ESI review -- Epstein investigation | ...few questions? Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | ' | ' |
-| [EFTA00030305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030305.pdf) | Email | FW: | ...ariella < v. Indyke, et al. Attached please find Plaintiff, referenced matter. David Boies2 >; An... | None | [Sigrid McCawley cci](/S/SIGRID-MCCAWLEY.md) | ' |
+| [EFTA00030305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030305.pdf) | Email | FW: | ...ariella < v. Indyke, et al. Attached please find Plaintiff, referenced matter. David Boies2 >; An... | None | Sigrid McCawley cci | ' |
 | [EFTA00030306](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030306.pdf) | Legal Filing | UNITED STATES DISTRICT COURT | ...Vice) Boles Schiller Flexner LLP David Boles Boles Schiller Flexner LLP a Joshua I. Schiller Andr... | None | N/A | N/A |
-| [EFTA00030316](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030316.pdf) | Email | RE: Deposition Subpoena/Notice | ...o Sent: Monday, April 13, 2020 2:35 PM To: Sigrid McCawley Cc: Josh Schiller ; Sabina Mariella An... | None | [To: Sigrid McCawley](/S/SIGRID-MCCAWLEY.md) | [Sigrid McCawley](/S/SIGRID-MCCAWLEY.md) |
+| [EFTA00030316](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030316.pdf) | Email | RE: Deposition Subpoena/Notice | ...o Sent: Monday, April 13, 2020 2:35 PM To: Sigrid McCawley Cc: Josh Schiller ; Sabina Mariella An... | None | To: Sigrid McCawley | Sigrid McCawley |
 | [EFTA00030386](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030386.pdf) | Email | Re: Ghislaine Maxwell (USMS No. 02879-509) | ...ou very much for your help. Assistant United States Attorney Southern District of New York l St. ... | None | ' | ' |
-| [EFTA00030392](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030392.pdf) | Email | FW: Epstein search warrant documents |  | None | ' | " |
 | [EFTA00030413](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030413.pdf) | Email | RE: GM - Letter re Warden | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | ' |
-| [EFTA00030487](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030487.pdf) | Email | RE: Questions re Maxwell | ...ccurate. Thanks very much, Assistant United States Attorney Southern District of New York 1 St. A... | None | Cc a | [Subject: RE: Questions re Maxwell](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00030487](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030487.pdf) | Email | RE: Questions re Maxwell | ...ccurate. Thanks very much, Assistant United States Attorney Southern District of New York 1 St. A... | None | Cc a | Subject: RE: Questions re Maxwell |
 | [EFTA00030498](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030498.pdf) | Document | https://wwwseuters. | ============================================================ From Subject: Prince Andrew 'a person o... | None | N/A | N/A |
-| [EFTA00030518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030518.pdf) | Email | RE: US v Epstein |  | None | To: | Cc: |
 | [EFTA00030520](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030520.pdf) | Email | RE: Subpoena to Interlochen Center for the Arts | ..., please? Thanks, Maurene Assistant United States Attorney Southern District of New York 1 St. An... | None | To: Jeff Jocks <jjocks®sondeeracine.com> | Jeff Jocks <jjocks®sondeeracine.com> |
 | [EFTA00030528](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030528.pdf) | Email | cover letter | ...to PAE attached, thank you! Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | [Contractor]" |
 | [EFTA00030532](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030532.pdf) | Legal Filing | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
@@ -2595,64 +975,46 @@
 | [EFTA00030569](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030569.pdf) | Document | U. | ....C. 150 East Tenth Avenue Denver, CO 80203 Dear Counsel: The Silvio J. Mono Building One Saint An... | None | N/A | N/A |
 | [EFTA00030586](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030586.pdf) | Email | Date: Tue, 10 May 2016 21:56:31 +0000 | ...21:56:31 +0000 Hi I'm going through discovery on a case and part of that is a picture of me with ... | None | To: | Subject: |
 | [EFTA00030588](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030588.pdf) | Email | e: H: There, | ...copied from our original meetings, oddly enough I have every other original photo but the one wit... | None | To: | Subject: |
-| [EFTA00030592](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030592.pdf) | Email | RE: Epstein/Maxwell Upload | ...During Search Thanks, EFTA00030594 • Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. And... | None | To: | [Subject: RE: Epstein/Maxwell Upload](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00030625](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030625.pdf) | Email | RE: financial documents (Epstein) |  | None | ' | "I |
-| [EFTA00030628](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030628.pdf) | Email | RE: financial documents (Epstein) |  | None | To: | [(NY) (FBI)" •Tzl](/F/FBI.md) |
-| [EFTA00030638](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030638.pdf) | Email | FW: Redactions to MILs |  | None | ' | ' |
+| [EFTA00030592](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030592.pdf) | Email | RE: Epstein/Maxwell Upload | ...During Search Thanks, EFTA00030594 • Paralegal Specialist U.S. Attorney's Office I SDNY 1 St. And... | None | To: | Subject: RE: Epstein/Maxwell Upload |
 | [EFTA00030640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030640.pdf) | Email | RE: [EXTERNAL] Re: Scheduling | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To:l | l |
 | [EFTA00030664](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030664.pdf) | Email | RE: Prince Andrew 'maybe has something to hide': Epstein butler | ...========================================================= From: To: M' n aMM> 11 Subject: RE: Pri... | None | To: M' | M' |
 | [EFTA00030686](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030686.pdf) | Email | FW: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Order | ...50 +0000 Attachments: 2020.12.08_AJN_Order_re_MDC.pdf Best, Southern District of New York 1 St. A... | None | To: | Cc: |
 | [EFTA00030689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030689.pdf) | Email | RE: updates | ...and described above. Assistant United States Attorney Southern District of New York One Saint And... | None | ' | ' |
-| [EFTA00030692](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030692.pdf) | Email | RE: U.S. Department of Justice investigation |  | None | Subject: RE: U.S. Department of Justice investigation | Subject: RE: U.S. Department of Justice investigation |
-| [EFTA00030698](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030698.pdf) | Email | RE: U.S. Department of Justice investigation |  | None | Subject: RE: U.S. Department of Justice investigation | Subject: FW: U.S. Department of Justice investigation |
 | [EFTA00030705](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030705.pdf) | Email | RE: Outstanding requests - update | ...to work through the spreadsheet as well. Paralegal Specialist U.S. Attorney's Office SDNY 1 St. A... | None | ' | ' |
 | [EFTA00030708](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030708.pdf) | Email | Warrants | ...hese to the Judge. Thanks, Assistant United States Attorney Southern District of New York I St. A... | None | )" | Cc: " |
 | [EFTA00030735](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030735.pdf) | Email | Applications for Search Warrants | ...s. Respectfully submitted, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | "CottNYSDChambers®nysd.uscourts.gov" <CottNYSDChambers@nysd. |
-| [EFTA00030745](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030745.pdf) | Email | RE: Continued investigation into possible collaborators of Jeffrey Epstein |  | None | To: | Cc: r" |
 | [EFTA00030757](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030757.pdf) | Email | Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Order | ...+0000 Thanks Good If er r, 12/8/2020 12:45 PM >> > Best, Southern District of New York l St. Andr... | None | To: | Subject Re: FW: Activity in Case 1:20-cr-00330-AJN USA v. Ma |
 | [EFTA00030764](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030764.pdf) | Email | Anitebr oStatez Piztrid Tourt | ...d States Attorney for the Southern District of New York Assistant United States Attorney One St. ... | None | N/A | GREETINGS: |
-| [EFTA00030765](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030765.pdf) | Email | FW: Edwards Pottinger Touhy Requests - |  | None | ' | ' |
-| [EFTA00030767](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030767.pdf) | Email | Perkins Coie IP Atty Confirmed As Fed. Circ.'s 1st Black Judge |  | None | Public Policy Law360 <news@law360.com> | < |
-| [EFTA00030798](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030798.pdf) | Email | FW: DOJ ongoing Investigation. |  | None | ' | ' |
 | [EFTA00030818](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030818.pdf) | Email | sw | ...appreciate it. Thanks. Assistant United States Attorney Southern District of New York One Saint A... | None | To: | )II |
-| [EFTA00030825](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030825.pdf) | Email | RE: 9 E 71st Street New York NY DEED |  | None | To: | Subject: RE: 9 E 71st Street New York NY DEED |
 | [EFTA00030830](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030830.pdf) | Email | Re: Epstein Bail Letter | ...rmal cS> Thank you!!! Assistant United States Attorney Southern District of New York One Saint An... | None | ' | " |
 | [EFTA00030831](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030831.pdf) | Email | RE: Epstein Bail Letter | ...law/rhetoric. Thanks!!! Assistant United States Attorney Southern District of New York One Saint ... | None | ' | ' |
 | [EFTA00030832](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030832.pdf) | Legal Filing | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00030842](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030842.pdf) | Email | RE: Brunel | ...: Cc: Subject: RE: Brunel Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | ' |
-| [EFTA00030861](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030861.pdf) | Email | RE: Discovery Requests |  | None | ' | "MMMIlrai |
 | [EFTA00030865](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030865.pdf) | Email | relativity | ...I'm missing something. Assistant United States Attorney Southern District of New York One Saint A... | None | To: | MIMIllry. |
 | [EFTA00030868](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030868.pdf) | Email | RE: Maxwell drive delivery Monday 1/11 | ...much for your help. Best, Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | ' |
 | [EFTA00030870](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030870.pdf) | Email | RE: Maxwell drive delivery Monday 1/11 | ...Best, >» >» »>- »> Assistant United States Attorney >» Southern District of New York >» 1 St. And... | None | To: | " aNIMIE> |
-| [EFTA00030888](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030888.pdf) | Email | RE: Discovery Requests |  | None | ' | 1=9 |
 | [EFTA00030904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030904.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Motto Building One Saint A... | None | N/A | N/A |
-| [EFTA00030918](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030918.pdf) | Email | RE: Discovery Requests |  | None | ' | '• |
 | [EFTA00030934](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030934.pdf) | Legal Filing | United States Attorney's Office | ...December 28, 2020 BY EMAIL. United States Attorney's Office Southern District of New York 1 St. A... | None | N/A | N/A |
 | [EFTA00030943](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030943.pdf) | Document | U. | ...liuca, Esq. Haddon Mor an and Foreman, P.C. Dear Counsel: The Silvio J. Mono Building One Saint A... | None | N/A | N/A |
 | [EFTA00030960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030960.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) - proposed redactions | ...o. Respectfully submitted, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: | Cc: |
-| [EFTA00030978](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030978.pdf) | Document | Saved here: \\usa. |  | None | [Subject: Mark Epstein Emails](/J/JEFFREY-EPSTEIN.md) | N/A |
 | [EFTA00030983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030983.pdf) | Email | Transcript | ...conference,bail_hearing.pdf Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | Subject: Transcript |
 | [EFTA00030986](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030986.pdf) | Email | Re: Discovery questions | ...nks very much, Assistant United States Attorney EFTA00030989 Southern District of New York 1 St. ... | None | " | ' |
 | [EFTA00030992](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030992.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00031004](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031004.pdf) | Email | sacs | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | To: | Subject: sacs |
 | [EFTA00031016](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031016.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00031095](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031095.pdf) | Email | RE: PAE and Litigation priorities |  | None | Sent: Friday, September 11, 2020 1:47 PM | Subjec : |
 | [EFTA00031107](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031107.pdf) | Email | bail memo | ...different way. Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | " | ' |
 | [EFTA00031109](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031109.pdf) | Email | RE: Time sensitive review of pending productions | ...any changes you want to make. Thanks, Paralegal Specialist U.S. Attorney's Office SDNY 1 Saint An... | None | (USANYS) [Contractor]" | Subject: RE: Time sensitive review of pending productions |
 | [EFTA00031111](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031111.pdf) | Document | U. | ...ice United States Attorney Southern District IV-New York The Siltio.1. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00031113](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031113.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Siltio.1. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00031176](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031176.pdf) | Email | RE: Epstein search warrant documents |  | None | ' | at |
 | [EFTA00031198](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031198.pdf) | Legal Filing | Attachments: 2021. | ...would you like me to do so? Thanks, Paralegal Specialist U.S. Attorney's Office I SDNY 1 Saint An... | None | N/A | N/A |
-| [EFTA00031199](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031199.pdf) | Email | Maxwell - inmate mail |  | None | To: | Cc: rt |
 | [EFTA00031215](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031215.pdf) | Email | Re: Media Inquiry from | ...am looking to find out if you have any comment on the claim in newly unsealed court documents tha... | None | " | nee |
 | [EFTA00031249](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031249.pdf) | Legal Filing | today. | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
-| [EFTA00031250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031250.pdf) | Email | Fwd: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: Fwd: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00031251](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031251.pdf) | Email | FW: United States v. Ghislaine Maxwell - | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | [Subject: FW: United States v. Ghislaine Maxwell -](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00031252](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031252.pdf) | Email | RE: United States v. Ghislaine Maxwell - | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | [Subject: Re: United States v. Ghislaine Maxwell -](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00031256](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031256.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | Sent: Sunday, November 28, 2021 9:59 AM | [Subject: RE: United States v. Ghislaine Maxwell --U](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00031257](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031257.pdf) | Email | RE: Paul Kane Q&A |  | None | )" | )11 |
+| [EFTA00031250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031250.pdf) | Email | Fwd: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: Fwd: United States v. Ghislaine Maxwell -- |
+| [EFTA00031251](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031251.pdf) | Email | FW: United States v. Ghislaine Maxwell - | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | To: | Subject: FW: United States v. Ghislaine Maxwell - |
+| [EFTA00031252](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031252.pdf) | Email | RE: United States v. Ghislaine Maxwell - | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | Subject: Re: United States v. Ghislaine Maxwell - |
+| [EFTA00031256](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031256.pdf) | Email | RE: United States v. Ghislaine Maxwell -- | ...that you go over early. Assistant United States Attorney Southern District of New York One Saint ... | None | Sent: Sunday, November 28, 2021 9:59 AM | Subject: RE: United States v. Ghislaine Maxwell --U |
 | [EFTA00031262](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031262.pdf) | Document | Attachments: 2020. | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Sent: Monda , November 29, 2021 11:18 AM | N/A |
-| [EFTA00031297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031297.pdf) | Email | Fwd: United States v. Ghislaine Maxwell | ...ver early. Assistant United States Attorney EFTA00031297 Southern District of New York One Saint ... | None | Sent: un ay, ovem er | [Subject: RE: United States v. Ghislaine Maxwell --](/G/GHISLAINE-MAXWELL.md) |
+| [EFTA00031297](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031297.pdf) | Email | Fwd: United States v. Ghislaine Maxwell | ...ver early. Assistant United States Attorney EFTA00031297 Southern District of New York One Saint ... | None | Sent: un ay, ovem er | Subject: RE: United States v. Ghislaine Maxwell -- |
 | [EFTA00031332](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031332.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (MN) - Request to view evidence, highly confidential | ...numbers. Best, EFTA00031332 Assistant United States Attorney Southern District of New York St. An... | None | To: Laura Mennin er <Imennin e | Laura Mennin er <Imennin e |
 | [EFTA00031349](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031349.pdf) | Email | RE: NT 3500 | ...TW production. Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | " aNIMIIM> | =Mt" |
 | [EFTA00031360](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031360.pdf) | Email | FW: Epstein | ...keep it short. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | " | " |
@@ -2670,8 +1032,6 @@
 | [EFTA00031450](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031450.pdf) | Email | FW: SDNY COIVD Screening Forms for next week | ...ks very much. See you then. Assistant United States Attorney Southern District of New York 1 St. ... | None | aNIMIE> | ' |
 | [EFTA00031506](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031506.pdf) | Email | RE: Bail orders | ...these filed. Assistant United States Attorney EFTA00031506 Southern District of New York One St. ... | None | To: | Subject: RE: Bail orders |
 | [EFTA00031508](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031508.pdf) | Email | pros memo examples | ...,_JE,_prosecution_memo.docx Assistant United States Attorney Southern District of New York 1 St. ... | None | ' | (USANYS)" |
-| [EFTA00031510](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031510.pdf) | Email | RE: Mark Epstein Emails |  | None | [Subject: RE: Mark Epstein Emails](/J/JEFFREY-EPSTEIN.md) | [Subject: Mark Epstein Emails](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00031512](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031512.pdf) | Email | RE: Following up Witness PA |  | None | (USANYS)" | ' |
 | [EFTA00031518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031518.pdf) | Email | Premises SW | ...Warrant_Bundleirevised).pdf Assistant United States Attorney Southern District of New York I St. ... | None | ' | (USANYS)" |
 | [EFTA00031576](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031576.pdf) | Email | RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera | ...d States Attorney United States Attorney's Office for the Southern District of New York One Saint... | None | (USANYS)" | SANYS |
 | [EFTA00031583](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031583.pdf) | Email | RE: Epstein 6(e) Order | .... Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | '• | ' |
@@ -2680,13 +1040,11 @@
 | [EFTA00031677](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031677.pdf) | Email | Letter due tomorrow | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" M | ' |
 | [EFTA00031688](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031688.pdf) | Document | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00031689](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031689.pdf) | Email | Issue discovery files | ...t_of issue_disco_files_no_ranges.xlsx Paralegal Specialist U.S. Attorney's Office I SDNY 1 Saint ... | None | To: | Subject: Issue discovery files |
-| [EFTA00031694](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031694.pdf) | Email | RE: final meeting before summer! |  | None | (USANYS)" < | USANYS)" |
-| [EFTA00031704](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031704.pdf) | Email | Epstein enquiry | ...with the UK's Daily Telegraph. Is it possible to say, on background, whether you want to question... | None | [Nick Allen](/W/WOODY-ALLEN.md) | [Subject: Epstein enquiry](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00031705](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031705.pdf) | Email | Epstein enquiry | ...with the UK's Daily Telegraph. Is it possible to say, on background, whether you want to question... | None | [Nick Allen](/W/WOODY-ALLEN.md) | [Subject: Epstein enquiry](/J/JEFFREY-EPSTEIN.md) |
+| [EFTA00031704](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031704.pdf) | Email | Epstein enquiry | ...with the UK's Daily Telegraph. Is it possible to say, on background, whether you want to question... | None | Nick Allen | Subject: Epstein enquiry |
+| [EFTA00031705](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031705.pdf) | Email | Epstein enquiry | ...with the UK's Daily Telegraph. Is it possible to say, on background, whether you want to question... | None | Nick Allen | Subject: Epstein enquiry |
 | [EFTA00031720](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031720.pdf) | Email | transcript | ...you need anything else. Assistant United States Attorney Southern District of New York One Saint ... | None | r | (USANYS) |
 | [EFTA00031722](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031722.pdf) | Email | RE: Press Conference at Epstein's | ...organization, and that Geoff answered at least ones question about the investigation, relating to... | None | To:' | ' |
 | [EFTA00031728](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031728.pdf) | Email | 3500 | ...at out tonight. Thanksl Assistant United States Attorney Southern District of New York One Saint ... | None | To: | I |
-| [EFTA00031729](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031729.pdf) | Document | Attachments: 2021-11-XXSJM letter re exhibits v2. |  | None | Subject: Letter | N/A |
 | [EFTA00031733](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031733.pdf) | Email | EUROPEAN COURT OF HUMAN RIGHTS | ...an a short period of time at ADX Florence. The fourth applicant submitted a letter from Professor... | None | N/A | N/A |
 | [EFTA00031841](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031841.pdf) | Email | RE: Application for Search Warrant | ...great weekend. Take care, Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | Arraignment NYSD |
 | [EFTA00031845](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031845.pdf) | Email | FW: Application for Search Warrant | ...at Respectfully submitted, Assistant United States Attorney Southern District of New York 1 St. A... | None | ' | Cc: ' |
@@ -2709,77 +1067,45 @@
 | [EFTA00032127](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032127.pdf) | Email | RE: GM appeal | ...you haven't had the chance. Assistant United States Attorney Southern District of New York I St. ... | None | To: ' | ' |
 | [EFTA00032131](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032131.pdf) | Email | Re: Subpoena to Interlochen Center for the Arts | ...needed. Best, EFTA00032131 Assistant United States Attorney Southern District of New York 1 St. A... | None | JeffJocks <jjocksgsondeeracine.eom> | " |
 | [EFTA00032138](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032138.pdf) | Email | . | ...would appreciate the call. Assistant United States Attorney Southern District of New York I St. A... | None | "Wein arten, Reid" | ' |
-| [EFTA00032141](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032141.pdf) | Email | FW: Epstein search warrant documents |  | None | ' 1 | 1 |
 | [EFTA00032202](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032202.pdf) | Email | RE: Subpoena to Interlochen Center for the Arts | ...o staying safe and healthy. Assistant United States Attorney Southern District of New York l St. ... | None | " | Jeff Jocks <jjocks(asondeeracine.corn> |
 | [EFTA00032205](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032205.pdf) | Email | RE: Discovery questions | ...a call. Thanks very much, Assistant United States Attorney Southern District of New York 1 St. An... | None | ' | ' |
 | [EFTA00032225](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032225.pdf) | Email | RE: Follow-up | ...then. From: Teri Gibbs < Sent: Monday. January 06, 2020 12:15 To: Cc: Subject: Re: Witness re Pri... | None | ' | Colleen Mullen |
-| [EFTA00032303](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032303.pdf) | Email | The $4.3B Question Over What Terrorist Victims Can Recoup |  | None | Access to Justice Law360 <news-alt@law360.com> | . |
-| [EFTA00032317](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032317.pdf) | Email | How Litigation Funding Can Save, And Doom, Poor Plaintiffs |  | None | Access to Justice Law360 <news-alt@law360.com> | < |
-| [EFTA00032330](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032330.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...ll be the AUSA Assistant United States Attorney Southern District of New York EFTA00032330 l St. ... | None | [Gloria Allred](/G/GLORIA-ALLRED.md) | ' |
-| [EFTA00032349](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032349.pdf) | Email | UN Bribery Ruling Further Defines The Limits Of McDonnell |  | None | New York Law360 <news-alt@law360.com> | > |
+| [EFTA00032330](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032330.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...ll be the AUSA Assistant United States Attorney Southern District of New York EFTA00032330 l St. ... | None | Gloria Allred | ' |
 | [EFTA00032383](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032383.pdf) | Email | RE: Subpoenas Re | ...Subpoenas attached, thanks. Assistant United States Attorney Southern District of New York 1 St. ... | None | " | ' |
-| [EFTA00032400](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032400.pdf) | Email | Up Next At High Court: Census Brawl Dominates Busy Week |  | None | Appellate Law360 <news-alt@law360.com> | Subject: Up Next At High Court: Census Brawl Dominates Busy |
 | [EFTA00032409](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032409.pdf) | Email | RE: Epstein | ...c Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | (USANYS)" | (USANYS)" <1 |
-| [EFTA00032446](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032446.pdf) | Email | Tentative: Call w/ Andy Tomback and Marc Weinstein (Epstein estate) |  | None | " | " |
-| [EFTA00032447](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032447.pdf) | Document | Event: Tentative: Call w/ Andy Tomback and Marc Weinstein (Epstein estate) |  | None | N/A | N/A |
-| [EFTA00032448](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032448.pdf) | Email | Discharged In The Dark: Immigrant GIs Fight For Due Process |  | None | Access to Justice Law360 <news-alt@law360.com> | . |
 | [EFTA00032454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032454.pdf) | Email | KPMG's Middendorf Says He Blew Whistle On PCAOB Leaks | ...Touts Superfund Progress, Slams Enviro Critics U.S. Environmental Protection Agency Administrator... | None | New York Law360 <news-alt@law360.com> | Subject: KPMG's Middendorf Says He Blew Whistle On PCAOB Lea |
 | [EFTA00032465](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032465.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (AJN) - Request to view evidence, highly confidential | ...review at 500 Pearl. Best, Assistant United States Attorney Southern District of New York 1 St. A... | None | Laura Menninger <Imenninger(uhinflawcom> | " |
 | [EFTA00032502](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032502.pdf) | Email | RE: Epstein | ...blic Corruption Unit United States Attorney's Office for the Southern District of New York 1 St. ... | None | (USANYS)" | (USANYS)" |
 | [EFTA00032515](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032515.pdf) | Document | The FBI has a large amount of data for us on the Epstein case—can the case agent, | ...ould be great. Thanks! Assistant United States Attorney Southern District of New York One Saint A... | None | N/A | N/A |
 | [EFTA00032518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032518.pdf) | Email | The Daily 202: Ifs personal for the lead sponsors of the Iran war powers resolutions | ..."When did it become acceptable to kill a top leader of a country we aren't even at war with?" • A... | None | The Washington Post <email@washingtonpost.com> | <I |
 | [EFTA00032553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032553.pdf) | Email | DAG Visit | ...Counsel to the U.S. Attorney U.S. Attorneys Office for the Southern District of New York One St. ... | None | ' | ' |
-| [EFTA00032556](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032556.pdf) | Email | States 'Stepped Into The Breach' As Crypto Market Exploded |  | None | New York Law360 <news-alt@law360.com> | Subject: States 'Stepped Into The Breach' As Crypto Market E |
 | [EFTA00032562](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032562.pdf) | Email | Law360 Names Practice Groups Of The Year | ...ive trends that shaped 2017 and will continue to develop in the coming years, say Jason Gordon an... | None | Public Policy Law360 <news-q@law360.com> | Subject: Law360 Names Practice Groups Of The Year |
 | [EFTA00032583](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032583.pdf) | Email | Cravath's Ties To NYU Not Enough For New Trial, Judge Says | ...Read full article » Cuomo Wants NY To Probe Facebook Housing Advertisers New York Democratic Gov.... | None | New York Law360 <news-alt@law360.com> | Subject: Cravath's Ties To NYU Not Enough For New Trial, Jud |
-| [EFTA00032593](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032593.pdf) | Email | 17(c) letter |  | None | le | al |
-| [EFTA00032594](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032594.pdf) | Email | [EXTERNAL] Re: Rule 17(c) subpoena | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | [Sigrid McCawley](/S/SIGRID-MCCAWLEY.md) | Cc: |
-| [EFTA00032597](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032597.pdf) | Email | Motion to quash |  | None | alMIE> | MIMr |
+| [EFTA00032594](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032594.pdf) | Email | [EXTERNAL] Re: Rule 17(c) subpoena | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | Sigrid McCawley | Cc: |
 | [EFTA00032669](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032669.pdf) | Email | RE: US v. Maxwell - 20 Cr. 330 (AJN) - Request to view evidence, highly confidential | ...er this evening. Thank you, Assistant United States Attorney Southern District of New York St. An... | None | ' | Christian Everdell <CEverdell CohenGresser.com>, 'Laura Menn |
 | [EFTA00032686](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032686.pdf) | Email | US v. Maxwell, 20 Cr. 330 (AJN) - discovery production | ...provide us with one. Best, Assistant United States Attorney Southern District of New York 1 St. A... | None | " | Christian |
-| [EFTA00032721](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032721.pdf) | Email | MIL opps - Daubert |  | None | in" | ' |
 | [EFTA00032732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032732.pdf) | Email | 5 Ways Companies Can Prep For Biden's Anti-Corruption Push | ...Veto Conduct Commission Bill An association that represents New York state prosecutors urged Gov.... | None | White Collar Law360 <news@law360.com> | Subject: 5 Ways Companies Can Prep For Biden's Anti-Corrupti |
 | [EFTA00032738](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032738.pdf) | Email | Greenberg Traurig's NY Bill May Aid Russian Oligarch Client | ...Veto Conduct Commission Bill An association that represents New York state prosecutors urged Gov.... | None | New York Law360 <news-alt(ciflaw360.com> | < |
-| [EFTA00032748](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032748.pdf) | Email | FW: Maxwell - RTC |  | None | "MEM | ' |
 | [EFTA00032751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032751.pdf) | Legal Filing | SCOTT A. | ...W YORK December 2, 2019 United States Attorney's Office Southern District of New York One Saint A... | None | N/A | N/A |
 | [EFTA00032753](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032753.pdf) | News Article | U. | ...tice United States Attorney Southern District of New York The Si!lo J. Mollo Building One Saint A... | None | N/A | N/A |
 | [EFTA00032785](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032785.pdf) | Email | RE: Request for Assistance - United States v. Maxwell | ...a call, please? Thank you, Assistant United States Attorney Southern District of New York 1 St. A... | None | To: ' | ' |
 | [EFTA00032790](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032790.pdf) | Email | RE: AJN Order - Pretrial Motions | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | ' | a' |
-| [EFTA00032792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032792.pdf) | Email | RE: United States v. Ghislaine Maxwell | ...s.gov/court.html Best, Assistant United States Attorney Southern District of New York One Saint A... | None | ' | [Brad Edwards c,](/B/BRAD-EDWARDS.md) |
+| [EFTA00032792](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032792.pdf) | Email | RE: United States v. Ghislaine Maxwell | ...s.gov/court.html Best, Assistant United States Attorney Southern District of New York One Saint A... | None | ' | Brad Edwards c, |
 | [EFTA00032799](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032799.pdf) | Email | RE: [EXTERNAL] RE: United States v. Ghislaine Maxwell | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | (USANYS)" | Cc: ' |
 | [EFTA00032809](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032809.pdf) | Email | [EXTERNAL] Re: Subpoena to Interlochen Center for the Arts | ...o discuss, please? Thanks, Assistant United States Attorney Southern District of New York l St. A... | None | Jeff Jocks <jjocks®sondeeracine.com> | ' |
 | [EFTA00032872](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032872.pdf) | Email | Re: Law360 | ...Collins in recent years, and is widely regarded as a steadying presence inside the halls at 1 St.... | None | ' | (USANYS)" <1 |
 | [EFTA00032884](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032884.pdf) | Email | 15JA5419P00000377 Page 1 of 3 | ...R NO. I 5M5419P00000377 4. REQUISITION/REFERENCE NO. IMA54-19-PR-0457 b STREET ADDRESS One St. An... | None | N/A | N/A |
 | [EFTA00032897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032897.pdf) | Email | Re: Law360 | ...Collins in recent years, and is widely regarded as a steadying presence inside the halls at 1 St.... | None | (USANYS)" alMIE> | ' |
-| [EFTA00032901](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032901.pdf) | Email | Citing COVID-19, SEC Eases More Filing Requirements |  | None | Securities Law360 <newsgi3law360.com> | Subject: Citing COVID-19, SEC Eases More Filing Requirements |
-| [EFTA00032913](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032913.pdf) | Email | DOJ Beats Gizmodo FOIA Suit Over Trump Wiretap Docs |  | None | New York Law360 <news-alt@law360.com> | [Subject: DOJ Beats Gizmodo FOIA Suit Over Trump Wiretap Docs](/D/DOJ.md) |
-| [EFTA00032922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032922.pdf) | Email | Top New York Cases To Watch In 2019 |  | None | New York Law360 <news-altglaw360.com> | < |
-| [EFTA00032932](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032932.pdf) | Email | Ex-White House Counsel McGahn Ordered To Testify To House |  | None | White Collar Law360 <news-alt@law360.com> | < |
-| [EFTA00032947](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032947.pdf) | Email | Ex-Braskem Exec Granted S30M Bail In Bribery Case |  | None | White Collar Law360 <news-alt@law360.com> | Subject: Ex-Braskem Exec Granted S30M Bail In Bribery Case |
 | [EFTA00032960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032960.pdf) | Email | Re: Epstein 6(e) Order | .... Associate U.S. Attorney United States Attorney's Office Southern District of New York One St. A... | None | (USANYS)" | (USANYS)" |
-| [EFTA00032964](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032964.pdf) | Email | Harvard, NYU Law Reviews Biased Against White Men, Suit Says |  | None | New York Law360 <news-alt@law360.com> | Subject: Harvard, NYU Law Reviews Biased Against White Men, |
-| [EFTA00032976](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032976.pdf) | Email | 3 Things You Need To Know About NY's Latest Cyber Regs |  | None | New York Law360 <news-alt@law360.com> | Subject: 3 Things You Need To Know About NY's Latest Cyber R |
-| [EFTA00033580](https://www.justice.gov/epstein/files/DataSet%208/EFTA00033580.pdf) | Document | UNITED STATES DEPARTMENT OF JUSTICE |  | None | N/A | N/A |
-| [EFTA00037000](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037000.pdf) | Document | Re: [EXTERNAL EMAIL] - Court reporter |  | None | N/A | N/A |
-| [EFTA00037001](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037001.pdf) | Document | Re: [EXTERNAL EMAIL] - Court reporter |  | None | N/A | N/A |
-| [EFTA00037002](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037002.pdf) | Email | [EXTERNAL EMAIL] - Court reporter |  | None | ' | ' |
 | [EFTA00037011](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037011.pdf) | Email | [EXTERNAL EMAIL] - | ...s to him today? Thanks. Assistant United States Attorney Southern District of New York One Saint ... | None | ' | "Ml=1.1 |
-| [EFTA00037063](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037063.pdf) | Document | The truth is: a lot of what we have read is not fully |  | None | N/A | N/A |
-| [EFTA00037118](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037118.pdf) | Document | Jennifer Freeman has been a successful and dedicated advocate to protect children, women and others... |  | None | N/A | N/A |
-| [EFTA00037250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037250.pdf) | Email | Re: JE | ...=========================================== RE: JE Received: Friday, June 19, 2020 5:36 PM From: ... | None | [Andrew Heymann aheymann@solblum.com](/P/PRINCE-ANDREW.md) | [Mark L. Epstein izmo@mindspring.com](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00037269](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037269.pdf) | Email | Fwd: RE: Press Conference at Epstein's | ...ganization, and that answered at least one specific question about the investigation, relating to... | None | [(NY) (FBI)" la>](/F/FBI.md) | [(NY) (FBI)" 'tta](/F/FBI.md) |
-| [EFTA00037415](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037415.pdf) | Email | RE: Press Conference | ...y type of update for the ongoing case. It was exactly what I= had said; a question was asked abou... | None | [(DO) (FBI)](/F/FBI.md) | ' |
-| [EFTA00037445](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037445.pdf) | Email | RE: Esptein case/ future potential arrest |  | None | To: | Subject: RE: Esptein case/ future potential arrest |
+| [EFTA00037250](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037250.pdf) | Email | Re: JE | ...=========================================== RE: JE Received: Friday, June 19, 2020 5:36 PM From: ... | None | Andrew Heymann aheymann@solblum.com | Mark L. Epstein izmo@mindspring.com |
+| [EFTA00037269](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037269.pdf) | Email | Fwd: RE: Press Conference at Epstein's | ...ganization, and that answered at least one specific question about the investigation, relating to... | None | (NY) (FBI)" la> | (NY) (FBI)" 'tta |
+| [EFTA00037415](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037415.pdf) | Email | RE: Press Conference | ...y type of update for the ongoing case. It was exactly what I= had said; a question was asked abou... | None | (DO) (FBI) | ' |
 | [EFTA00037454](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037454.pdf) | Email | RE: Material Witness PA | ...aterial Witness PA Were you aware of this MLAT that was sent to the UK requesting information fro... | None | Sent: Thursday, April 16, 2020 11:50 AM | ' |
-| [EFTA00037509](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037509.pdf) | Email | Re: Epstein Claims Fund Program |  | None | ' | ' |
-| [EFTA00037683](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037683.pdf) | Email | Date: Wed, 29 Jul 2020 16:21:44 +0000 |  | None | To: | Cc: |
 | [EFTA00037749](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037749.pdf) | Document | Attachments: USVI_SW. | ...ou're finished? Thanks. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
-| [EFTA00037766](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037766.pdf) | Email | RE: Epstein Image/Video File Review Protocol |  | None | To: | [Subject: RE: Epstein Image/Video File Review Protocol](/J/JEFFREY-EPSTEIN.md) |
 | [EFTA00037775](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037775.pdf) | Email | RE: Epstein | ...keep it short. Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | ' | ' |
 | [EFTA00037778](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037778.pdf) | Email | RE: | ...The number is Thanks! Assistant United States Attorney Southern District of New York One Saint An... | None | Sent: Tuesday, May 14, 2019 7:14 PM | Subject: RE: |
 | [EFTA00037779](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037779.pdf) | Email | RE: | ...The number is Thanks! Assistant United States Attorney Southern District of New York One Saint An... | None | ' | ' |
-| [EFTA00037783](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037783.pdf) | Email | RE: Phone records |  | None | "a | Cc: "MMI=MINIIMMI=MINIMI> |
-| [EFTA00037812](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037812.pdf) | Email | I got this really STRANGE phone call. |  | None | ' | Subject: I got this really STRANGE phone call. |
 | [EFTA00037833](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037833.pdf) | Email | Re: Operation Dawnehorus | ...Maxwell. As you may be aware, there has been significant media reporting in the UK about (former)... | None | ' | ' |
 | [EFTA00037866](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037866.pdf) | Document | Attachments: 2019. | ...s the memo I mentioned. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
 | [EFTA00037895](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037895.pdf) | Email | Date: Wed, 12 Dec 2018 23:12:26 +0000 | ...on request. Thank you, Assistant United States Attorney Southern District of New York One Saint A... | None | To: "subpoenas@apple.com" <subpoenas@apple.com> | "subpoenas@apple.com" <subpoenas@apple.com> |
@@ -2787,44 +1113,28 @@
 | [EFTA00037897](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037897.pdf) | Email | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | any emails presently stored in the accounts (including any e |
 | [EFTA00037899](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037899.pdf) | Email | To whom it may concern: | ...ice United States Attorney Southern District of New York The Silvio J. Mollo Building One Saint A... | None | N/A | an emails resent) stored in the accounts (including any emai |
 | [EFTA00037907](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037907.pdf) | Document | Attachments: USV1_SW. | ...ou're finished? Thanks. Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
-| [EFTA00037911](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037911.pdf) | Document | Inline-Images: image001. |  | None | [Subject: Re: Epstein Victims](/J/JEFFREY-EPSTEIN.md) | N/A |
 | [EFTA00037912](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037912.pdf) | Document | Attachments: Maxwell,_Ghislaine_Transcript_(O4-22-16). | ...nscript_(07-22- 16).pdf Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
-| [EFTA00037922](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037922.pdf) | Email | RE: Epstein Victims |  | None | Sent: Tuesday, June 30, 2020 7:22 PM | [Subject: RE: Epstein Victims](/J/JEFFREY-EPSTEIN.md) |
 | [EFTA00037925](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037925.pdf) | Email | Date: Wed, 01 Jul 2020 11:59:11 +0000 | ...riggerfish_Application.docx Assistant United States Attorney Southern District of New York 1 St. ... | None | To: | Subject: |
-| [EFTA00037927](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037927.pdf) | Email | RE: Epstein Victims |  | None | [Subject: RE: Epstein Victims](/J/JEFFREY-EPSTEIN.md) | Cc: |
 | [EFTA00037929](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037929.pdf) | Document | Attachments: Revised_Application_for_Maxwell_GPS_Combo_v2. | ...r_Maxwell_GPS_Combo_v2.docx Assistant United States Attorney Southern District of New York 1 St. ... | None | N/A | N/A |
 | [EFTA00037930](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037930.pdf) | Email | FW: Revised GPS SW | ...t: Revised GPS SW Attached Assistant United States Attorney Southern District of New York 1 St. A... | None | (USANYS) [mailto | Subject: Revised GPS SW |
-| [EFTA00037937](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037937.pdf) | Email | RE: Epstein Victim Interviews |  | None | Cc: | [Cc: Brad Edwards <brad@epllc.com>](/B/BRAD-EDWARDS.md) |
-| [EFTA00037939](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037939.pdf) | Email | Epstein Victim Interviews |  | None | "= | "MI |
 | [EFTA00037949](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037949.pdf) | Document | Attachments: Warrant_2. | ...nt_2.pdf; Warrant_1.pdf Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
 | [EFTA00037955](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037955.pdf) | Document | Attachments: Maxwell Indictment_FINAL. | ...tment is attached. Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | N/A | N/A |
 | [EFTA00037960](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037960.pdf) | Document | Attachments: Revised_Application _for Maxwell_GPS_Combo_v 1 . | ...S_Combo_v 1 .docx Attached Assistant United States Attorney Southern District of New York 1 St. A... | None | N/A | N/A |
 | [EFTA00037962](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037962.pdf) | Document | Attachments: New_Hampshire_Premises_SW_Affidavit. | ...ct: Draft SW Cc: Attached Assistant United States Attorney Southern District of New York 1 St. An... | None | N/A | N/A |
 | [EFTA00037963](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037963.pdf) | Document | Attachments: New_Hampshire_Premises_SW_Affidavit. | ...SW_Affidavit.docx Attached Assistant United States Attorney Southern District of New York 1 St. A... | None | N/A | N/A |
-| [EFTA00037994](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037994.pdf) | Email | Fwd: Epstein / Maxwell Case... |  | None | To: | [Subject: Fwd: Epstein / Maxwell Case...](/G/GHISLAINE-MAXWELL.md) |
-| [EFTA00037997](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037997.pdf) | Email | Re: Epstein Victims |  | None | EMI | "IMI |
 | [EFTA00038003](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038003.pdf) | Email | Date: Mon, 06 Jul 2020 16:09:49 +0000 | ...l I spoke with Thanks, Assistant United States Attorney Southern District of New York One Saint A... | None | To: | Cc: |
-| [EFTA00038006](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038006.pdf) | Email | Re: Epstein Victims |  | None | [Subject: Re: Epstein Victims](/J/JEFFREY-EPSTEIN.md) | Cc: |
 | [EFTA00038034](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038034.pdf) | Document | Per our usual practice, I am sending to | ...tein/Maxwell case. Thanks, Assistant United States Attorney Southern District of New York 1 St. A... | None | N/A | N/A |
 | [EFTA00038037](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038037.pdf) | Email | [EXTERNAL EMAIL] - Re: | ...et models. has 'scanty been exposed and jailed for sleeping with under aged girls and is dragging... | None | ' | ' |
-| [EFTA00038117](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038117.pdf) | Email | [EXTERNAL EMAIL] - RE: Help with Maxwell discovery |  | None | ' | ' |
 | [EFTA00038276](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038276.pdf) | Document | asiewasiti,tho, & mil/'dn | ...dedof,, 4. July 17, 2020 United States Attorney's Office The Silvio J. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00038318](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038318.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...mber? Thanks, Assistant United States Attorney EFTA00038318 Southern District of New York 1 St. A... | None | [Gloria Allred <GAIlred@amglaw.com>](/G/GLORIA-ALLRED.md) | [Gloria Allred <GAIlred@amglaw.com>,](/G/GLORIA-ALLRED.md) |
+| [EFTA00038318](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038318.pdf) | Email | RE: Urgent. I have a new alleged victim of E I have a new client who was a victim of | ...mber? Thanks, Assistant United States Attorney EFTA00038318 Southern District of New York 1 St. A... | None | Gloria Allred <GAIlred@amglaw.com> | Gloria Allred <GAIlred@amglaw.com>, |
 | [EFTA00038329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038329.pdf) | Email | Report Section Summary | ...Last Amount Contributed: Candidate/Committee/Politica I Action Committee Name: $125.00 $125.00 AN... | None | N/A | N/A |
-| [EFTA00038397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038397.pdf) | Email | RE: David Rodgers | ...or so and let you know. Assistant United States Attorney Southern District of New York One Saint ... | None | "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP | [Subject: RE: David Rodgers](/D/DAVID-RODGERS.md) |
-| [EFTA00038404](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038404.pdf) | Email | RE: Keep Open Letter - USAA |  | None | " | Cc: |
+| [EFTA00038397](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038397.pdf) | Email | RE: David Rodgers | ...or so and let you know. Assistant United States Attorney Southern District of New York One Saint ... | None | "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP | Subject: RE: David Rodgers |
 | [EFTA00038450](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038450.pdf) | Document | U. | ...tice United States Attorney Southern District of New York The Silvio!. Mollo Building One Saint A... | None | N/A | N/A |
-| [EFTA00038453](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038453.pdf) | Email | Fwd: West Palm Beach Epstein Victims - |  | None | "MII | [Subject: Fwd: West Palm Beach Epstein Victims -](/J/JEFFREY-EPSTEIN.md) |
-| [EFTA00038502](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038502.pdf) | Document | U. |  | None | N/A | N/A |
 | [EFTA00038559](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038559.pdf) | Document | On Apr 16, 2021, at 19:47, | .... Have a great weekend— Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
 | [EFTA00038586](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038586.pdf) | Email | Re: [EXTERNAL EMAIL] - | ...would drop everything, cancel plans and be out the door to go to Epstein. Bragged about massaging... | None | To: | Subject: Re: [EXTERNAL EMAIL] - |
 | [EFTA00038604](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038604.pdf) | Document | Attachments: Opinion. | .... Have a great weekend— Assistant United States Attorney Southern District of New York One Saint ... | None | N/A | N/A |
-| [EFTA00038674](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038674.pdf) | Email | [EXTERNAL EMAIL] - Additional Potential Victim for Case NY-3027571 |  | None | To: | Subject: [EXTERNAL EMAIL] - Additional Potential Victim for |
-| [EFTA00038717](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038717.pdf) | Email | [EXTERNAL EMAIL] -- | ...tements. I've attached a copy of the statement, which hopefully will help track her down. Thanks,... | None | (USANYS)" | [(NY) (FBI)"](/F/FBI.md) |
+| [EFTA00038717](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038717.pdf) | Email | [EXTERNAL EMAIL] -- | ...tements. I've attached a copy of the statement, which hopefully will help track her down. Thanks,... | None | (USANYS)" | (NY) (FBI)" |
 | [EFTA00038718](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038718.pdf) | Legal Filing | Pnitetratzrtes Pistrid Qluurt | ...d States Attorney for the Squthern District of New York Assistant United States Attorney One St. ... | None | N/A | GREETINGS: |
-| [EFTA00038763](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038763.pdf) | Document | Tue, 19 Jan 2021 06:24:58 -0500 |  | None | To: | Cc: |
-| [EFTA00038774](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038774.pdf) | Email | Sat, 23 Jan 2021 15:10:45 -0500 |  | None | To: | Date: |
-| [EFTA00038777](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038777.pdf) | Document | Mon, 18 Jan 2021 22:40:28 -0500 |  | None | To: | Cc: |
 | [EFTA00038796](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038796.pdf) | Email | U. | ...ice United States Attorney Southern District of New York The Silvio J. Mello Building One Saint A... | None | N/A | GREETINGS: |
 | [EFTA00038835](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038835.pdf) | Email | [EXTERNAL EMAIL] - RE: Testifying Witness 3500 | ...ates Attorney EFTA00038835 United States Attorney's Office Southern District of New York One St. ... | None | 'I | ' |
 | [EFTA00038839](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038839.pdf) | Email | [EXTERNAL EMAIL] - Testifying Witness 3500 | ...ant United States Attorney United States Attorney's Office Southern District of New York One St. ... | None | " | Cc: |
