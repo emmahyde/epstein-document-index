@@ -145,6 +145,21 @@ This repository contains an indexed reference of entities, organizations, and in
 - **Total Entities:** 73
 - **Letters Covered:** 19
 
+## Dataset Mapping
+
+All document links point to [justice.gov/epstein](https://www.justice.gov/epstein). The EFTA document numbers map to datasets as follows:
+
+| Dataset | EFTA Range          | Doc Count |
+|---------|---------------------|-----------|
+| 1       | 00000001 - 00003158 | 3,136     |
+| 2       | 00003159 - 00003857 | 574       |
+| 3       | 00003858 - 00005586 | 67        |
+| 4       | 00005587 - 00008320 | 152       |
+| 5       | 00008321 - 00008528 | 120       |
+| 6       | 00008529 - 00008998 | 13        |
+| 7       | 00008999 - 00009664 | 17        |
+| 8       | 00009665+           | 10,592    |
+
 ## Usage
 
 Each letter page contains:
