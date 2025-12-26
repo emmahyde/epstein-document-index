@@ -98,6 +98,7 @@ This repository contains an indexed reference of entities, organizations, and in
 ### [M](M.md)
 
 - [Mar-a-Lago](M.md#mar-a-lago)
+- [Marc A. Weinstein](M.md#marc-a-weinstein)
 - [Matt Lauer](M.md#matt-lauer)
 - [Maurene Comey](M.md#maurene-comey)
 - [Mohammed bin Salman](M.md#mohammed-bin-salman)
@@ -142,8 +143,10 @@ This repository contains an indexed reference of entities, organizations, and in
 
 ## Statistics
 
-- **Total Entities:** 73
+- **Total Entities:** 74
 - **Letters Covered:** 19
+
+**Note:** See [NEEDS_REVIEW.md](NEEDS_REVIEW.md) for entities with ambiguous name matches that may require verification.
 
 ## Dataset Mapping
 
