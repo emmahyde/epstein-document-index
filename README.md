@@ -6,138 +6,132 @@ This repository contains an indexed reference of entities, organizations, and in
 
 ---
 
-## Complete Entity Index
+## Browse by Letter
 
-### [A](A.md)
+### [A](A/README.md)
 
-- [Air Ghislaine Inc.](A.md#air-ghislaine-inc)
-- [Alan Dershowitz](A.md#alan-dershowitz)
-- [Alexander Acosta](A.md#alexander-acosta)
-- [Apollo Global Management](A.md#apollo-global-management)
+- [Air Ghislaine Inc.](A/AIR-GHISLAINE-INC.md)
+- [Alan Dershowitz](A/ALAN-DERSHOWITZ.md)
+- [Alexander Acosta](A/ALEXANDER-ACOSTA.md)
+- [Apollo Global Management](A/APOLLO-GLOBAL-MANAGEMENT.md)
 
-### [B](B.md)
+### [B](B/README.md)
 
-- [Barack Obama](B.md#barack-obama)
-- [Bill Clinton](B.md#bill-clinton)
-- [Bill Gates](B.md#bill-gates)
-- [Boies Schiller Flexner](B.md#boies-schiller-flexner)
-- [Brad Edwards](B.md#brad-edwards)
+- [Barack Obama](B/BARACK-OBAMA.md)
+- [Bill Clinton](B/BILL-CLINTON.md)
+- [Bill Gates](B/BILL-GATES.md)
+- [Boies Schiller Flexner](B/BOIES-SCHILLER-FLEXNER.md)
+- [Brad Edwards](B/BRAD-EDWARDS.md)
 
-### [C](C.md)
+### [C](C/README.md)
 
-- [Charlie Rose](C.md#charlie-rose)
-- [Courtney Wild](C.md#courtney-wild)
+- [Charlie Rose](C/CHARLIE-ROSE.md)
+- [Courtney Wild](C/COURTNEY-WILD.md)
 
-### [D](D.md)
+### [D](D/README.md)
 
-- [Darren Indyke](D.md#darren-indyke)
-- [David Boies](D.md#david-boies)
-- [David Rodgers](D.md#david-rodgers)
-- [Deutsche Bank](D.md#deutsche-bank)
-- [DOJ](D.md#doj)
-- [Donald Trump](D.md#donald-trump)
+- [Darren Indyke](D/DARREN-INDYKE.md)
+- [David Boies](D/DAVID-BOIES.md)
+- [David Rodgers](D/DAVID-RODGERS.md)
+- [Deutsche Bank](D/DEUTSCHE-BANK.md)
+- [DOJ](D/DOJ.md)
+- ... and 1 more
 
-### [E](E.md)
+### [E](E/README.md)
 
-- [Ehud Barak](E.md#ehud-barak)
-- [Elon Musk](E.md#elon-musk)
-- [Eva Dubin](E.md#eva-dubin)
+- [Ehud Barak](E/EHUD-BARAK.md)
+- [Elon Musk](E/ELON-MUSK.md)
+- [Eva Dubin](E/EVA-DUBIN.md)
 
-### [F](F.md)
+### [F](F/README.md)
 
-- [FBI](F.md#fbi)
-- [Financial Trust Company](F.md#financial-trust-company)
-- [Freedom Air International Inc.](F.md#freedom-air-international-inc)
+- [FBI](F/FBI.md)
+- [Financial Trust Company](F/FINANCIAL-TRUST-COMPANY.md)
+- [Freedom Air International Inc.](F/FREEDOM-AIR-INTERNATIONAL-INC.md)
 
-### [G](G.md)
+### [G](G/README.md)
 
-- [Geoffrey Berman](G.md#geoffrey-berman)
-- [George Stephanopoulos](G.md#george-stephanopoulos)
-- [Ghislaine Maxwell](G.md#ghislaine-maxwell)
-- [Glenn Dubin](G.md#glenn-dubin)
-- [Gloria Allred](G.md#gloria-allred)
-- [Great St. James](G.md#great-st-james)
+- [Geoffrey Berman](G/GEOFFREY-BERMAN.md)
+- [George Stephanopoulos](G/GEORGE-STEPHANOPOULOS.md)
+- [Ghislaine Maxwell](G/GHISLAINE-MAXWELL.md)
+- [Glenn Dubin](G/GLENN-DUBIN.md)
+- [Gloria Allred](G/GLORIA-ALLRED.md)
+- ... and 1 more
 
-### [H](H.md)
+### [H](H/README.md)
 
-- [Harvey Weinstein](H.md#harvey-weinstein)
-- [Hillary Clinton](H.md#hillary-clinton)
-- [Hyperion Air Inc.](H.md#hyperion-air-inc)
-- [Hyperion Air LLC](H.md#hyperion-air-llc)
+- [Harvey Weinstein](H/HARVEY-WEINSTEIN.md)
+- [Hillary Clinton](H/HILLARY-CLINTON.md)
+- [Hyperion Air Inc.](H/HYPERION-AIR-INC.md)
+- [Hyperion Air LLC](H/HYPERION-AIR-LLC.md)
 
-### [I](I.md)
+### [I](I/README.md)
 
-- [Ivanka Trump](I.md#ivanka-trump)
+- [Ivanka Trump](I/IVANKA-TRUMP.md)
 
-### [J](J.md)
+### [J](J/README.md)
 
-- [Jared Kushner](J.md#jared-kushner)
-- [Jay Lefkowitz](J.md#jay-lefkowitz)
-- [Jean-Luc Brunel](J.md#jean-luc-brunel)
-- [Jeffrey Epstein](J.md#jeffrey-epstein)
-- [JEGE Inc.](J.md#jege-inc)
-- [JEGE LLC](J.md#jege-llc)
-- [Jes Staley](J.md#jes-staley)
-- [Joi Ito](J.md#joi-ito)
-- [JPMorgan Chase](J.md#jpmorgan-chase)
+- [Jared Kushner](J/JARED-KUSHNER.md)
+- [Jay Lefkowitz](J/JAY-LEFKOWITZ.md)
+- [Jean-Luc Brunel](J/JEANLUC-BRUNEL.md)
+- [Jeffrey Epstein](J/JEFFREY-EPSTEIN.md)
+- [JEGE Inc.](J/JEGE-INC.md)
+- ... and 4 more
 
-### [K](K.md)
+### [K](K/README.md)
 
-- [Ken Starr](K.md#ken-starr)
-- [Kevin Spacey](K.md#kevin-spacey)
-- [Kirkland & Ellis](K.md#kirkland-&-ellis)
+- [Ken Starr](K/KEN-STARR.md)
+- [Kevin Spacey](K/KEVIN-SPACEY.md)
+- [Kirkland & Ellis](K/KIRKLAND-ELLIS.md)
 
-### [L](L.md)
+### [L](L/README.md)
 
-- [Lawrence Visoski](L.md#lawrence-visoski)
-- [Leon Black](L.md#leon-black)
-- [Les Wexner](L.md#les-wexner)
-- [Lesley Groff](L.md#lesley-groff)
-- [Little St. James](L.md#little-st-james)
+- [Lawrence Visoski](L/LAWRENCE-VISOSKI.md)
+- [Leon Black](L/LEON-BLACK.md)
+- [Les Wexner](L/LES-WEXNER.md)
+- [Lesley Groff](L/LESLEY-GROFF.md)
+- [Little St. James](L/LITTLE-ST-JAMES.md)
 
-### [M](M.md)
+### [M](M/README.md)
 
-- [Mar-a-Lago](M.md#mar-a-lago)
-- [Marc A. Weinstein](M.md#marc-a-weinstein)
-- [Matt Lauer](M.md#matt-lauer)
-- [Maurene Comey](M.md#maurene-comey)
-- [Mohammed bin Salman](M.md#mohammed-bin-salman)
+- [Mar-a-Lago](M/MARALAGO.md)
+- [Marc A. Weinstein](M/MARC-A-WEINSTEIN.md)
+- [Matt Lauer](M/MATT-LAUER.md)
+- [Maurene Comey](M/MAURENE-COMEY.md)
+- [Mohammed bin Salman](M/MOHAMMED-BIN-SALMAN.md)
 
-### [N](N.md)
+### [N](N/README.md)
 
-- [Nadia Marcinkova](N.md#nadia-marcinkova)
-- [Naomi Campbell](N.md#naomi-campbell)
+- [Nadia Marcinkova](N/NADIA-MARCINKOVA.md)
+- [Naomi Campbell](N/NAOMI-CAMPBELL.md)
 
-### [P](P.md)
+### [P](P/README.md)
 
-- [Plan D LLC](P.md#plan-d-llc)
-- [Prince Andrew](P.md#prince-andrew)
+- [Plan D LLC](P/PLAN-D-LLC.md)
+- [Prince Andrew](P/PRINCE-ANDREW.md)
 
-### [R](R.md)
+### [R](R/README.md)
 
-- [Reid Hoffman](R.md#reid-hoffman)
-- [Richard Kahn](R.md#richard-kahn)
-- [Roy Black](R.md#roy-black)
+- [Reid Hoffman](R/REID-HOFFMAN.md)
+- [Richard Kahn](R/RICHARD-KAHN.md)
+- [Roy Black](R/ROY-BLACK.md)
 
-### [S](S.md)
+### [S](S/README.md)
 
-- [Sarah Ferguson](S.md#sarah-ferguson)
-- [Sarah Ransome](S.md#sarah-ransome)
-- [SDFL](S.md#sdfl)
-- [SDNY](S.md#sdny)
-- [Shmitka Air Inc.](S.md#shmitka-air-inc)
-- [Sigrid McCawley](S.md#sigrid-mccawley)
-- [Southern Trust Company](S.md#southern-trust-company)
-- [Stephen Hawking](S.md#stephen-hawking)
-- [Steve Bannon](S.md#steve-bannon)
+- [Sarah Ferguson](S/SARAH-FERGUSON.md)
+- [Sarah Ransome](S/SARAH-RANSOME.md)
+- [SDFL](S/SDFL.md)
+- [SDNY](S/SDNY.md)
+- [Shmitka Air Inc.](S/SHMITKA-AIR-INC.md)
+- ... and 4 more
 
-### [V](V.md)
+### [V](V/README.md)
 
-- [Virginia Giuffre](V.md#virginia-giuffre)
+- [Virginia Giuffre](V/VIRGINIA-GIUFFRE.md)
 
-### [W](W.md)
+### [W](W/README.md)
 
-- [Woody Allen](W.md#woody-allen)
+- [Woody Allen](W/WOODY-ALLEN.md)
 
 ---
 
@@ -162,13 +156,6 @@ All document links point to [justice.gov/epstein](https://www.justice.gov/epstei
 | 6       | 00008529 - 00008998 | 13        |
 | 7       | 00008999 - 00009664 | 17        |
 | 8       | 00009665+           | 10,592    |
-
-## Usage
-
-Each letter page contains:
-- Table of Contents for quick navigation
-- Entity details including category, roles, companies, emails
-- Complete list of EFTA document references
 
 ## Source
 
